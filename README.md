@@ -6,4 +6,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
-|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| [Longest path in tree](#) \| [Tree DP](#)  |
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| [Longest path in tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](#)  |
