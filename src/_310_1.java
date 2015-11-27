@@ -42,7 +42,7 @@ import java.util.List;
  *              |
  *              .
  *
- * In fact, the second case can be computed in O(1) time instead spending a time proportional to the degree of u.
+ * In fact, the second case can be computed in O(1) time instead of spending a time proportional to the degree of u.
  * Otherwise, the runtime can be quadratic when the degree of some node is Omega(n).
  * The trick here is to maintain two heights of each node, the largest height (the conventional height), and the second largest height
  * (the height of the node by removing the branch w.r.t. the largest height).
