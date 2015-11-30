@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
 |311|Sparse Matrix Multiplication||
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|\[ [O(n^2) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309.java) \| [O(n) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309_1.java) \]|
