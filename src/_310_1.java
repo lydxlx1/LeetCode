@@ -47,7 +47,7 @@ import java.util.List;
  * The trick here is to maintain two heights of each node, the largest height (the conventional height), and the second largest height
  * (the height of the node by removing the branch w.r.t. the largest height).
  *
- * Therefore, after the dfs, all dp[i]'s are computed, and the problem can be answer trivially.
+ * Therefore, after the dfs, all dp[i]'s are computed, and the problem can be answered trivially.
  * The total runtime is still O(n).
  */
 public class _310_1 {
