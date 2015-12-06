@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \]|
+|314|Binary Tree Vertical Order Traversal&#x1f512;||
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
 |311|Sparse Matrix Multiplication&#x1f512;||
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
