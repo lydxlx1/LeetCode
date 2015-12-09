@@ -6,7 +6,7 @@ import java.util.Stack;
  * An O(n) solution using stack
  *
  * Inspired by https://leetcode.com/discuss/73824/, this problem can be solved in truly O(n) time via a stack.
- *  /
+ **/
 public class _316_1 {
     public String removeDuplicateLetters(String s) {
         Stack<Character> stack = new Stack<>();
