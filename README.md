@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \]|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \| [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
 |315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \]|
 |314|Binary Tree Vertical Order Traversal&#x1f512;||
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
