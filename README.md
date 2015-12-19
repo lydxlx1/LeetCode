@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|\[ [O(1) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_319.java) \]|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|\[ [O(n^2) brute-force](https://github.com/lydxlx1/LeetCode/blob/master/src/_318.java) \]|
 |317|Shortest Distance from All Buildings&#x1f512;||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \| [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
