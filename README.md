@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|\[ [Knapsack](https://github.com/lydxlx1/LeetCode/blob/master/src/_322.java) \]|
+|321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|\[ [Stack + Greedy](https://github.com/lydxlx1/LeetCode/blob/master/src/_321.java) \]|
 |320|Generalized Abbreviation&#x1f512;||
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|\[ [O(1) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_319.java) \]|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|\[ [O(n^2) brute-force](https://github.com/lydxlx1/LeetCode/blob/master/src/_318.java) \]|
