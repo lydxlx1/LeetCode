@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|325|Maximum Size Subarray Sum Equals k&#x1f512;||
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|\[ [Median Finding, Dutch National Flag ](https://github.com/lydxlx1/LeetCode/blob/master/src/_324.java)\]|
 |323|Number of Connected Components in an Undirected Graph&#x1f512;||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|\[ [Knapsack](https://github.com/lydxlx1/LeetCode/blob/master/src/_322.java) \]|
