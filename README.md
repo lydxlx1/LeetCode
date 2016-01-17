@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|\[ [O(n) in-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_328.java) \]|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|\[ [O(n log n) solution via Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_327.java) \]|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|\[ [An interesting O(log log n) solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_326.java) \]|
 |325|Maximum Size Subarray Sum Equals k&#x1f512;||
