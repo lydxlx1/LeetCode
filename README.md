@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|\[ [O(n log n) solution via Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_327.java) \]|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|\[ [An interesting O(log log n) solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_326.java) \]|
 |325|Maximum Size Subarray Sum Equals k&#x1f512;||
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|\[ [Median Finding, Dutch National Flag ](https://github.com/lydxlx1/LeetCode/blob/master/src/_324.java)\]|
 |323|Number of Connected Components in an Undirected Graph&#x1f512;||
@@ -24,7 +26,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|\[ [O(n^2) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309.java) \| [O(n) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309_1.java) \]|
 |308|Range Sum Query 2D - Mutable&#x1f512;||
-|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) \| [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) \| [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java)\]|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) \| [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) \| [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java) \]|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|\[ [Fibonacci Sequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_306.java) \]|
 
 <!-- &#x1f512;   for the lock -->
