@@ -32,5 +32,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|\[ [Fibonacci Sequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_306.java) \]|
 |305|Number of Islands II&#x1f512;||
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|\[ [Inclusion-Exclusion](https://github.com/lydxlx1/LeetCode/blob/master/src/_304.java) \]|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|\[ [Prefix Sum](https://github.com/lydxlx1/LeetCode/blob/master/src/_303.java) \]|
 
 <!-- &#x1f512;   for the lock -->
