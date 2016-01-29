@@ -12,7 +12,7 @@
  * What numbers are good for us? Well, we can add 1, 2, 3, ..., sum + 1, and if we patch a number x,
  * the range will be extended to [1, sum + x]. Then it is clear that we should greedy patch the number sum + 1.
  *
- * This gives us an O(log n + num.length)-time algorithm because of the following reason.
+ * This gives us an O(log n + num.length)-time algorithm because of the following reasons.
  * 1) The total time of all the "if" part sums up to O(num.length), and
  * 2) sum always doubles when the "otherwise" part happens, which results in an O(log n) runtime.
  */
