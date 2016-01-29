@@ -10,7 +10,7 @@
  *
  * Otherwise, we cannot directly take nums[i] and must add some smaller number to prevent forming holes.
  * What numbers are good for us? Well, we can add 1, 2, 3, ..., sum + 1, and if we patch a number x,
- * the range will be extended to [1, sum + x]. Then it is clear that we should greedy patch the number size + 1.
+ * the range will be extended to [1, sum + x]. Then it is clear that we should greedy patch the number sum + 1.
  *
  * This gives us an O(log n + num.length)-time algorithm because of the following reason.
  * 1) The total time of all the "if" part sums up to O(num.length), and
