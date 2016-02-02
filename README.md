@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
-|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_331.java) \]|
+|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_331.java) \| [Property of Full Binary Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_331_1.java) \]|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|\[ [Greedy Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_330.java) \]|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|\[ [O(nm) DP ](https://github.com/lydxlx1/LeetCode/blob/master/src/_329.java) \]|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|\[ [O(n) in-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_328.java) \]|
