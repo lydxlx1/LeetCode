@@ -37,6 +37,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|\[ [Inclusion-Exclusion](https://github.com/lydxlx1/LeetCode/blob/master/src/_304.java) \]|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|\[ [Prefix Sum](https://github.com/lydxlx1/LeetCode/blob/master/src/_303.java) \]|
 |302|Smallest Rectangle Enclosing Black Pixels&#x1f512;||
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) \| [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 
  
 <!-- &#x1f512;   for the lock -->
