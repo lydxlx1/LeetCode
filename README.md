@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|333|Largest BST Subtree&#x1f512;||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|\[ [Euler Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_332.java) \]|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_331.java) \| [Property of Full Binary Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_331_1.java) \]|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|\[ [Greedy Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_330.java) \]|
