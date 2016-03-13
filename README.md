@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|337|[House Robber iii](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|\[ [Geometry](https://github.com/lydxlx1/LeetCode/blob/master/src/_335.java) \]|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|\[ [LIS](https://github.com/lydxlx1/LeetCode/blob/master/src/_334.java) \]|
 |333|Largest BST Subtree&#x1f512;||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|\[ [Euler Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_332.java) \]|
