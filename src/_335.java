@@ -15,7 +15,9 @@
  *    |    |       |           |        |                 |
  *    <----v       <-----------v        ------------------v
  *
- * ( "*" denotes the starting position )
+ * ( "*" denotes the starting position. )
+ * ( I just notice that the direction of the spiral is reversed,
+ * but that should not affect the proposes of illustrating all the three different intersections.)
  *
  * Therefore, we can only keeps track of only O(1) amount of information as we proceed.
  */
