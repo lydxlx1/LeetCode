@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * LeetCode 336 - Palindrome Pairs
  *
- * A suboptimal solution that performs well in real time.
+ * A suboptimal solution that performs well in real.
  * Let us say s1 + s2 is a valid solution.
  * Consider the following three cases.
  * |s1| > |s2|
