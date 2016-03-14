@@ -28,7 +28,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|\[ [O(n^2) brute-force](https://github.com/lydxlx1/LeetCode/blob/master/src/_318.java) \]|
 |317|Shortest Distance from All Buildings&#x1f512;||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \| [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
-|315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \]|
+|315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \| [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_315_1.java) \]|
 |314|Binary Tree Vertical Order Traversal&#x1f512;||
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
