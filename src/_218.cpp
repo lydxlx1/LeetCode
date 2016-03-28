@@ -14,6 +14,12 @@ when two endpoints are sharing the same x-coordinate. We need to obey exactly th
 
 Some "nasty" examples.
 
++---+----+
+|   |    |
+|   |    |
++---+----+
+
+
 +--------+
 |        |
 +-----+  |
@@ -21,6 +27,7 @@ Some "nasty" examples.
 +--+  |  |
 |  |  |  |
 +--+--+--+
+
 
 +--------+
 |        |
