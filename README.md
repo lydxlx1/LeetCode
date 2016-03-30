@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)&#x1f512;||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|\[ [A Naive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_336.java) \]|
