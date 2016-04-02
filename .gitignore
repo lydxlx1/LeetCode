@@ -14,3 +14,5 @@ hs_err_pid*
 .idea/
 LeetCode.iml
 bin/
+out/
+src/Solution.java
