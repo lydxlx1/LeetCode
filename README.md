@@ -46,7 +46,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |302|Smallest Rectangle Enclosing Black Pixels&#x1f512;||
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) \| [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) \]|
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \]|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \| [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 
  
 <!-- &#x1f512;   for the lock -->
