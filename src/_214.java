@@ -8,7 +8,7 @@
  * then finding the longest pair of prefixes that are equal.
  *
  * Unfortunately, this method requires quadratic time and space since
- * the length sum of all prefixes is 1+2+...+|s| = ?(|s|^2).
+ * the length sum of all prefixes is 1+2+...+|s| = Theta(|s|^2).
  *
  * Via the help of the Rolling Hash method, the above process can be optimized down to linear time.
  * For more details, you can visit [1] and [2].
