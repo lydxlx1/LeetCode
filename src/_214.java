@@ -22,18 +22,12 @@ public class _214 {
         long B = 29, MOD = 1000000007;
         long[] l = new long[n], r = l.clone();
         for (int i = 0; i < n; i++) l[i] = ((i == 0 ? 0 : l[i - 1]) * B + s.charAt(i) - 'a' + 1) % MOD;
-        for (int i = n - 1; i >= 0; i--)
-            r[i] = ((i == n - 1 ? 0 : r[i + 1]) * B + s.charAt(i) - 'a' + 1) % MOD;
-
+        for (int i = n - 1; i >= 0; i--) r[i] = ((i == n - 1 ? 0 : r[i + 1]) * B + s.charAt(i) - 'a' + 1) % MOD;
         long POW = B;
         for (int i=0; i<n; i++, POW = POW * B % MOD) {
             long rightHash = (r[0] - (i == n - 1 ? 0 : r[i + 1]) * POW % MOD + MOD) % MOD;
             if (l[i] == rightHash) pos = i;
         }
         return new StringBuilder().append(s.substring(pos + 1, n)).reverse().append(s).toString();
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new _214().shortestPalindrome(""));
     }
 }
