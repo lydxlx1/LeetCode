@@ -1,6 +1,6 @@
 /**
  * LeetCode 214 - Shortest Palindrome
- * <p>
+ *
  * O(n) Rabin-Karp rolling hash
  *
  * This problem is indeed computing the longest palindromic prefix of a string s.
