@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)&#x1f512;||
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)&#x1f512;||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
@@ -47,6 +48,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) \| [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) \]|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \| [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
+
 
  
 <!-- &#x1f512;   for the lock -->
