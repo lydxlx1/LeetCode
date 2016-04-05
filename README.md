@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|341|Flatten Nested List Iterator&#x1f512;||
 |340|Longest Substring with At Most K Distinct Characters&#x1f512;||
 |339|Nested List Weight Sum&#x1f512;||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
