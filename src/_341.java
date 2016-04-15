@@ -11,14 +11,6 @@ public class _341 implements Iterator<Integer> {
 
     public _341(List<NestedInteger> nestedList) {
         s = new ArrayDeque<>(nestedList == null ? Arrays.asList() : nestedList);
-        squeeze();
-    }
-
-    private void squeeze() {
-        while (!s.isEmpty() && !s.peekFirst().isInteger()) {
-            Deque<NestedInteger> list = new ArrayDeque<>(s.pollFirst().getList());
-            while (!list.isEmpty()) s.addFirst(list.pollLast());
-        }
     }
 
     @Override
@@ -28,8 +20,11 @@ public class _341 implements Iterator<Integer> {
 
     @Override
     public boolean hasNext() {
-        squeeze();
-        return s.isEmpty();
+        while (!s.isEmpty() && !s.peekFirst().isInteger()) {
+            List<NestedInteger> list = s.pollFirst().getList();
+            for (int i = list.size() - 1; i >= 0; i--) s.addFirst(list.get(i));
+        }
+        return !s.isEmpty();
     }
 }
 
