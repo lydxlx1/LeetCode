@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|\[ [Stack/DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java) \]|
 |340|Longest Substring with At Most K Distinct Characters&#x1f512;||
