@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|\[ [Two-Pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_345.java) \]|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|\[ [String](https://github.com/lydxlx1/LeetCode/blob/master/src/_344.java) \]|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
