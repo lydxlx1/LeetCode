@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|348|Design Tic-Tac-Toe&#x1f512;||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) \]|
 |346|Moving Average from Data Stream&#x1f512;||
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|\[ [Two-Pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_345.java) \]|
