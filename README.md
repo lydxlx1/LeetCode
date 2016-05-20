@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|\[ [Java Stream](https://github.com/lydxlx1/LeetCode/blob/master/src/_349.java) \]|
 |348|Design Tic-Tac-Toe&#x1f512;||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) \| [Map+CountingSort](https://github.com/lydxlx1/LeetCode/blob/master/src/_347_1.java) \]|
 |346|Moving Average from Data Stream&#x1f512;||
