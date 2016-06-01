@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_352.java) \]|
+|351|Android Unlock Patterns&#x1f512;||
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|\[ [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_350.java) \]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|\[ [Java Stream](https://github.com/lydxlx1/LeetCode/blob/master/src/_349.java) \]|
 |348|Design Tic-Tac-Toe&#x1f512;||
