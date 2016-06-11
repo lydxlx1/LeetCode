@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) \]|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) \| [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
 |353|Design Snake Game&#x1f512;||
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_352.java) \]|
 |351|Android Unlock Patterns&#x1f512;||
