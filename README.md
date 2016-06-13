@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
 |356|Line Reflection&#x1f512;||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) \| [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
