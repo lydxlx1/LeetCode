@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|358|Rearrange String k Distance Apart&#x1f512;||
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
 |356|Line Reflection&#x1f512;||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
