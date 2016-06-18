@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|361|Bomb Enemy&#x1f512;||
 |360|Sort Transformed Array&#x1f512;||
 |359|Logger Rate Limiter&#x1f512;||
 |358|Rearrange String k Distance Apart&#x1f512;||
