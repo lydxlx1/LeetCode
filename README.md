@@ -6,6 +6,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_367.java) \]|
+|366|Find Leaves of Binary Tree&#x1f512;||
+|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|\[ [Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_365.java) \]|
+|364|Nested List Weight Sum II&#x1f512;||
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_363.java) \]|
+|362|Design Hit Counter&#x1f512;||
 |361|Bomb Enemy&#x1f512;||
 |360|Sort Transformed Array&#x1f512;||
 |359|Logger Rate Limiter&#x1f512;||
