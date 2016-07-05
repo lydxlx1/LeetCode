@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|\[ [Bit Manipulation](https://github.com/lydxlx1/LeetCode/blob/master/src/_371.java) \]|
+|370|Range Addition&#x1f512;||
+|369|Plus One Linked List&#x1f512;||
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_368.java) \]|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_367.java) \]|
 |366|Find Leaves of Binary Tree&#x1f512;||
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|\[ [Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_365.java) \]|
