@@ -10,6 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_375.java) \]|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_374.java) \]|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) \| [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/)|\[ [Most-significant Bit -> Least-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372.java) \| [Least-significant Bit -> Most-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372_1.java) \]|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|\[ [Bit Manipulation](https://github.com/lydxlx1/LeetCode/blob/master/src/_371.java) \]|
 |370|Range Addition&#x1f512;||
 |369|Plus One Linked List&#x1f512;||
