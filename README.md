@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) \]|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_375.java) \]|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_374.java) \]|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) \| [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|\[ [Bit Manipulation](https://github.com/lydxlx1/LeetCode/blob/master/src/_371.java) \]|
 |370|Range Addition&#x1f512;||
