@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_377.java) \]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) \]|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_375.java) \]|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_374.java) \]|
