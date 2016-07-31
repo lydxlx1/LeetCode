@@ -7,6 +7,12 @@ import java.util.TreeMap;
  * LeetCode 218 - The Skyline Problem
  *
  * Same idea as the C++ solution, but written in Java.
+ *
+ * Say u is an element of a
+ * Then, u is an endpoint point, where
+ * u[0] is the x-coordinate,
+ * u[1] is the y-coordinate,
+ * u[2] = 0 if u is a left endpoint, u[2] = 1 if it is a right endpoint.
  */
 public class _218 {
     public List<int[]> getSkyline(int[][] buildings) {
