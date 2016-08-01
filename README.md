@@ -75,7 +75,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |311|Sparse Matrix Multiplication&#x1f512;||
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|\[ [O(n^2) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309.java) \| [O(n) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309_1.java) \]|
-|308|Range Sum Query 2D - Mutable&#x1f512;||
+|308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|\[ [2D-Sqrt Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_308.java) \| [2D Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_308_1.java) \]|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) \| [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) \| [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java) \]|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|\[ [Fibonacci Sequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_306.java) \]|
 |305|Number of Islands II&#x1f512;||
