@@ -44,7 +44,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|\[ [Stack/DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java) \]|
-|340|Longest Substring with At Most K Distinct Characters&#x1f512;||
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|\[ [O(n) Sliding Window](https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java) \| [O(n log n) Bisect](https://github.com/lydxlx1/LeetCode/blob/master/src/_340_1.java) \]|
 |339|Nested List Weight Sum&#x1f512;||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
