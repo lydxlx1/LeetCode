@@ -87,8 +87,20 @@ I will keep updating the list and feel free to share any of your thoughts!
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) \| [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \]|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) \| [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) \| [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \| [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]| 
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_196.sql) \]| 
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_184.sql) \]| 
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_183.sql) \]| 
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_182.sql) \]| 
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_181.sql) \]| 
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_180.sql) \]| 
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_178.sql) \]| 
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_177.sql) \]| 
+|176|[Second Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_176.sql) \]| 
+|175|[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]| 
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java) \]|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_10.java) \]|
