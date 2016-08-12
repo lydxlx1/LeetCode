@@ -8,30 +8,33 @@ import java.util.*;
  * Serialize and Deserialize a Trie
  * <p>
  * To maintain the list ordering, we prefix each string with its index (in fixed length) in the list.
- * Though the algorithm is correct, the constant is too big.
+ * Though the algorithm is correct, the constant is too large.
  */
 public class _271_1 {
 
     static class Trie {
-        Trie[] children = new Trie[256];
+        Map<Integer, Trie> children = new HashMap<>();
+        TreeSet<Integer> keys = new TreeSet<>();
         int cnt;
     }
 
     void insert(Trie root, String s) {
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (root.children[ch] == null) root.children[ch] = new Trie();
-            root = root.children[ch];
+            int ch = s.charAt(i);
+            if (!root.children.containsKey(ch)) {
+                root.children.put(ch, new Trie());
+                root.keys.add(ch);
+            }
+            root = root.children.get(ch);
         }
         root.cnt++;
     }
 
     void dfs(Trie root, StringJoiner joiner) {
-        if (root == null) joiner.add("NULL");
-        else {
-            joiner.add(String.format("%d", root.cnt));
-            for (Trie child : root.children) dfs(child, joiner);
-        }
+        joiner.add(String.format("%d", root.cnt));
+        for (int key : root.keys) joiner.add(String.format("%d", key));
+        joiner.add("-1");
+        for (int key : root.keys) dfs(root.children.get(key), joiner);
     }
 
     // Encodes a list of strings to a single string.
@@ -45,14 +48,12 @@ public class _271_1 {
     }
 
     Trie dfs(Deque<String> deque) {
-        String token = deque.pollFirst();
-        if (token.equals("NULL")) return null;
-        else {
-            Trie root = new Trie();
-            root.cnt = Integer.parseInt(token);
-            for (int i = 0; i < root.children.length; i++) root.children[i] = dfs(deque);
-            return root;
-        }
+        Trie root = new Trie();
+        root.cnt = Integer.parseInt(deque.pollFirst());
+        for (int key = Integer.parseInt(deque.pollFirst()); key != -1; key = Integer.parseInt(deque.pollFirst()))
+            root.keys.add(key);
+        for (int key : root.keys) root.children.put(key, dfs(deque));
+        return root;
     }
 
     void collect(Trie root, int len, StringBuilder builder, List<String> list) {
@@ -60,12 +61,11 @@ public class _271_1 {
             String s = builder.toString().substring(10); // skip the dummy prefix index
             for (int i = 0; i < root.cnt; i++) list.add(s);
         }
-        for (int i = 0; i < root.children.length; i++)
-            if (root.children[i] != null) {
-                builder.append((char) i);
-                collect(root.children[i], len + 1, builder, list);
-                builder.deleteCharAt(len);
-            }
+        for (int key : root.keys) {
+            builder.append((char) key);
+            collect(root.children.get(key), len + 1, builder, list);
+            builder.deleteCharAt(len);
+        }
     }
 
     // Decodes a single string to a list of strings.
