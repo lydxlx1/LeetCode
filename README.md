@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_384.java) \]|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_383.java) \]|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|\[ [Bisect + Young Tableau](https://github.com/lydxlx1/LeetCode/blob/master/src/_378.java) \]|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_377.java) \]|
