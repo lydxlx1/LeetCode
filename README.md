@@ -108,6 +108,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |175|[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]| 
 |139|[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) \| [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java) \]|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java) \]|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_22.java) \| [Recursion](https://github.com/lydxlx1/LeetCode/blob/master/src/_22_1.java) \]|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_10.java) \]|
