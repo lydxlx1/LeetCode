@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
  * LeetCode 269 - Alien Dictionary
  * <p>
  * Topological Sort
- * Faster algorithm using primitive types and arrays only.
+ * Faster solution using primitive types and arrays only.
  */
 public class _269_1 {
     public String alienOrder(String[] words) {
