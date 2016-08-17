@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * <p>
  * Topological Sort
  * <p>
- * String.chars() returns a IntStream, which is sweet. :)
+ * String.chars() returns an IntStream, which is sweet. :)
  */
 public class _269 {
     public String alienOrder(String[] words) {
