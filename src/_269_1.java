@@ -8,6 +8,13 @@ import java.util.stream.Collectors;
  * <p>
  * Topological Sort
  * Faster solution using primitive types and arrays only.
+ *
+ * Consider the following case, which is also missed by the solution on LeetCode.
+ *
+ * ["ab", "a"]
+ *
+ * Clearly, we should return "" indicating there is no solution.
+ * But the solution given by LeetCode is "ab", which is incorrect.
  */
 public class _269_1 {
     public String alienOrder(String[] words) {
@@ -22,12 +29,15 @@ public class _269_1 {
         for (int i = 0; i < 26; i++) if (hits[i]) cnt++;
 
         // Build the graph
-        for (int i = 0; i < words.length - 1; i++)
-            for (int j = 0; j < words[i].length() && j < words[i + 1].length(); j++)
+        for (int i = 0; i < words.length - 1; i++) {
+            int j = 0;
+            for (j = 0; j < words[i].length() && j < words[i + 1].length(); j++)
                 if (words[i].charAt(j) != words[i + 1].charAt(j)) {
                     g[words[i].charAt(j) - 'a'][words[i + 1].charAt(j) - 'a'] = true;
                     break;
                 }
+            if (j == words[i + 1].length() && words[i].length() > words[i + 1].length()) return ""; // Don't miss this case.
+        }
         for (int i = 0; i < 26; i++)
             for (int j = 0; j < 26; j++)
                 if (g[i][j]) inDegree[j]++;
