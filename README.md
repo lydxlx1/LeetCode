@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |---|---|---|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_388.java) \| [Recursively Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_388_1.java) \]|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|\[ [Brute-Force](https://github.com/lydxlx1/LeetCode/blob/master/src/_387.java) \]|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|\[ [Using a stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_386.java) \| [Recursive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_386_1.java) \]|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|\[ [Char-by-char Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_385.java) \| [Using Scanner](https://github.com/lydxlx1/LeetCode/blob/master/src/_385_1.java) \]|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_384.java) \]|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_383.java) \]|
