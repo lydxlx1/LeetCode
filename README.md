@@ -13,6 +13,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_384.java) \]|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_383.java) \]|
 |381|[Insert Delete GetRandom O(1) Duplicate Allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_381.java) \]|
+|379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|\[ [Simple Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_379.java) \]|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|\[ [Bisect + Young Tableau](https://github.com/lydxlx1/LeetCode/blob/master/src/_378.java) \]|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_377.java) \]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) \]|
@@ -35,7 +36,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |359|Logger Rate Limiter&#x1f512;||
 |358|Rearrange String k Distance Apart&#x1f512;||
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
-|356|Line Reflection&#x1f512;||
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_356.java) \]|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) \| [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
 |353|Design Snake Game&#x1f512;||

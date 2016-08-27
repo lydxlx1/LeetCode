@@ -2,6 +2,17 @@
  * LeetCode 379 - Design Phone Directory
  *
  * This problem is a bit weird. I don't see why the function check() is particular useful.
+ * Ideally, one would like to do the following two steps in a row.
+ *
+ * if (check(number)) get(number);
+ *
+ * But, the get() function in this problem is not restricted and thus can return any available numbers.
+ *
+ * The problem will become more interesting if it asks for implementing one more method:
+ *
+ * bool checkAndGet(int number)
+ * @return - Return true if number is available and reserve it on the fly.
+ *         - Return false if number is already requested, indicating the failure of this attempt.
  *
  */
 public class _379 {
