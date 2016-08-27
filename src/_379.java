@@ -1,7 +1,7 @@
 /**
  * LeetCode 379 - Design Phone Directory
  *
- * This problem is a bit weird. I don't see why the function check() is particular useful.
+ * This problem is a bit weird. I don't see why the function check() is particularly useful.
  * Ideally, one would like to do the following two steps in a row.
  *
  * if (check(number)) get(number);
