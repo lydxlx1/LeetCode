@@ -9,7 +9,7 @@ import java.util.*;
  * 1) no two rectangles overlap,
  * 2) total area is equal to the area of the minimum bounding box.
  *
- * Assume we have a black box that supports the following queries:
+ * Assume we have a black box that supports the following operations:
  * 1) insert a segment (start, end), both exclusive,
  * 2) remove an existing segment (start, end),
  * 3) query whether there are two segments overlapping with each other.
