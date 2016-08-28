@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
-|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|\[ [Sweepline + TreeMap](https://github.com/lydxlx1/LeetCode/blob/master/src/_391_1.java) \| [Sweepline + Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_391.java) \]|
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|\[ [Sweepline + TreeMap](https://github.com/lydxlx1/LeetCode/blob/master/src/_391.java) \| [Sweepline + Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_391_1.java) \]|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_388.java) \| [Recursively Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_388_1.java) \]|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|\[ [Brute-Force](https://github.com/lydxlx1/LeetCode/blob/master/src/_387.java) \]|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|\[ [Using a stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_386.java) \| [Recursive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_386_1.java) \]|
