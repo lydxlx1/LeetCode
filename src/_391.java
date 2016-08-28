@@ -49,51 +49,13 @@ public class _391 {
         TreeMap<Integer, Integer> tree = new TreeMap<>();
         for (int[] endPoint : endPoints) {
             int type = endPoint[1], y1 = a[endPoint[0]][1], y2 = a[endPoint[0]][3];
-//            System.out.println(tree);
-//            System.out.printf("type = %d, y1 = %d, y2 = %d%n", type, y1, y2);
             if (type == 0) {
                 Integer y;
-//                System.out.println(tree.floorKey(y1));
                 if ((y = tree.floorKey(y1)) != null && tree.get(y) > y1) return false;
-//                System.out.println(tree.ceilingKey(y1));
                 if ((y = tree.ceilingKey(y1)) != null && y < y2) return false;
                 tree.put(y1, y2);
             } else tree.remove(y1);
         }
         return true;
-    }
-
-    public static void main(String[] args) {
-//        int[][] a = {
-//                {1, 1, 3, 3},
-//                {3, 1, 4, 2},
-//                {1, 3, 2, 4},
-//                {2, 2, 4, 4}};
-
-//        int[][] a = {
-//                {1, 1, 3, 3},
-//                {3, 1, 4, 2},
-//                {1, 3, 2, 4},
-//                {3, 2, 4, 4}};
-
-//        int[][] a = {
-//        {1,1,2,3},
-//        {1,3,2,4},
-//        {3,1,4,2},
-//        {3,2,4,4}
-//        };
-//        
-//        int[][] a = {
-//                {1, 1, 3, 3},
-//                {3, 1, 4, 2},
-//                {3, 2, 4, 4},
-//                {1, 3, 2, 4},
-//                {2, 3, 3, 4}
-//        };
-
-        int[][] a = {{0, 0, 4, 1}, {7, 0, 8, 2}, {5, 1, 6, 4}, {6, 0, 7, 2}, {4, 0, 5, 1}, {4, 2, 5, 3}, {2, 1, 4, 3}, {0, 2, 2, 3}, {0, 1, 2, 2}, {6, 2, 8, 3}, {5, 0, 6, 1}, {4, 1, 5, 2}};
-
-        _391 s = new _391();
-        System.out.println(s.isRectangleCover(a));
     }
 }
