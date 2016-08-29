@@ -25,7 +25,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) \| [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|\[ [Most-significant Bit -> Least-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372.java) \| [Least-significant Bit -> Most-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372_1.java) \]|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|\[ [Bit Manipulation](https://github.com/lydxlx1/LeetCode/blob/master/src/_371.java) \]|
-|370|Range Addition&#x1f512;||
+|370|[Range Addition](https://leetcode.com/problems/range-addition/)|\[ [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_370.java) \| [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_1.java) \| [O(n) Prefix Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_2.java) \]|
 |369|Plus One Linked List&#x1f512;||
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_368.java) \]|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_367.java) \]|
@@ -81,7 +81,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |317|Shortest Distance from All Buildings&#x1f512;||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \| [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
 |315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \| [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_315_1.java) \]|
-|314|Binary Tree Vertical Order Traversal&#x1f512;||
+|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_314.java) \]|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
 |311|Sparse Matrix Multiplication&#x1f512;||
