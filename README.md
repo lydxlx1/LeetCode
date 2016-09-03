@@ -125,6 +125,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_22.java) \| [Recursion](https://github.com/lydxlx1/LeetCode/blob/master/src/_22_1.java) \]|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_10.java) \]|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_4.java) \]|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|\[ [Two Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java) \| [Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java) \]|
 
 
  
