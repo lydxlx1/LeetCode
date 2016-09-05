@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |---|---|---|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|\[ [O(256N) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_395.java) \]|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_394.java) \]|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_393.java) \]|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_392.java) \]|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|\[ [Sweepline + TreeMap](https://github.com/lydxlx1/LeetCode/blob/master/src/_391.java) \| [Sweepline + Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_391_1.java) \]|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|\[ [O(log n) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_390.java) \]|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_389.java) \]|

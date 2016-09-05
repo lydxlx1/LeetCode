@@ -1,8 +1,3 @@
-import com.sun.xml.internal.rngom.digested.DInterleavePattern;
-
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * LeetCode 340 - Longest Substring with At Most K Distinct Characters
  * <p>
