@@ -3,6 +3,9 @@
  *
  * Construction method
  * O(n) space & time
+ *
+ * For a Binary Search Tree (with unique keys), given its pre-order/in-order/post-order traversal,
+ * it is sufficient to reconstruct the original tree.
  */
 public class _255 {
     static class Tree {
