@@ -127,6 +127,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |139|[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) &#124; [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|\[ [Xor](https://github.com/lydxlx1/LeetCode/blob/master/src/_136.java) &#124; [Randomized Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_136_1.java) \]|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_127.java) \]|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java) \]|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java) \]|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java) \]|
