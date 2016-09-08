@@ -85,7 +85,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |317|Shortest Distance from All Buildings&#x1f512;||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) &#124; [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
 |315|[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) &#124; [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_315_1.java) \]|
-|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_314.java) \]|
+|314|[Binary Tree Vertical Order TGraversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_314.java) \]|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
 |311|Sparse Matrix Multiplication&#x1f512;||
@@ -125,6 +125,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |176|[Second Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_176.sql) \]| 
 |175|[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]| 
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) &#124; [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|\[ [Doubly Connected Linked List + Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_146.java) \]|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) &#124; [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|\[ [Xor](https://github.com/lydxlx1/LeetCode/blob/master/src/_136.java) &#124; [Randomized Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_136_1.java) \]|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
