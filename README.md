@@ -129,7 +129,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |79|[Word Search](https://leetcode.com/problems/word-search/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java) \]|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java) \]|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java) \]|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_36.java) &#124; \]|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_36.java) \]|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_22.java) &#124; [Recursion](https://github.com/lydxlx1/LeetCode/blob/master/src/_22_1.java) \]|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_10.java) \]|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_4.java) \]|
