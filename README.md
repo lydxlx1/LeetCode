@@ -113,6 +113,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) &#124; [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|\[ [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_212.java) \]|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_206.java) \]| 
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]| 
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_196.sql) \]| 
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_184.sql) \]| 
