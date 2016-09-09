@@ -1,6 +1,3 @@
-import junit.framework.Assert;
-import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -38,18 +35,5 @@ public class _127 {
             head++;
         }
         return 0;
-    }
-
-    @Test
-    public void test1() {
-        Set<String> set = new HashSet<>(Arrays.asList("hot","dot","dog","lot","log"));
-        int ans = (new _127()).ladderLength("hit", "cog", set);
-        Assert.assertEquals(ans, 5);
-
-        ans = (new _127()).ladderLength("hit", "coc", set);
-        Assert.assertEquals(ans, 0);
-
-        ans = (new _127()).ladderLength("hit", "hit", set);
-        Assert.assertEquals(ans, 1);
     }
 }

@@ -18,3 +18,4 @@ out/
 src/Solution.java
 *.in
 *.out
+tests/SolutionTest.java

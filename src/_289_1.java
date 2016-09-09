@@ -1,10 +1,6 @@
-import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-
-import static junit.framework.Assert.assertEquals;
 
 /**
  * LeetCode 289 - Game of Life
@@ -61,12 +57,5 @@ public class _289_1 {
                 if (board[i][j] == 1 && 2 <= cnt && cnt <= 3 || board[i][j] == 0 && cnt == 3) board[i][j] = 1;
                 else board[i][j] = 0;
             }
-    }
-
-    @Test
-    public void test1() {
-        int[][] board = {{1, 1}, {1, 0}};
-        (new _289_1()).gameOfLife(board);
-        assertEquals(Arrays.deepToString(board), Arrays.deepToString(new int[][]{{1, 1}, {1, 1,}}));
     }
 }

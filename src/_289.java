@@ -1,8 +1,4 @@
-import org.junit.Test;
-
 import java.util.Arrays;
-
-import static junit.framework.Assert.assertEquals;
 
 /**
  * LeetCode 289 - Game of Life
@@ -27,12 +23,5 @@ public class _289 {
         for (int i = 0; i < board.length; i++)
             for (int j = 0; j < board[i].length; j++)
                 board[i][j] >>= 1;
-    }
-
-    @Test
-    public void test1() {
-        int[][] board = {{1, 1}, {1, 0}};
-        (new _289()).gameOfLife(board);
-        assertEquals(Arrays.deepToString(board), Arrays.deepToString(new int[][]{{1, 1}, {1, 1,}}));
     }
 }
