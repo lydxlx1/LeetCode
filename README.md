@@ -23,7 +23,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|\[ [Simple Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_379.java) \]|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|\[ [Bisect + Young Tableau](https://github.com/lydxlx1/LeetCode/blob/master/src/_378.java) \]|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_377.java) \]|
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) \]|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) &#124; [O(n) In-place Maximal/Minimal Finding](https://github.com/lydxlx1/LeetCode/blob/master/src/_376_1.java) \]|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_375.java) \]|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_374.java) \]|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) &#124; [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
