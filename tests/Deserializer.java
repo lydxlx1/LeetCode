@@ -3,7 +3,6 @@ public class Deserializer {
         if (values.length == 0) return null;
         TreeNode[] nodes = new TreeNode[values.length];
         for (int i = 0; i < values.length; i++) nodes[i] = values[i] == null ? null : new TreeNode(values[i]);
-        int pre = 0;
         for (int i = 0, j = i + 1; i < values.length && j < values.length; i++)
             if (nodes[i] != null) {
                 if (j < values.length) nodes[i].left = nodes[j++];
