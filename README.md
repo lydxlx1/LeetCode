@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|397 |[Integer Replacement][397_t]|\[ [BFS][397] \]|
 |396 |[Rotate Fucntion][396_t]|\[ [Solution][396] \]|
 |395 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|\[ [O(256N) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_395.java) &#124; [Solution with Pruning](https://github.com/lydxlx1/LeetCode/blob/master/src/_395_1.java) \]|
 |394 |[Decode String](https://leetcode.com/problems/decode-string/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_394.java) \]|
@@ -163,6 +164,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [79_t]:   https://leetcode.com/problems/word-search/
 [127_t]:  https://leetcode.com/problems/word-ladder/
 [396_t]:  https://leetcode.com/problems/rotate-function/
+[397_t]:  https://leetcode.com/problems/integer-replacement/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -180,3 +182,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
+[397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
