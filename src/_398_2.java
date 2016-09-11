@@ -4,7 +4,8 @@ import java.util.Random;
  * LeetCode 398 - Random Pick Index
  * <p>
  * O(1) build time
- * O(n) query time using random sampling
+ * O(n) expected query time using random sampling
+ * It turns out that the expected runtime of this method is even faster than reservoir sampling.
  */
 public class _398_2 {
     Random rand;
