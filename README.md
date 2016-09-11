@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|399 |[Evaluate Division][399_t]|\[ [Floyed][399] &#124; [DFS][399_1] \]|
 |398 |[Random Pick Index][398_t]|\[ [Solution1][398] &#124; [Solution2][398_1] &#124; [Solution3][398_2] \]|
 |397 |[Integer Replacement][397_t]|\[ [BFS][397] \]|
 |396 |[Rotate Fucntion][396_t]|\[ [Solution][396] \]|
@@ -167,6 +168,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
+[399_t]:  https://leetcode.com/problems/evaluate-division/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -188,3 +190,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [398]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398.java
 [398_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398_1.java
 [398_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398_2.java
+[399]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399.java
+[399_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399_1.java

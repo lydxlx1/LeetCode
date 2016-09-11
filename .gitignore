@@ -16,6 +16,8 @@ LeetCode.iml
 bin/
 out/
 src/Solution.java
+src/Solution*
 *.in
 *.out
 tests/SolutionTest.java
+tests/Solution*
