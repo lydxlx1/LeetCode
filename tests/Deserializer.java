@@ -11,15 +11,19 @@ public class Deserializer {
         return nodes[0];
     }
 
+    public static ListNode deserializeListNode(Integer[] values) {
+        ListNode header = new ListNode(0), ptr = header;
+        for (int value : values) {
+            ptr.next = new ListNode(value);
+            ptr = ptr.next;
+        }
+        return header.next;
+    }
+
     private static void dfs(TreeNode root) {
         if (root == null) return;
         System.out.println(root.val);
         dfs(root.left);
         dfs(root.right);
-    }
-
-    public static void main(String[] args) {
-        TreeNode root = deserializeTreeNode(new Integer[]{3, 9, 8, 4, 0, 1, 7, null, null, null, 2, 5});
-        dfs(root);
     }
 }
