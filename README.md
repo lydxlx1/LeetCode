@@ -144,8 +144,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_10.java) \]|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_4.java) \]|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|\[ [Not in-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_2.java) &#124; [In-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_2_1.java) \]|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|\[ [Two Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java) &#124; [Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java) \]|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|\[ [Two Pointers][1] &#124; [Hash Table][1_1] \]|
 
+
+[1]: https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
+[1_1]: https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
 
  
 <!-- &#x1f512;   for the lock -->
