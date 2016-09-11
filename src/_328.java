@@ -19,13 +19,3 @@ public class _328 {
         return odd;
     }
 }
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    public ListNode(int val) {
-        this.val = val;
-        next = null;
-    }
-}
