@@ -1,5 +1,5 @@
 public class Deserializer {
-    public static TreeNode deserialize(Integer[] values) {
+    public static TreeNode deserializeTreeNode(Integer[] values) {
         if (values.length == 0) return null;
         TreeNode[] nodes = new TreeNode[values.length];
         for (int i = 0; i < values.length; i++) nodes[i] = values[i] == null ? null : new TreeNode(values[i]);
@@ -19,7 +19,7 @@ public class Deserializer {
     }
 
     public static void main(String[] args) {
-        TreeNode root = deserialize(new Integer[]{3,9,8,4,0,1,7,null,null,null,2,5});
+        TreeNode root = deserializeTreeNode(new Integer[]{3, 9, 8, 4, 0, 1, 7, null, null, null, 2, 5});
         dfs(root);
     }
 }
