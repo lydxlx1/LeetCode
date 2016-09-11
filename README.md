@@ -145,8 +145,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 |4   |[Median of Two Sorted Arrays][4_t]|\[ [Binary Search][4] \]|
 |2   |[Add Two Numbers][2_t]            |\[ [Not in-place][2] &#124; [In-place][2_1] \]|
 |1   |[Two Sum][1_t]                    |\[ [Two Pointers][1] &#124; [Hash Table][1_1] \]|
-|1   |[Two Sum][1_t]                    |- [Two Pointers][1] &#124; 
-                                         - [Hash Table][1_1] \]|
 
 
 <!-- &#x1f512;   for the lock -->
