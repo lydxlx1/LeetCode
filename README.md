@@ -165,7 +165,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [72_t]:   https://leetcode.com/problems/edit-distance/
 [79_t]:   https://leetcode.com/problems/word-search/
 [127_t]:  https://leetcode.com/problems/word-ladder/
-[333_t]:  https://leetcode.com/problems/largest-bst-subtreee
+[333_t]:  https://leetcode.com/problems/largest-bst-subtree
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
