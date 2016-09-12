@@ -110,6 +110,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
+|271 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
 |269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) &#124; [Solution with smaller constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
@@ -165,7 +166,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [72_t]:   https://leetcode.com/problems/edit-distance/
 [79_t]:   https://leetcode.com/problems/word-search/
 [127_t]:  https://leetcode.com/problems/word-ladder/
-[333_t]:  https://leetcode.com/problems/largest-bst-subtree
+[270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
+[333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
@@ -186,11 +188,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [44]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
+[270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
 [398]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398.java
-[398_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398_1.java
-[398_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398_2.java
+[398_1]:  https://github.com/lydxlx1/LeetCode/blob/master/src/_398_1.java
+[398_2]:  https://github.com/lydxlx1/LeetCode/blob/master/src/_398_2.java
 [399]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399.java
 [399_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399_1.java
