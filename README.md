@@ -143,6 +143,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |79  |[Word Search][79_t]                |\[ [DFS][79] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
 |44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
+|40  |[Combination Sum II][40_t]         |\[ [DP Knapsack][40] \]|
 |39  |[Combination Sum][39_t]            |\[ [DP + Backtracking][39] \]|
 |37  |[Sudoku Solver][37_t]              |\[ [Greedy Backtracking Using Bitmask][37] &#124; [Greedy Backtracking][37_1] \]|
 |36  |[Valid Sudoku][36_t]               |\[ [Solution][36] \]|
@@ -162,6 +163,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [22_t]:   https://leetcode.com/problems/generate-parentheses/
 [36_t]:   https://leetcode.com/problems/valid-sudoku/
 [39_t]:   https://leetcode.com/problems/combination-sum/
+[40_t]:   https://leetcode.com/problems/combination-sum-ii/
 [37_t]:   https://leetcode.com/problems/sudoku-solver/
 [44_t]:   https://leetcode.com/problems/wildcard-matching/
 [72_t]:   https://leetcode.com/problems/edit-distance/
@@ -186,6 +188,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [37]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_37.java
 [37_1]:   https://github.com/lydxlx1/LeetCode/blob/master/src/_37_1.java
 [39]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_39.java
+[40]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_40.java
 [44]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java
 [44_1]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
