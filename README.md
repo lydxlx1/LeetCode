@@ -142,7 +142,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |127 |[Word Ladder][127_t]               |\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_127.java) \]|
 |79  |[Word Search][79_t]                |\[ [DFS][79] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
-|44  |[Wildcard Matching][44_t]          |\[ [DP][44] \]|
+|44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
 |39  |[Combination Sum][39_t]            |\[ [DP + Backtracking][39] \]|
 |37  |[Sudoku Solver][37_t]              |\[ [Greedy Backtracking Using Bitmask][37] &#124; [Greedy Backtracking][37_1] \]|
 |36  |[Valid Sudoku][36_t]               |\[ [Solution][36] \]|
@@ -187,6 +187,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [37_1]:   https://github.com/lydxlx1/LeetCode/blob/master/src/_37_1.java
 [39]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_39.java
 [44]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java
+[44_1]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
