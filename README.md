@@ -140,6 +140,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |136 |[Single Number](https://leetcode.com/problems/single-number/)|\[ [Xor](https://github.com/lydxlx1/LeetCode/blob/master/src/_136.java) &#124; [Randomized Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_136_1.java) \]|
 |128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
 |127 |[Word Ladder][127_t]               |\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_127.java) \]|
+|96  |[Unique Binary Search Trees][96_t]               |\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_96.java) \]|
 |79  |[Word Search][79_t]                |\[ [DFS][79] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
 |44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
@@ -168,6 +169,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [44_t]:   https://leetcode.com/problems/wildcard-matching/
 [72_t]:   https://leetcode.com/problems/edit-distance/
 [79_t]:   https://leetcode.com/problems/word-search/
+[96_t]:   https://leetcode.com/problems/unique-binary-search-trees/
 [127_t]:  https://leetcode.com/problems/word-ladder/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
