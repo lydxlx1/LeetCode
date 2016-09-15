@@ -98,7 +98,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |308 |[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|\[ [2D-Sqrt Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_308.java) &#124; [2D Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_308_1.java) \]|
 |307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) &#124; [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) &#124; [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java) \]|
 |306 |[Additive Number](https://leetcode.com/problems/additive-number/)|\[ [Fibonacci Sequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_306.java) \]|
-|305 |Number of Islands II&#x1f512;||
+|305 |[Number of Islands II][305_t]| \[ [Union-Find Set][305] \]|
 |304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|\[ [Inclusion-Exclusion](https://github.com/lydxlx1/LeetCode/blob/master/src/_304.java) \]|
 |303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|\[ [Prefix Sum](https://github.com/lydxlx1/LeetCode/blob/master/src/_303.java) \]|
 |302 |Smallest Rectangle Enclosing Black Pixels&#x1f512;||
@@ -112,6 +112,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
 |270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
 |269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) &#124; [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) &#124; [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
+|265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
@@ -171,7 +172,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [79_t]:   https://leetcode.com/problems/word-search/
 [96_t]:   https://leetcode.com/problems/unique-binary-search-trees/
 [127_t]:  https://leetcode.com/problems/word-ladder/
+[265_t]:  https://leetcode.com/problems/paint-house-ii/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
+[305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
@@ -195,7 +198,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [44_1]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
+[265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
+[305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
