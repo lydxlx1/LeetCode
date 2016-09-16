@@ -16,7 +16,6 @@ public class _272 {
     private Map<TreeNode, TreeNode> map;
 
     private TreeNode pred(TreeNode root) {
-        if (root == null) return root;
         if (root.left != null) {
             map.put(root.left, root);
             for (root = root.left; root.right != null; map.put(root.right, root), root = root.right) ;
@@ -28,7 +27,6 @@ public class _272 {
     }
 
     private TreeNode succ(TreeNode root) {
-        if (root == null) return root;
         if (root.right != null) {
             map.put(root.right, root);
             for (root = root.right; root.left != null; map.put(root.left, root), root = root.left) ;
