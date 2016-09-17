@@ -45,7 +45,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |361 |Bomb Enemy&#x1f512;||
 |360 |Sort Transformed Array&#x1f512;||
 |359 |Logger Rate Limiter&#x1f512;||
-|358 |Rearrange String k Distance Apart&#x1f512;||
+|358 |[Rearrange String k Distance Apart][358_t]| \[ [Greedy + Sliding Window][358] \]|
 |357 |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
 |356 |[Line Reflection](https://leetcode.com/problems/line-reflection/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_356.java) \]|
 |355 |[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
@@ -178,6 +178,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [272_t]:  https://leetcode.com/problems/closest-binary-search-tree-value-ii/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
+[358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
@@ -205,6 +206,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [272]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_272.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
+[358]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_358.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
 [398]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398.java
