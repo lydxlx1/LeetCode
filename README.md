@@ -105,6 +105,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) &#124; [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 |298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \]|
 |297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
+|291 |[Word Pattern II][291_t]|\[ [Backtracking][291] \]|
 |289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
 |285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) &#124; [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
@@ -176,6 +177,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [265_t]:  https://leetcode.com/problems/paint-house-ii/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
 [272_t]:  https://leetcode.com/problems/closest-binary-search-tree-value-ii/
+[291_t]:  https://leetcode.com/problems/word-pattern-ii/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
@@ -204,6 +206,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
 [272]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_272.java
+[291]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
 [358]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_358.java
