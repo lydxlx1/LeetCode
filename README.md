@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|403 |[Frog Jump][403_t]|\[ [DP][403] \]|
+|402 |[Remove K Digits][402_t]|\[ [Greedy + Monotone Stack][402] \]|
+|401 |[Binary Watch][401_t]|\[ [Brute-force 1][401] &#124; [Brute-force 2][401_1]\]|
+|400 |[Nth Digit][400_t]|\[ [Counting + Bisect][400] \]|
 |399 |[Evaluate Division][399_t]|\[ [Floyed][399] &#124; [DFS][399_1] \]|
 |398 |[Random Pick Index][398_t]|\[ [Solution1][398] &#124; [Solution2][398_1] &#124; [Solution3][398_2] \]|
 |397 |[Integer Replacement][397_t]|\[ [BFS][397] \]|
@@ -185,6 +189,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
 [399_t]:  https://leetcode.com/problems/evaluate-division/
+[400_t]:  https://leetcode.com/problems/nth-digit/
+[401_t]:  https://leetcode.com/problems/binary-watch/
+[402_t]:  https://leetcode.com/problems/remove-k-digits/
+[403_t]:  https://leetcode.com/problems/frog-jump/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -200,7 +208,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [39]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_39.java
 [40]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_40.java
 [44]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java
-[44_1]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
+[44_1]:   https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
@@ -217,4 +225,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [398_1]:  https://github.com/lydxlx1/LeetCode/blob/master/src/_398_1.java
 [398_2]:  https://github.com/lydxlx1/LeetCode/blob/master/src/_398_2.java
 [399]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399.java
-[399_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_399_1.java
+[399_1]:  https://github.com/lydxlx1/LeetCode/blob/master/src/_399_1.java
+[400]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_400.java
+[401]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_401.java
+[401_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_401_1.java
+[402]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_402.java
+[403]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_403.java
+
