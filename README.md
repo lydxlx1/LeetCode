@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|406 |[Queue Reconstruction by Height][406_t]|\[ [Greedy + Sorting][406] \]|
+|405 |[Convert a Number to Hexadecimal][405_t]|\[ [Bit Manipulation][405] \]|
+|404 |[Sum of Left Leaves][404_t]|\[ [DFS][404] \]|
 |403 |[Frog Jump][403_t]|\[ [DP][403] \]|
 |402 |[Remove K Digits][402_t]|\[ [Greedy + Monotone Stack][402] \]|
 |401 |[Binary Watch][401_t]|\[ [Brute-force 1][401] &#124; [Brute-force 2][401_1]\]|
@@ -193,6 +196,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [401_t]:  https://leetcode.com/problems/binary-watch/
 [402_t]:  https://leetcode.com/problems/remove-k-digits/
 [403_t]:  https://leetcode.com/problems/frog-jump/
+[404_t]:  https://leetcode.com/problems/sum-of-left-leaves/
+[405_t]:  https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+[406_t]:  https://leetcode.com/problems/queue-reconstruction-by-height/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -231,4 +237,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [401_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_401_1.java
 [402]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_402.java
 [403]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_403.java
+[404]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_404.java
+[405]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_405.java
+[406]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_406.java
 
