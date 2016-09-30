@@ -153,6 +153,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |96  |[Unique Binary Search Trees][96_t]               |\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_96.java) \]|
 |79  |[Word Search][79_t]                |\[ [DFS][79] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
+|47  |[Permutations II][47_t]            |\[ [next_permutation][47] \]|
 |44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
 |40  |[Combination Sum II][40_t]         |\[ [DP Knapsack][40] \]|
 |39  |[Combination Sum][39_t]            |\[ [DP + Backtracking][39] \]|
@@ -177,6 +178,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [40_t]:   https://leetcode.com/problems/combination-sum-ii/
 [37_t]:   https://leetcode.com/problems/sudoku-solver/
 [44_t]:   https://leetcode.com/problems/wildcard-matching/
+[47_t]:   https://leetcode.com/problems/permutations-ii
 [72_t]:   https://leetcode.com/problems/edit-distance/
 [79_t]:   https://leetcode.com/problems/word-search/
 [96_t]:   https://leetcode.com/problems/unique-binary-search-trees/
@@ -215,6 +217,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [40]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_40.java
 [44]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_44.java
 [44_1]:   https://github.com/lydxlx1/LeetCode/blob/master/src/_44_1.java
+[47]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_47.java
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
