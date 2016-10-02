@@ -39,7 +39,6 @@ public class _411 {
                 }
             }
         }
-        System.out.println(ans);
         return ans;
     }
 
