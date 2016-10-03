@@ -10,7 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |410 |[Split Array Largest Sum][410_t]|\[ [Bisect + Greedy][410] \]|
 |409 |[Longest Palindrome][409_t]|\[ [Counting][409] \]|
 |408 |[Valid Word Abbreviation][408_t]|\[ [Brute-force][408] \]|
-|407 |[Trapping Rain Water II][407_t]|\[ [Priority Queue][407] \]|
+|407 |[Trapping Rain Water II][407_t]|\[ [Priority Queue][407] &#124; [Dijkstra][407_1] &#124; [SPFA][407_2] \]|
 |406 |[Queue Reconstruction by Height][406_t]|\[ [Greedy + Sorting][406] \]|
 |405 |[Convert a Number to Hexadecimal][405_t]|\[ [Bit Manipulation][405] \]|
 |404 |[Sum of Left Leaves][404_t]|\[ [DFS][404] \]|
@@ -254,6 +254,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [405]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_405.java
 [406]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_406.java
 [407]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_407.java
+[407_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_407_1.java
+[407_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_407_2.java
 [408]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_408.java
 [409]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_409.java
 [410]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_410.java
