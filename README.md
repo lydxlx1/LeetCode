@@ -121,6 +121,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
 |285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) &#124; [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
+|277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
 |272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]| 
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
@@ -191,6 +192,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [265_t]:  https://leetcode.com/problems/paint-house-ii/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
 [272_t]:  https://leetcode.com/problems/closest-binary-search-tree-value-ii/
+[277_t]:  https://leetcode.com/problems/find-the-celebrity/
 [291_t]:  https://leetcode.com/problems/word-pattern-ii/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
@@ -233,6 +235,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
 [272]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_272.java
+[277]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_277.java
 [291]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291.java
 [291_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291_1.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
