@@ -75,7 +75,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |343 |[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342 |[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
 |341 |[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|\[ [Stack/DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java) \]|
-|340 |[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|\[ [O(n) Sliding Window](https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java) &#124; [O(n log n) Bisect](https://github.com/lydxlx1/LeetCode/blob/master/src/_340_1.java) \]|
+|340 |[Longest Substring with At Most K Distinct Characters][340_t]|\[ [O(n) Sliding Window][340] &#124; [O(n log n) Bisect][340_1] &#124; [Slinding Window Shorter Code][340_2] &#124; [Sliding Window for Streaming Data (1 pass)][340_3] \]|
 |339 |Nested List Weight Sum&#x1f512;||
 |338 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337 |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
@@ -199,6 +199,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [302_t]:  https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
+[340_t]:  https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 [358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
@@ -245,6 +246,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [302]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_302.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
+[340]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java
+[340_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_1.java
+[340_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_2.java
+[340_3]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_3.java
 [358]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_358.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
