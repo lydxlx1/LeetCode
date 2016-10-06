@@ -1,5 +1,5 @@
 /**
- * LeetCode 158 - Read N Characters Given Reader4 II - Call multiple times
+ * LeetCode 158 - Read N Characters Given Read4 II - Call multiple times
  * <p>
  * No thing too special. Just read the problem statement carefully.
  */
