@@ -76,7 +76,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |342 |[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
 |341 |[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|\[ [Stack/DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java) \]|
 |340 |[Longest Substring with At Most K Distinct Characters][340_t]|\[ [O(n) Sliding Window][340] &#124; [O(n log n) Bisect][340_1] &#124; [Slinding Window Shorter Code][340_2] &#124; [Sliding Window for Streaming Data (1 pass)][340_3] \]|
-|339 |Nested List Weight Sum&#x1f512;||
+|339 |[Nested List Weight Sum][339_t]|\[ [DFS][339] \]|
 |338 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337 |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
 |336 |[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|\[ [A Naive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_336.java) \]|
@@ -117,6 +117,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) &#124; [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 |298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \]|
 |297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
+|293 |[Flip Game][293_t]|\[ [Brute-force][293] \]|
 |291 |[Word Pattern II][291_t]|\[ [Backtracking][291] &#124; [Backtracking + Pruning][291_1] \]|
 |289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
 |288 |[Unique Word Abbreviation][288_t]|\[ [HashMap][288] \]|
@@ -128,11 +129,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
 |270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
 |269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) &#124; [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) &#124; [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
+|266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
 |265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
+|252 |[Meeting Rooms][252_t]|\[ [Sweepline][252] \]|
+|246 |[Strobogrammatic Number][246_t]|\[ [Brute-force][246] \]|
 |218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) &#124; [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 |212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|\[ [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_212.java) \]|
@@ -195,16 +199,21 @@ I will keep updating the list and feel free to share any of your thoughts!
 [127_t]:  https://leetcode.com/problems/word-ladder/
 [158_t]:  https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
 [170_t]:  https://leetcode.com/problems/two-sum-iii-data-structure-design/
+[246_t]:  https://leetcode.com/problems/strobogrammatic-number/
+[252_t]:  https://leetcode.com/problems/meeting-rooms/
 [256_t]:  https://leetcode.com/problems/paint-house/
 [265_t]:  https://leetcode.com/problems/paint-house-ii/
+[266_t]:  https://leetcode.com/problems/palindrome-permutation/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
 [272_t]:  https://leetcode.com/problems/closest-binary-search-tree-value-ii/
 [277_t]:  https://leetcode.com/problems/find-the-celebrity/
 [288_t]:  https://leetcode.com/problems/unique-word-abbreviation/
 [291_t]:  https://leetcode.com/problems/word-pattern-ii/
+[293_t]:  https://leetcode.com/problems/flip-game/
 [302_t]:  https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
+[339_t]:  https://leetcode.com/problems/nested-list-weight-sum/
 [340_t]:  https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 [346_t]:  https://leetcode.com/problems/moving-average-from-data-stream/
 [358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
@@ -247,17 +256,22 @@ I will keep updating the list and feel free to share any of your thoughts!
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [158]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_158.java
 [170]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_170.java
+[246]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_246.java
+[252]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_252.java
 [256]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_256.java
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
+[266]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_266.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
 [272]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_272.java
 [277]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_277.java
 [288]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_288.java
 [291]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291.java
 [291_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291_1.java
+[293]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_293.java
 [302]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_302.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
+[339]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_339.java
 [340]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java
 [340_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_1.java
 [340_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_2.java
