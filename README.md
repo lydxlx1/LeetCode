@@ -56,7 +56,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |362 |Design Hit Counter&#x1f512;||
 |361 |Bomb Enemy&#x1f512;||
 |360 |Sort Transformed Array&#x1f512;||
-|359 |Logger Rate Limiter&#x1f512;||
+|359 |[Logger Rate Limiter][359_t]| \[ [Simple Solution][359] &#124; [Sliding Window][359_1] \]|
 |358 |[Rearrange String k Distance Apart][358_t]| \[ [Greedy + Sliding Window][358] \]|
 |357 |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
 |356 |[Line Reflection](https://leetcode.com/problems/line-reflection/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_356.java) \]|
@@ -69,7 +69,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|\[ [Java Stream](https://github.com/lydxlx1/LeetCode/blob/master/src/_349.java) \]|
 |348 |Design Tic-Tac-Toe&#x1f512;||
 |347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) &#124; [Map+CountingSort](https://github.com/lydxlx1/LeetCode/blob/master/src/_347_1.java) \]|
-|346 |Moving Average from Data Stream&#x1f512;||
+|346 |[Moving Average from Data Stream][346_t]|\[ [Sliding Window][346] \]|
 |345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|\[ [Two-Pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_345.java) \]|
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|\[ [String](https://github.com/lydxlx1/LeetCode/blob/master/src/_344.java) \]|
 |343 |[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
@@ -201,6 +201,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [340_t]:  https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 [358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
+[359_t]:  https://leetcode.com/problems/logger-rate-limiter/
+[346_t]:  https://leetcode.com/problems/moving-average-from-data-stream/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
@@ -250,7 +252,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [340_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_1.java
 [340_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_2.java
 [340_3]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340_3.java
+[346]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_346.java
 [358]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_358.java
+[359]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_359.java
+[359_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_359_1.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
 [398]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398.java
