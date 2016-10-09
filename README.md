@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
-|417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] \]|
+|417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] &#124; [DP + Vertex Contraction][417_1] \]|
 |416 |[Partition Equal Subset Sum][416_t]|\[ [0/1-Knapsack][416] \]|
 |415 |[Add Strings][415_t]|\[ [BigInteger Addition][415] \]|
 |411 |[Minimum Unique Word Abbreviation][411_t]|\[ [Brute-force + Pruning][411] \]|
@@ -314,5 +314,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [415]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_415.java
 [416]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_416.java
 [417]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_417.java
+[417_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_417_1.java
 [418]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_418.java
 
