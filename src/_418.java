@@ -13,6 +13,8 @@
  * <p>
  * Part 1 and 3 can be handled by brute-force in O(n) time, and part 2 can be done in O(1) time via a division
  * after we pre-compute the total length of the sentences. Therefore, the overall runtime is O(n * rows).
+ *
+ * https://discuss.leetcode.com/topic/62297/a-simple-simulation
  */
 public class _418 {
     public int wordsTyping(String[] sentence, int rows, int cols) {
