@@ -59,7 +59,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |369 |Plus One Linked List&#x1f512;||
 |368 |[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_368.java) \]|
 |367 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_367.java) \]|
-|366 |Find Leaves of Binary Tree&#x1f512;||
+|366 |[Find Leaves of Binary Tree][366_t]|\[ [Computing Tree Height][366] \]|
 |365 |[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|\[ [Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_365.java) \]|
 |364 |Nested List Weight Sum II&#x1f512;||
 |363 |[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_363.java) \]|
@@ -229,6 +229,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [358_t]:  https://leetcode.com/problems/rearrange-string-k-distance-apart/
 [359_t]:  https://leetcode.com/problems/logger-rate-limiter/
 [362_t]:  https://leetcode.com/problems/design-hit-counter/
+[366_t]:  https://leetcode.com/problems/find-leaves-of-binary-tree/
 [396_t]:  https://leetcode.com/problems/rotate-function/
 [397_t]:  https://leetcode.com/problems/integer-replacement/
 [398_t]:  https://leetcode.com/problems/random-pick-index/
@@ -301,6 +302,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [359]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_359.java
 [359_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_359_1.java
 [362]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_362.java
+[366]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_366.java
 [396]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_396.java
 [397]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_397.java
 [398]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_398.java
