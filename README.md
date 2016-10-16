@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
+|424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] \]|
+|423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
+|422 |[Valid World Square][422_t]|\[ [Brute-force][422] \]|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
 |417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] &#124; [DP + Vertex Contraction][417_1] \]|
 |416 |[Partition Equal Subset Sum][416_t]|\[ [0/1-Knapsack][416] \]|
@@ -243,6 +247,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [416_t]:  https://leetcode.com/problems/partition-equal-subset-sum/
 [417_t]:  https://leetcode.com/problems/pacific-atlantic-water-flow/
 [418_t]:  https://leetcode.com/problems/sentence-screen-fitting/
+[422_t]:  https://leetcode.com/problems/valid-word-square/
+[423_t]:  https://leetcode.com/problems/reconstruct-original-digits-from-english/
+[424_t]:  https://leetcode.com/problems/longest-repeating-character-replacement/
+[425_t]:  https://leetcode.com/problems/word-squares/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -316,4 +324,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [417]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_417.java
 [417_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_417_1.java
 [418]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_418.java
+[422]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_422.java
+[423]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_423.java
+[424]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_424.java
+[425]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425.java
+[425_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425_1.java
 
