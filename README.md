@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
-|424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] \]|
+|424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] &#124; [Sliding-window][424_1] \]|
 |423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
 |422 |[Valid World Square][422_t]|\[ [Brute-force][422] \]|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
@@ -327,6 +327,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [422]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_422.java
 [423]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_423.java
 [424]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_424.java
+[424_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_424_1.java
 [425]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425.java
 [425_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425_1.java
 
