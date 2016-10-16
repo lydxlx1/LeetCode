@@ -20,7 +20,6 @@
 public class _424 {
 
     private boolean ok(char[] ch, int k, int len) {
-        if (len == 0) return true;
         int[] cnt = new int[26];
         for (int i = 0; i < ch.length; i++) {
             if (i >= len) cnt[ch[i - len] - 'A']--;
