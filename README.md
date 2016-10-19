@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|432 |[All O`one Data Structure][432_t]|\[ [HashMap + Doubly Circular Linked List][432] \]|
 |425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
 |424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] &#124; [Sliding-window][424_1] \]|
 |423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
@@ -256,6 +257,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [423_t]:  https://leetcode.com/problems/reconstruct-original-digits-from-english/
 [424_t]:  https://leetcode.com/problems/longest-repeating-character-replacement/
 [425_t]:  https://leetcode.com/problems/word-squares/
+[432_t]:  https://leetcode.com/problems/all-oone-data-structure/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -339,4 +341,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [424_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_424_1.java
 [425]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425.java
 [425_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425_1.java
+[432]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_432.java
 
