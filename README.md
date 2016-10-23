@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
+|439 |[Ternary Expression Parser][439_t]|\[ [Top-down Approach][439] \]|
+|438 |[Find All Anagrams in a String][438_t]|\[ [Sliding-window][438] \]|
+|437 |[Path Sum III][437_t]|\[ [One-pass DFS][437] &#124; [One-pass DFS Version 2][437_1] &#124; [Two-pass DFS][437_2] \]|
 |433 |[Minimum Genetic Mutation][433_t]|\[ [BFS][433] \]|
 |432 |[All O`one Data Structure][432_t]|\[ [HashMap + Doubly Circular Linked List][432] \]|
 |425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
@@ -262,6 +266,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [425_t]:  https://leetcode.com/problems/word-squares/
 [432_t]:  https://leetcode.com/problems/all-oone-data-structure/
 [433_t]:  https://leetcode.com/problems/minimum-genetic-mutation/
+[437_t]:  https://leetcode.com/problems/path-sum-iii/
+[438_t]:  https://leetcode.com/problems/find-all-anagrams-in-a-string/
+[439_t]:  https://leetcode.com/problems/ternary-expression-parser/
+[440_t]:  https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 <!-- solution -->
 [1]:      https://github.com/lydxlx1/LeetCode/blob/master/src/_1.java
 [1_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1_1.java
@@ -348,4 +356,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 [425_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_425_1.java
 [432]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_432.java
 [433]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_433.java
+[437]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_437.java
+[437_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_437_1.java
+[437_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_437_2.java
+[438]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_438.java
+[439]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_439.java
+[440]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_440.java
 
