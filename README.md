@@ -110,10 +110,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 |326 |[Power of Three](https://leetcode.com/problems/power-of-three/)|\[ [An interesting O(log log n) solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_326.java) \]|
 |325 |Maximum Size Subarray Sum Equals k&#x1f512;||
 |324 |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|\[ [Median Finding, Dutch National Flag ](https://github.com/lydxlx1/LeetCode/blob/master/src/_324.java)\]|
-|323 |Number of Connected Components in an Undirected Graph&#x1f512;||
+|323 |[Number of Connected Components in an Undirected Graph][323_t]|\[ [DFS][323] \]|
 |322 |[Coin Change](https://leetcode.com/problems/coin-change/)|\[ [Knapsack](https://github.com/lydxlx1/LeetCode/blob/master/src/_322.java) \]|
 |321 |[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|\[ [Stack + Greedy](https://github.com/lydxlx1/LeetCode/blob/master/src/_321.java) \]|
-|320 |Generalized Abbreviation&#x1f512;||
+|320 |[Generalized Abbreviation][320_t]|\[ [Bit-manipulation][320] \]|
 |319 |[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|\[ [O(1) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_319.java) \]|
 |318 |[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|\[ [O(n^2) brute-force](https://github.com/lydxlx1/LeetCode/blob/master/src/_318.java) \]|
 |317 |Shortest Distance from All Buildings&#x1f512;||
@@ -135,6 +135,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) &#124; [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
 |298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \]|
 |297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
+|294 |[Flip Game II][294_t]|\[ [Nim + Sprague-Grundy Theorem][294] \]|
 |293 |[Flip Game][293_t]|\[ [Brute-force][293] \]|
 |291 |[Word Pattern II][291_t]|\[ [Backtracking][291] &#124; [Backtracking + Pruning][291_1] \]|
 |289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
@@ -234,8 +235,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [288_t]:  https://leetcode.com/problems/unique-word-abbreviation/
 [291_t]:  https://leetcode.com/problems/word-pattern-ii/
 [293_t]:  https://leetcode.com/problems/flip-game/
+[294_t]:  https://leetcode.com/problems/flip-game-ii/
 [302_t]:  https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
+[320_t]:  https://leetcode.com/problems/generalized-abbreviation/
+[323_t]:  https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [339_t]:  https://leetcode.com/problems/nested-list-weight-sum/
 [340_t]:  https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
@@ -313,8 +317,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [291]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291.java
 [291_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291_1.java
 [293]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_293.java
+[294]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_294.java
 [302]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_302.java
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
+[320]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_320.java
+[323]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_323.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
 [339]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_339.java
 [340]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java
