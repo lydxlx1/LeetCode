@@ -108,7 +108,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|\[ [O(n) in-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_328.java) \]|
 |327 |[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|\[ [O(n log n) solution via Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_327.java) \]|
 |326 |[Power of Three](https://leetcode.com/problems/power-of-three/)|\[ [An interesting O(log log n) solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_326.java) \]|
-|325 |Maximum Size Subarray Sum Equals k&#x1f512;||
+|325 |[Maximum Size Subarray Sum Equals k][325_t]|\[ [Prefix-sum + HashTable][325] \]|
 |324 |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|\[ [Median Finding, Dutch National Flag ](https://github.com/lydxlx1/LeetCode/blob/master/src/_324.java)\]|
 |323 |[Number of Connected Components in an Undirected Graph][323_t]|\[ [DFS][323] \]|
 |322 |[Coin Change](https://leetcode.com/problems/coin-change/)|\[ [Knapsack](https://github.com/lydxlx1/LeetCode/blob/master/src/_322.java) \]|
@@ -133,13 +133,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 |303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|\[ [Prefix Sum](https://github.com/lydxlx1/LeetCode/blob/master/src/_303.java) \]|
 |302 |[Smallest Rectangle Enclosing Black Pixels][302_t]| \[ [DFS][302] \] |
 |301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) &#124; [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
-|298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \]|
+|298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) &#124; [Another DFS Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_2.java)\]|
 |297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
 |294 |[Flip Game II][294_t]|\[ [Nim + Sprague-Grundy Theorem][294] \]|
 |293 |[Flip Game][293_t]|\[ [Brute-force][293] \]|
 |291 |[Word Pattern II][291_t]|\[ [Backtracking][291] &#124; [Backtracking + Pruning][291_1] \]|
 |289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
 |288 |[Unique Word Abbreviation][288_t]|\[ [HashMap][288] \]|
+|286 |[Walls and Gates][286_t]|\[ [BFS][286]\]|
 |285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) &#124; [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
 |277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
@@ -156,6 +157,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
 |252 |[Meeting Rooms][252_t]|\[ [Sweepline][252] \]|
+|251 |[Flatten 2D Vector][251_t]|\[ [Iterator][251] \]|
 |250 |[Count Univalue Subtrees][250_t]|\[ [DFS][250] \]|
 |246 |[Strobogrammatic Number][246_t]|\[ [Brute-force][246] \]|
 |218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
@@ -164,6 +166,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_206.java) \]| 
 |197 |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]| 
 |196 |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_196.sql) \]| 
+|186 |[Reverse Words in a String II][186_t]|\[ [In-place Solution][186] \]| 
 |184 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_184.sql) \]| 
 |183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_183.sql) \]| 
 |182 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_182.sql) \]| 
@@ -177,6 +180,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|\[ [Two-pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_167.java) \]|
 |165 |[Compare version Numbers](https://leetcode.com/problems/compare-version-numbers/)|\[ [Lexicographical Order](https://github.com/lydxlx1/LeetCode/blob/master/src/_165.java) \]|
 |161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]| 
+|159 |[Longest Substring with At Most Two Distinct Characters][159_t] |\[ [Sliding-window][159] \]| 
 |158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
 |156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]| 
 |155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) &#124; [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
@@ -221,9 +225,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [96_t]:   https://leetcode.com/problems/unique-binary-search-trees/
 [127_t]:  https://leetcode.com/problems/word-ladder/
 [158_t]:  https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
+[159_t]:  https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 [170_t]:  https://leetcode.com/problems/two-sum-iii-data-structure-design/
+[186_t]:  https://leetcode.com/problems/reverse-words-in-a-string-ii/
 [246_t]:  https://leetcode.com/problems/strobogrammatic-number/
 [250_t]:  https://leetcode.com/problems/count-univalue-subtrees/
+[251_t]:  https://leetcode.com/problems/flattern-2d-vector/
 [252_t]:  https://leetcode.com/problems/meeting-rooms/
 [256_t]:  https://leetcode.com/problems/paint-house/
 [259_t]:  https://leetcode.com/problems/3sum-smaller/
@@ -232,6 +239,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
 [272_t]:  https://leetcode.com/problems/closest-binary-search-tree-value-ii/
 [277_t]:  https://leetcode.com/problems/find-the-celebrity/
+[286_t]:  https://leetcode.com/problems/walls-and-gates/
 [288_t]:  https://leetcode.com/problems/unique-word-abbreviation/
 [291_t]:  https://leetcode.com/problems/word-pattern-ii/
 [293_t]:  https://leetcode.com/problems/flip-game/
@@ -240,6 +248,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [305_t]:  https://leetcode.com/problems/number-of-islands-ii/
 [320_t]:  https://leetcode.com/problems/generalized-abbreviation/
 [323_t]:  https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+[325_t]:  https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 [333_t]:  https://leetcode.com/problems/largest-bst-subtree/
 [339_t]:  https://leetcode.com/problems/nested-list-weight-sum/
 [340_t]:  https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
@@ -302,9 +311,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [72]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_72.java
 [79]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_79.java
 [158]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_158.java
+[159]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_159.java
 [170]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_170.java
+[186]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_186.java
 [246]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_246.java
 [250]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_250.java
+[251]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_251.java
 [252]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_252.java
 [256]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_256.java
 [259]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_259.java
@@ -313,6 +325,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
 [272]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_272.java
 [277]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_277.java
+[286]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_286.java
 [288]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_288.java
 [291]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291.java
 [291_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_291_1.java
@@ -322,6 +335,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [305]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_305.java
 [320]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_320.java
 [323]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_323.java
+[325]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_325.java
 [333]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_333.java
 [339]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_339.java
 [340]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_340.java
