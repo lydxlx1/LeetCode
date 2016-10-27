@@ -150,6 +150,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
 |265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
+|259 |[3Sum Smaller][259_t]|\[ [Two-pointer][259] \]|
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
@@ -171,9 +172,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 |176 |[Second Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_176.sql) \]| 
 |175 |[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]| 
 |170 |[Two Sum III - Data structure design][170_t]|\[ [Hash Table][170] \]| 
+|167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|\[ [Two-pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_167.java) \]|
 |165 |[Compare version Numbers](https://leetcode.com/problems/compare-version-numbers/)|\[ [Lexicographical Order](https://github.com/lydxlx1/LeetCode/blob/master/src/_165.java) \]|
 |161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]| 
 |158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
+|156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]| 
 |155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) &#124; [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) &#124; [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
 |146 |[LRU Cache](https://leetcode.com/problems/lru-cache/)|\[ [Doubly Connected Linked List + Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_146.java) \]|
@@ -220,6 +223,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [246_t]:  https://leetcode.com/problems/strobogrammatic-number/
 [252_t]:  https://leetcode.com/problems/meeting-rooms/
 [256_t]:  https://leetcode.com/problems/paint-house/
+[259_t]:  https://leetcode.com/problems/3sum-smaller/
 [265_t]:  https://leetcode.com/problems/paint-house-ii/
 [266_t]:  https://leetcode.com/problems/palindrome-permutation/
 [270_t]:  https://leetcode.com/problems/closest-binary-search-tree-value/
@@ -296,6 +300,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [246]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_246.java
 [252]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_252.java
 [256]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_256.java
+[259]:     https://github.com/lydxlx1/LeetCode/blob/master/src/_259.java
 [265]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_265.java
 [266]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_266.java
 [270]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_270.java
