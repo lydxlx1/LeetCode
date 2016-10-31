@@ -6,10 +6,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
+|441 |[Arranging Coins][441_t]|\[ [O(1) Brute-force][441] \]|
 |440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
 |439 |[Ternary Expression Parser][439_t]|\[ [Top-down Approach][439] \]|
 |438 |[Find All Anagrams in a String][438_t]|\[ [Sliding-window][438] \]|
 |437 |[Path Sum III][437_t]|\[ [One-pass DFS][437] &#124; [One-pass DFS Version 2][437_1] &#124; [Two-pass DFS][437_2] \]|
+|436 |[Find Right Interval][436_t]|\[ [TreeMap][436] \]|
+|435 |[Non-overlapping Intervals][435_t]|\[ [Greedy][435] &#124; [Activity Selection][435_1] \]|
 |433 |[Minimum Genetic Mutation][433_t]|\[ [BFS][433] \]|
 |432 |[All O`one Data Structure][432_t]|\[ [HashMap + Doubly Circular Linked List][432] \]|
 |425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
@@ -394,4 +398,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [438]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_438.java
 [439]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_439.java
 [440]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_440.java
-
+[435_t]:   https://leetcode.com/problems/non-overlapping-intervals/
+[435]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_435.java
+[435_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_435_1.java
+[436_t]:   https://leetcode.com/problems/find-right-interval/
+[436]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_436.java
+[441_t]:   https://leetcode.com/problems/arranging-coins/
+[441]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_441.java
+[444_t]:   https://leetcode.com/problems/sequence-reconstruction/
+[444]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_444.java
