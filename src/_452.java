@@ -12,7 +12,7 @@ public class _452 {
         Arrays.sort(a, (u, v) -> Integer.compare(u[1], v[1])); // sort by end point
         int ans = 1, end = a[0][1];
         for (int i = 1; i < a.length; i++) {
-            if (a[i][0] <= end) continue; // using the array at coordinate end
+            if (a[i][0] <= end) continue; // using the arrow at coordinate end
             else {
                 ans++;
                 end = a[i][1];
