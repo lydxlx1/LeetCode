@@ -4,7 +4,7 @@ import java.util.HashMap;
  * LeetCode 447 - Number of Boomerangs
  * <p>
  * O(n^2) solution
- * Enumerating the head (i.e., i) of each boomerangs, then count the number of ordered pair of tails (i.e., j and k).
+ * Enumerate the head (i.e., i) of each boomerangs, then count the number of ordered pair of tails (i.e., j and k).
  */
 public class _447 {
     public int numberOfBoomerangs(int[][] points) {
