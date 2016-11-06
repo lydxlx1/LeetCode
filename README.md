@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
+|452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
+|447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
+|446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
 |441 |[Arranging Coins][441_t]|\[ [O(1) Brute-force][441] \]|
 |440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
@@ -407,3 +411,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [441]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_441.java
 [444_t]:   https://leetcode.com/problems/sequence-reconstruction/
 [444]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_444.java
+[453_t]:   https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+[453]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_453.java
+[447_t]:   https://leetcode.com/problems/number-of-boomerangs/
+[447]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_447.java
+[452_t]:   https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+[452]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_452.java
+[446_t]:   https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+[446]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_446.java
+[446_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_446_1.java
