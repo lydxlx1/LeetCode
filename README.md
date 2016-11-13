@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
+|456 |[123 Pattern][456_t]|\[ [O(n \log n) Solution via BST][456] \]|
+|455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
+|454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
 |452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
@@ -420,3 +424,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [446_t]:   https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 [446]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_446.java
 [446_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_446_1.java
+[455_t]:   https://leetcode.com/problems/assign-cookies/
+[455]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_455.java
+[459_t]:   https://leetcode.com/problems/repeated-substring-pattern/
+[459]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459.java
+[454_t]:   https://leetcode.com/problems/4sum-ii/
+[454]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_454.java
+[456_t]:   https://leetcode.com/problems/123-pattern/
+[456]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_456.java
