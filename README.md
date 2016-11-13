@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
-|456 |[123 Pattern][456_t]|\[ [O(n \log n) Solution via BST][456] \]|
+|456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
 |454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
