@@ -1,8 +1,8 @@
 /**
  * LeetCode 459 - Repeated Substring Pattern
  * <p>
- * O(n^1.5) solution
- * In fact, this problem can be solved in O(n) using KMP.
+ * O(n^1.5) solution since n can have at most O(sqrt(n)) factors.
+ * In fact, this problem can be solved in O(n) time using KMP.
  */
 public class _459 {
     public boolean repeatedSubstringPattern(String str) {
