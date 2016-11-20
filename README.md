@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|464 |[Can I Win][464_t]|\[ [DP + Game Theory][464] \]|
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
@@ -435,3 +436,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [456]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_456.java
 [463_t]:   https://leetcode.com/problems/island-perimeter/
 [463]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_463.java
+[464_t]:   https://leetcode.com/problems/can-i-win/
+[464]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_464.java
