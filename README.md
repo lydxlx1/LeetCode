@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
@@ -432,3 +433,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [454]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_454.java
 [456_t]:   https://leetcode.com/problems/123-pattern/
 [456]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_456.java
+[463_t]:   https://leetcode.com/problems/island-perimeter/
+[463]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_463.java
