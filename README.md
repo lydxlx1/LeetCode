@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|465 |[Optimal Account Balancing][465_t]|\[ [Subset-Sum][465] \]|
 |464 |[Can I Win][464_t]|\[ [DP + Game Theory][464] \]|
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |462 |[Minimum Moves to Equal Array Elements II][462_t]|\[ [Median Finding + Quick-Selection][462] \]|
@@ -441,3 +442,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [464]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_464.java
 [462_t]:   https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 [462]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_462.java
+[465_t]:   https://leetcode.com/problems/optimal-account-balancing/
+[465]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_465.java
