@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|465 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
+|469 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
 |465 |[Optimal Account Balancing][465_t]|\[ [Subset-Sum][465] \]|
 |464 |[Can I Win][464_t]|\[ [DP + Game Theory][464] \]|
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
