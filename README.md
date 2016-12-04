@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|465 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
 |465 |[Optimal Account Balancing][465_t]|\[ [Subset-Sum][465] \]|
 |464 |[Can I Win][464_t]|\[ [DP + Game Theory][464] \]|
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
@@ -447,3 +448,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [465]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_465.java
 [434_t]:   https://leetcode.com/problems/number-of-segments-in-a-string/
 [434]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_434.java
+[469_t]:   https://leetcode.com/problems/convex-polygon/
+[469]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_469.java
