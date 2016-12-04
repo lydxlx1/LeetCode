@@ -26,6 +26,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |437 |[Path Sum III][437_t]|\[ [One-pass DFS][437] &#124; [One-pass DFS Version 2][437_1] &#124; [Two-pass DFS][437_2] \]|
 |436 |[Find Right Interval][436_t]|\[ [TreeMap][436] \]|
 |435 |[Non-overlapping Intervals][435_t]|\[ [Greedy][435] &#124; [Activity Selection][435_1] \]|
+|435 |[Number of Segments in a String][434_t]|\[ [Regex][434] \]|
 |433 |[Minimum Genetic Mutation][433_t]|\[ [BFS][433] \]|
 |432 |[All O`one Data Structure][432_t]|\[ [HashMap + Doubly Circular Linked List][432] \]|
 |425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
@@ -444,3 +445,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [462]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_462.java
 [465_t]:   https://leetcode.com/problems/optimal-account-balancing/
 [465]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_465.java
+[434_t]:   https://leetcode.com/problems/number-of-segments-in-a-string/
+[434]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_434.java
