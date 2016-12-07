@@ -112,7 +112,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|\[ [String](https://github.com/lydxlx1/LeetCode/blob/master/src/_344.java) \]|
 |343 |[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342 |[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
-|341 |[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|\[ [Stack/DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java) \]|
+|341 |[Flatten Nested List Iterator][341_t]|\[ [Stack/DFS][341] &#124; [Lazier][341_1] \]|
 |340 |[Longest Substring with At Most K Distinct Characters][340_t]|\[ [O(n) Sliding Window][340] &#124; [O(n log n) Bisect][340_1] &#124; [Slinding Window Shorter Code][340_2] &#124; [Sliding Window for Streaming Data (1 pass)][340_3] \]|
 |339 |[Nested List Weight Sum][339_t]|\[ [DFS][339] \]|
 |338 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
@@ -456,3 +456,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [467]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_467.java
 [466_t]:   https://leetcode.com/problems/count-the-repetitions/
 [466]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_466.java
+[341_t]:   https://leetcode.com/problems/flatten-nested-list-iterator/
+[341]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_341.java
+[341_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_341_1.java
