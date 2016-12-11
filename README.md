@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
 |469 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
+|468 |[Validate IP Address][468_t]|\[ [Solution][468] \]|
 |467 |[Unique Substring in Wraparound String][467_t]|\[ [String Breaking and Encoding][467] \]|
 |466 |[Count the Repetitions][466_t]|\[ [DP][466] \]|
 |465 |[Optimal Account Balancing][465_t]|\[ [Subset-Sum][465] \]|
@@ -463,3 +464,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [475_t]:   https://leetcode.com/problems/heaters/
 [475]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_475.java
 [475_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_475_1.java
+[468_t]:   https://leetcode.com/problems/validate-ip-address/
+[468]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_468.java
