@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|475 |[Heaters][475_t]|\[ [Direct Approach][475] \]|
+|475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
 |469 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
 |467 |[Unique Substring in Wraparound String][467_t]|\[ [String Breaking and Encoding][467] \]|
 |466 |[Count the Repetitions][466_t]|\[ [DP][466] \]|
@@ -462,3 +462,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [341_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_341_1.java
 [475_t]:   https://leetcode.com/problems/heaters/
 [475]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_475.java
+[475_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_475_1.java
