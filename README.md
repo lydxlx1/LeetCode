@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
 |474 |[One and Zeroes][474_t]|\[ [0/1-Knapsack][474] \]|
 |473 |[Matchsticks to Square][473_t]|\[ [Backtracking][473] \]|
@@ -478,3 +479,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [473]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_473.java
 [461_t]:   https://leetcode.com/problems/hamming-distance/
 [461]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_461.java
+[477_t]:   https://leetcode.com/problems/total-hamming-distance/
+[477]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_477.java
