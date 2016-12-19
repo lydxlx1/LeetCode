@@ -18,6 +18,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |464 |[Can I Win][464_t]|\[ [DP + Game Theory][464] \]|
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |462 |[Minimum Moves to Equal Array Elements II][462_t]|\[ [Median Finding + Quick-Selection][462] \]|
+|461 |[Hamming Distance][461_t]|\[ [Brute-force][461] \]|
 |459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
@@ -475,3 +476,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [471]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_471.java
 [473_t]:   https://leetcode.com/problems/matchsticks-to-square/
 [473]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_473.java
+[461_t]:   https://leetcode.com/problems/hamming-distance/
+[461]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_461.java
