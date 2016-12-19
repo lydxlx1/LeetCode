@@ -10,6 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
 |474 |[One and Zeroes][474_t]|\[ [0/1-Knapsack][474] \]|
 |473 |[Matchsticks to Square][473_t]|\[ [Backtracking][473] \]|
+|472 |[Concatenated Words][472_t]|\[ [DP + Trie][472] \]|
 |471 |[Encode String with Shortest Length][471_t]|\[ [DP][471] \]|
 |469 |[Convex Polygon][469_t]|\[ [Cross Product][469] \]|
 |468 |[Validate IP Address][468_t]|\[ [Solution][468] \]|
@@ -481,3 +482,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [461]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_461.java
 [477_t]:   https://leetcode.com/problems/total-hamming-distance/
 [477]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_477.java
+[472_t]:   https://leetcode.com/problems/concatenated-words/
+[472]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_472.java
