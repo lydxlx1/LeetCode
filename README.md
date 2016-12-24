@@ -28,6 +28,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
 |452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
 |451 |[Sort Characters by Frequency][451_t]|\[ [Counting-sort][451] \]|
+|450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] \]|
 |449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] &#124; [Optimized Version][449_1] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
 |446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
@@ -491,3 +492,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [449_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_449_1.java
 [451_t]:   https://leetcode.com/problems/sort-characters-by-frequency/
 [451]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_451.java
+[450_t]:   https://leetcode.com/problems/delete-node-in-a-bst/
+[450]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_450.java
