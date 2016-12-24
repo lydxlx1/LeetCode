@@ -27,7 +27,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
 |452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
-|449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] \]|
+|449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] &#124; [Optimized Version][449_1] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
 |446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
@@ -487,3 +487,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [472]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_472.java
 [449_t]:   https://leetcode.com/problems/serialize-and-deserialize-bst/
 [449]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_449.java
+[449_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_449_1.java
