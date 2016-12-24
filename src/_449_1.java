@@ -54,7 +54,6 @@ public class _449_1 {
                         return root;
                     } else if (inOrder[mid] < root.val) left = mid + 1;
                     else right = mid - 1;
-
                 }
                 throw new IllegalStateException("Inconsistent preorder and inorder sequences.");
             }
