@@ -30,6 +30,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |451 |[Sort Characters by Frequency][451_t]|\[ [Counting-sort][451] \]|
 |450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] \]|
 |449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] &#124; [Optimized Version][449_1] \]|
+|448 |[Find All Numbers Disappeared in an Array][448_t]|\[ [Cycle-finding][448] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
 |446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
@@ -494,3 +495,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [451]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_451.java
 [450_t]:   https://leetcode.com/problems/delete-node-in-a-bst/
 [450]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_450.java
+[448_t]:   https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[448]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_448.java
