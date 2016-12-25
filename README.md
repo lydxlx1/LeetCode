@@ -34,6 +34,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
 |446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
+|442 |[Find All Duplicates in an Array][442_t]|\[ [Mod Trick][442] \]|
 |441 |[Arranging Coins][441_t]|\[ [O(1) Brute-force][441] \]|
 |440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
 |439 |[Ternary Expression Parser][439_t]|\[ [Top-down Approach][439] \]|
@@ -497,3 +498,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [450]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_450.java
 [448_t]:   https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [448]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_448.java
+[442_t]:   https://leetcode.com/problems/find-all-duplicates-in-an-array/
+[442]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_442.java
