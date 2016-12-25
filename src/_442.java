@@ -17,10 +17,11 @@ public class _442 {
             nums[val] += nums.length;
         }
 
-        // Now, for each nums[i], have the following three cases
+        // Now, for each nums[i], we have the following three cases
         // 1. If 0 <= nums[i] < n, then i does not appear in the array.
         // 2. If n <= nums[i] < 2n, then i appears exactly once in the array.
         // 3. If 2n <= nums[i] < 3n, then i appears exactly twice in the array.
+        // This pattern can be generalized to find all the numbers that appear exactly k times.
 
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < nums.length; i++)
