@@ -26,6 +26,10 @@ public class _442 {
         for (int i = 0; i < nums.length; i++)
             if (nums[i] >= 2 * nums.length) list.add(i + 1);
 
+        // Uncomment these if one wants to restock the original array.
+//        for (int i=0; i<nums.length; i++)
+//            nums[i] = nums[i] % nums.length + 1;
+
         return list;
     }
 }
