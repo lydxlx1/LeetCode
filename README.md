@@ -214,6 +214,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |170 |[Two Sum III - Data structure design][170_t]|\[ [Hash Table][170] \]| 
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|\[ [Two-pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_167.java) \]|
 |165 |[Compare version Numbers](https://leetcode.com/problems/compare-version-numbers/)|\[ [Lexicographical Order](https://github.com/lydxlx1/LeetCode/blob/master/src/_165.java) \]|
+|163 |[Missing Ranges][163_t]|\[ [Sorting][163] \]|
 |161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]| 
 |159 |[Longest Substring with At Most Two Distinct Characters][159_t] |\[ [Sliding-window][159] \]| 
 |158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
@@ -509,3 +510,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [254]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_254.java
 [249_t]:   https://leetcode.com/problems/group-shifted-strings/
 [249]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_249.java
+[163_t]:   https://leetcode.com/problems/missing-ranges/
+[163]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_163.java
