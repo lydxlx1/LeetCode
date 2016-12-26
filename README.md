@@ -193,6 +193,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |252 |[Meeting Rooms][252_t]|\[ [Sweepline][252] \]|
 |251 |[Flatten 2D Vector][251_t]|\[ [Iterator][251] \]|
 |250 |[Count Univalue Subtrees][250_t]|\[ [DFS][250] \]|
+|249 |[Group Shifted Strings][249_t]|\[ [Keyed-by][249] \]|
 |246 |[Strobogrammatic Number][246_t]|\[ [Brute-force][246] \]|
 |218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) &#124; [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
@@ -506,3 +507,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [157]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_157.java
 [254_t]:   https://leetcode.com/problems/factor-combinations/
 [254]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_254.java
+[249_t]:   https://leetcode.com/problems/group-shifted-strings/
+[249]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_249.java
