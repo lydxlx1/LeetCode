@@ -188,6 +188,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |259 |[3Sum Smaller][259_t]|\[ [Two-pointer][259] \]|
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
+|254 |[Factor Combinations][254_t]|\[ [Backtracking][254] \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
 |252 |[Meeting Rooms][252_t]|\[ [Sweepline][252] \]|
 |251 |[Flatten 2D Vector][251_t]|\[ [Iterator][251] \]|
@@ -503,3 +504,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [442]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_442.java
 [157_t]:   https://leetcode.com/problems/read-n-characters-given-read4/
 [157]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_157.java
+[254_t]:   https://leetcode.com/problems/factor-combinations/
+[254]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_254.java
