@@ -215,6 +215,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]| 
 |159 |[Longest Substring with At Most Two Distinct Characters][159_t] |\[ [Sliding-window][159] \]| 
 |158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
+|157 |[Read N Characters Given Read4][157_t] |\[ [Reader][157] \]| 
 |156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]| 
 |155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) &#124; [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) &#124; [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
@@ -500,3 +501,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [448]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_448.java
 [442_t]:   https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [442]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_442.java
+[157_t]:   https://leetcode.com/problems/read-n-characters-given-read4/
+[157]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_157.java
