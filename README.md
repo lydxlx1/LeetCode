@@ -196,6 +196,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |250 |[Count Univalue Subtrees][250_t]|\[ [DFS][250] \]|
 |249 |[Group Shifted Strings][249_t]|\[ [Keyed-by][249] \]|
 |246 |[Strobogrammatic Number][246_t]|\[ [Brute-force][246] \]|
+|244 |[Shortest Word Distance II][244_t]|\[ [Solution][244] \]|
 |218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) &#124; [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 |212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|\[ [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_212.java) \]|
@@ -517,3 +518,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [261]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_261.java
 [353_t]:   https://leetcode.com/problems/design-snake-game/
 [353]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_353.java
+[244_t]:   https://leetcode.com/problems/shortest-word-distance-ii/
+[244]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_244.java
