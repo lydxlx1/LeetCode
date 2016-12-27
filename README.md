@@ -113,7 +113,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |356 |[Line Reflection](https://leetcode.com/problems/line-reflection/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_356.java) \]|
 |355 |[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
 |354 |[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) &#124; [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
-|353 |Design Snake Game&#x1f512;||
+|353 |[Design Snake Game][353_t]|\[ [Deque + HashTable][353] \] |
 |352 |[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_352.java) \]|
 |351 |Android Unlock Patterns&#x1f512;||
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|\[ [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_350.java) \]|
@@ -515,3 +515,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [163]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_163.java
 [261_t]:   https://leetcode.com/problems/graph-valid-tree/
 [261]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_261.java
+[353_t]:   https://leetcode.com/problems/design-snake-game/
+[353]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_353.java
