@@ -185,6 +185,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
 |265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
+|261 |[Graph Valid Tree][261_t]|\[ [Union-find Set][261] \]| 
 |259 |[3Sum Smaller][259_t]|\[ [Two-pointer][259] \]|
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
@@ -512,3 +513,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [249]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_249.java
 [163_t]:   https://leetcode.com/problems/missing-ranges/
 [163]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_163.java
+[261_t]:   https://leetcode.com/problems/graph-valid-tree/
+[261]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_261.java
