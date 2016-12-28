@@ -118,7 +118,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |351 |Android Unlock Patterns&#x1f512;||
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|\[ [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_350.java) \]|
 |349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|\[ [Java Stream](https://github.com/lydxlx1/LeetCode/blob/master/src/_349.java) \]|
-|348 |Design Tic-Tac-Toe&#x1f512;||
+|348 |[Design Tic-Tac-Toe][348_t]|\[ [O(1)-time Solution][348] \] |
 |347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) &#124; [Map+CountingSort](https://github.com/lydxlx1/LeetCode/blob/master/src/_347_1.java) \]|
 |346 |[Moving Average from Data Stream][346_t]|\[ [Sliding Window][346] \]|
 |345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|\[ [Two-Pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_345.java) \]|
@@ -523,3 +523,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [244]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_244.java
 [245_t]:   https://leetcode.com/problems/shortest-word-distance-iii/
 [245]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_245.java
+[348_t]:   https://leetcode.com/problems/design-tic-tac-toe/
+[348]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_348.java
