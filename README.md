@@ -182,6 +182,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
 |270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
 |269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) &#124; [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) &#124; [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
+|267 |[Palindrome Permutation II][267_t]|\[ [Counting + Next Permutation][267] \]| 
 |266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
 |265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
 |262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
@@ -525,3 +526,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [245]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_245.java
 [348_t]:   https://leetcode.com/problems/design-tic-tac-toe/
 [348]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_348.java
+[267_t]:   https://leetcode.com/problems/palindrome-permutation-ii/
+[267]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_267.java
