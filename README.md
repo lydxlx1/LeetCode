@@ -106,7 +106,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |363 |[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_363.java) \]|
 |362 |[Design Hit Counter][362_t]|\[ [Sliding Window][362] \]|
 |361 |Bomb Enemy&#x1f512;||
-|360 |Sort Transformed Array&#x1f512;||
+|360 |[Sort Transformed Array][360_t]|\[ [O(n)-time Solution][360] \]|
 |359 |[Logger Rate Limiter][359_t]| \[ [Simple Solution][359] &#124; [Sliding Window][359_1] \]|
 |358 |[Rearrange String k Distance Apart][358_t]| \[ [Greedy + Sliding Window][358] \]|
 |357 |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
@@ -528,3 +528,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [348]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_348.java
 [267_t]:   https://leetcode.com/problems/palindrome-permutation-ii/
 [267]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_267.java
+[360_t]:   https://leetcode.com/problems/sort-transformed-array/
+[360]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_360.java
