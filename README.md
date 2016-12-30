@@ -105,7 +105,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |364 |Nested List Weight Sum II&#x1f512;||
 |363 |[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_363.java) \]|
 |362 |[Design Hit Counter][362_t]|\[ [Sliding Window][362] \]|
-|361 |Bomb Enemy&#x1f512;||
+|361 |[Bomb Enemy][361_t]|\[ [DP][361] \]|
 |360 |[Sort Transformed Array][360_t]|\[ [O(n)-time Solution][360] \]|
 |359 |[Logger Rate Limiter][359_t]| \[ [Simple Solution][359] &#124; [Sliding Window][359_1] \]|
 |358 |[Rearrange String k Distance Apart][358_t]| \[ [Greedy + Sliding Window][358] \]|
@@ -536,3 +536,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [281]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_281.java
 [280_t]:   https://leetcode.com/problems/wiggle-sort/
 [280]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_280.java
+[361_t]:   https://leetcode.com/problems/bomb-enemy/
+[361]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_361.java
