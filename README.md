@@ -177,6 +177,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) &#124; [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
 |281 |[Zigzag Iterator][281_t]|\[ [Solution][281] \]|
+|280 |[Wiggle Sort][280_t]|\[ [One-pass Solution][280] \]|
 |277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
 |272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]| 
@@ -533,3 +534,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [360]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_360.java
 [281_t]:   https://leetcode.com/problems/zigzag-iterator/
 [281]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_281.java
+[280_t]:   https://leetcode.com/problems/wiggle-sort/
+[280]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_280.java
