@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
 |476 |[Number Complement][476_t]|\[ [One-line Solution][476] \]|
@@ -544,3 +545,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [476]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_476.java
 [481_t]:   https://leetcode.com/problems/magical-string/
 [481]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_481.java
+[482_t]:   https://leetcode.com/problems/license-key-formatting/
+[482]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_482.java
