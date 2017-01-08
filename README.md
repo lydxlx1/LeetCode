@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
+|476 |[Number Complement][476_t]|\[ [One-line Solution][476] \]|
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
 |474 |[One and Zeroes][474_t]|\[ [0/1-Knapsack][474] \]|
 |473 |[Matchsticks to Square][473_t]|\[ [Backtracking][473] \]|
@@ -538,3 +539,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [280]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_280.java
 [361_t]:   https://leetcode.com/problems/bomb-enemy/
 [361]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_361.java
+[476_t]:   https://leetcode.com/problems/number-complement/
+[476]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_476.java
