@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
+|480 |[Sliding Window Median][480_t]|\[ [Order Statistic Tree via Fenwick Tree][480] \]|
 |477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
 |476 |[Number Complement][476_t]|\[ [One-line Solution][476] \]|
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
@@ -547,3 +548,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [481]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_481.java
 [482_t]:   https://leetcode.com/problems/license-key-formatting/
 [482]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_482.java
+[480_t]:   https://leetcode.com/problems/sliding-window-median/
+[480]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_480.java
