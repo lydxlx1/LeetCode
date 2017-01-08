@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
 |476 |[Number Complement][476_t]|\[ [One-line Solution][476] \]|
 |475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
@@ -541,3 +542,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [361]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_361.java
 [476_t]:   https://leetcode.com/problems/number-complement/
 [476]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_476.java
+[481_t]:   https://leetcode.com/problems/magical-string/
+[481]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_481.java
