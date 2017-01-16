@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
 |482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |480 |[Sliding Window Median][480_t]|\[ [Order Statistic Tree via Fenwick Tree][480] \]|
@@ -550,3 +551,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [482]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_482.java
 [480_t]:   https://leetcode.com/problems/sliding-window-median/
 [480]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_480.java
+[485_t]:   https://leetcode.com/problems/max-consecutive-ones/
+[485]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_485.java
