@@ -1,3 +1,6 @@
+/**
+ * LeetCode 485 - Max Consecutive Ones
+ */
 public class _485 {
 
     public int findMaxConsecutiveOnes(int[] nums) {
