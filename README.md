@@ -9,7 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
 |485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
-|484 |[Find Permutation][484_t]|\[ [Topological-sort][484] \]|
+|484 |[Find Permutation][484_t]|\[ [Topological-sort][484] &#124; [Constructive Approach][484_1] \]|
 |482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |480 |[Sliding Window Median][480_t]|\[ [Order Statistic Tree via Fenwick Tree][480] \]|
@@ -562,3 +562,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [488]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_488.java
 [484_t]:   https://leetcode.com/problems/find-permutation/
 [484]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_484.java
+[484_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_484_1.java
