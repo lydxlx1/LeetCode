@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
+|491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
 |485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
@@ -566,3 +567,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [484_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_484_1.java
 [494_t]:   https://leetcode.com/problems/target-sum/
 [494]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_494.java
+[491_t]:   https://leetcode.com/problems/increasing-subsequences/
+[491]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_491.java
