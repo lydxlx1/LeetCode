@@ -10,6 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
+|486 |[Predict the Winner][486_t]|\[ [DP + Game Theory][486] \]|
 |485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
 |484 |[Find Permutation][484_t]|\[ [Topological-sort][484] &#124; [Constructive Approach][484_1] \]|
 |483 |[Smallest Good Base][483_t]|\[ [Brute-force + Binary Search][483] \]|
@@ -572,3 +573,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [491]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_491.java
 [483_t]:   https://leetcode.com/problems/smallest-good-base/
 [483]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_483.java
+[486_t]:   https://leetcode.com/problems/predict-the-winner/
+[486]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_486.java
