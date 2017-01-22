@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
+|492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
 |491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
@@ -575,3 +576,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [483]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_483.java
 [486_t]:   https://leetcode.com/problems/predict-the-winner/
 [486]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_486.java
+[492_t]:   https://leetcode.com/problems/construct-the-rectangle/
+[492]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_492java
