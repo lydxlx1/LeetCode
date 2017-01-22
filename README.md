@@ -578,4 +578,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [486]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_486.java
 [486_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_486_1.java
 [492_t]:   https://leetcode.com/problems/construct-the-rectangle/
-[492]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_492java
+[492]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_492.java
