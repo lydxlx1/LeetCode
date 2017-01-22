@@ -12,6 +12,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
 |485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
 |484 |[Find Permutation][484_t]|\[ [Topological-sort][484] &#124; [Constructive Approach][484_1] \]|
+|483 |[Smallest Good Base][483_t]|\[ [Brute-force + Binary Search][483] \]|
 |482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |480 |[Sliding Window Median][480_t]|\[ [Order Statistic Tree via Fenwick Tree][480] \]|
@@ -569,3 +570,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [494]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_494.java
 [491_t]:   https://leetcode.com/problems/increasing-subsequences/
 [491]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_491.java
+[483_t]:   https://leetcode.com/problems/smallest-good-base/
+[483]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_483.java
