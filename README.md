@@ -41,7 +41,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
 |452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
 |451 |[Sort Characters by Frequency][451_t]|\[ [Counting-sort][451] \]|
-|450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] \]|
+|450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] &#124; [Shorter Solution][450_1] \]|
 |449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] &#124; [Optimized Version][449_1] \]|
 |448 |[Find All Numbers Disappeared in an Array][448_t]|\[ [Cycle-finding][448] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
@@ -519,6 +519,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [451]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_451.java
 [450_t]:   https://leetcode.com/problems/delete-node-in-a-bst/
 [450]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_450.java
+[450_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_450_1.java
 [448_t]:   https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [448]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_448.java
 [442_t]:   https://leetcode.com/problems/find-all-duplicates-in-an-array/
