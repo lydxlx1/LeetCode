@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] \]|
+|501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
 |499 |[The Maze II][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
@@ -588,5 +588,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [499_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_499_1.java
 [501_t]:   https://leetcode.com/problems/find-mode-in-binary-tree/
 [501]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_501.java
+[501_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_501_1.java
 [495_t]:   https://leetcode.com/problems/teemo-attacking/
 [495]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_495.java
