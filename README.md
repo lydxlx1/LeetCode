@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
-|499 |[The Maze II][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
+|499 |[The Maze III][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
 |492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
@@ -583,7 +583,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [486_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_486_1.java
 [492_t]:   https://leetcode.com/problems/construct-the-rectangle/
 [492]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_492.java
-[499_t]:   https://leetcode.com/problems/the-maze-ii/
+[499_t]:   https://leetcode.com/problems/the-maze-iii/
 [499]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_499.java
 [499_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_499_1.java
 [501_t]:   https://leetcode.com/problems/find-mode-in-binary-tree/
