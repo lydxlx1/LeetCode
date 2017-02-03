@@ -12,6 +12,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
 |492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
 |491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
+|490 |[The Maze][490_t]|\[ [DFS][490] \]|
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
 |486 |[Predict the Winner][486_t]|\[ [DP + Game Theory][486] &#124; [Shorter Code][486_1] \]|
@@ -591,3 +592,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [501_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_501_1.java
 [495_t]:   https://leetcode.com/problems/teemo-attacking/
 [495]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_495.java
+[490_t]:   https://leetcode.com/problems/the-maze/
+[490]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_490.java
