@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] \]|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
 |499 |[The Maze III][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
@@ -594,3 +595,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [495]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_495.java
 [490_t]:   https://leetcode.com/problems/the-maze/
 [490]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_490.java
+[505_t]:   https://leetcode.com/problems/the-maze-ii/
+[505]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_505.java
