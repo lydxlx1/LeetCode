@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
+|500 |[Keyboard Row][500_t]|\[ [1-Line Solution][500] \]|
 |499 |[The Maze III][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
@@ -601,3 +602,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [505_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_505_1.java
 [419_t]:   https://leetcode.com/problems/battleships-in-a-board/
 [419]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_419.java
+[500_t]:   https://leetcode.com/problems/keyboard-row/
+[500]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_500.java
