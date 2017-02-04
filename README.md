@@ -68,6 +68,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
 |422 |[Valid World Square][422_t]|\[ [Brute-force][422] \]|
 |421 |[Maximum XOR of Two Numbers in an Array][421_t]|\[ [Binary Trie][421] \]|
+|419 |[Battleships in a Board][419_t]|\[ [Single-pass + In-place + No modification][419] \]|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
 |417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] &#124; [DP + Vertex Contraction][417_1] \]|
 |416 |[Partition Equal Subset Sum][416_t]|\[ [0/1-Knapsack][416] \]|
@@ -598,3 +599,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [505_t]:   https://leetcode.com/problems/the-maze-ii/
 [505]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_505.java
 [505_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_505_1.java
+[419_t]:   https://leetcode.com/problems/battleships-in-a-board/
+[419]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_419.java
