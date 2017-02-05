@@ -9,6 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |508 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
+|503 |[Next Greater Element II][503_t]|\[ [Monotone Stack][503] \]|
 |502 |[IPO][502_t]|\[ [Greedy][502] \]|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
 |500 |[Keyboard Row][500_t]|\[ [1-Line Solution][500] \]|
@@ -620,3 +621,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [498_t]:   https://leetcode.com/problems/diagonal-traversal/
 [498]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_498.java
 [498_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_498_1.java
+[503_t]:   https://leetcode.com/problems/next-greater-element-ii/
+[503]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_503.java
