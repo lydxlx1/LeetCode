@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |508 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
+|506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
 |502 |[IPO][502_t]|\[ [Greedy][502] \]|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
@@ -613,3 +614,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [502]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_502.java
 [496_t]:   https://leetcode.com/problems/next-greater-element-i/
 [496]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_496.java
+[506_t]:   https://leetcode.com/problems/relative-ranks/
+[506]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_506.java
