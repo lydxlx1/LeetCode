@@ -12,6 +12,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
 |500 |[Keyboard Row][500_t]|\[ [1-Line Solution][500] \]|
 |499 |[The Maze III][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
+|496 |[Next Greater Element I][496_t]|\[ [Brute-force][496] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
 |492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
@@ -610,3 +611,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [508]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_508.java
 [502_t]:   https://leetcode.com/problems/ipo/
 [502]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_502.java
+[496_t]:   https://leetcode.com/problems/next-greater-element-i/
+[496]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_496.java
