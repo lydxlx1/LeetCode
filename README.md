@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
 |508 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
@@ -623,3 +624,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [498_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_498_1.java
 [503_t]:   https://leetcode.com/problems/next-greater-element-ii/
 [503]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_503.java
+[516_t]:   https://leetcode.com/problems/longest-palindromic-subsequence/
+[516]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_516.java
