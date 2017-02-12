@@ -6,11 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-<<<<<<< d8aecd8f9ac5b73b1c8edf3ff5b48723a0ce4f68
 |516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
-=======
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
->>>>>>> Add 515
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
@@ -637,8 +634,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [504_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504_1.java
 [513_t]:   https://leetcode.com/problems/find-left-most-element/
 [513]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_513.java
-<<<<<<< d8aecd8f9ac5b73b1c8edf3ff5b48723a0ce4f68
-=======
 [515_t]:   https://leetcode.com/problems/find-largest-element-in-each-row/
 [515]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_515.java
->>>>>>> Add 515
