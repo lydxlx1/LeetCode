@@ -10,6 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |508 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
+|504 |[Base 7][504_t]|\[ [1-line Solution][504] &#124; [Conventional Method][504_1] \]|
 |503 |[Next Greater Element II][503_t]|\[ [Monotone Stack][503] \]|
 |502 |[IPO][502_t]|\[ [Greedy][502] \]|
 |501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
@@ -626,3 +627,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [503]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_503.java
 [516_t]:   https://leetcode.com/problems/longest-palindromic-subsequence/
 [516]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_516.java
+[504_t]:   https://leetcode.com/problems/base-7/
+[504]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504.java
+[504_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504_1.java
