@@ -7,7 +7,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
-|508 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
+|513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
+|509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] \]|
 |504 |[Base 7][504_t]|\[ [1-line Solution][504] &#124; [Conventional Method][504_1] \]|
@@ -630,3 +631,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [504_t]:   https://leetcode.com/problems/base-7/
 [504]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504.java
 [504_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504_1.java
+[513_t]:   https://leetcode.com/problems/find-left-most-element/
+[513]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_513.java
