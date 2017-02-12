@@ -22,6 +22,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |496 |[Next Greater Element I][496_t]|\[ [Brute-force][496] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
+|493 |[Reverse Pairs][493_t]|\[ [Merge-sort][493] &#124; [Merge-sort Shorter Code][493_1] &#124; [BIT][493_2] \]|
 |492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
 |491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
 |490 |[The Maze][490_t]|\[ [DFS][490] \]|
@@ -636,3 +637,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [513]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_513.java
 [515_t]:   https://leetcode.com/problems/find-largest-element-in-each-row/
 [515]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_515.java
+[493_t]:   https://leetcode.com/problems/reverse-pairs/
+[493]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493.java
+[493_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493_1.java
+[493_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493_2.java
