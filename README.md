@@ -267,6 +267,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |127 |[Word Ladder][127_t]               |\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_127.java) \]|
 |96  |[Unique Binary Search Trees][96_t]               |\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_96.java) \]|
 |79  |[Word Search][79_t]                |\[ [DFS][79] \]|
+|76  |[Minimum Window Substring][76_t]|\[ [Sliding-window][76] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
 |47  |[Permutations II][47_t]            |\[ [next_permutation][47] \]|
 |44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
@@ -641,3 +642,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [493]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493.java
 [493_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493_1.java
 [493_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493_2.java
+[76_t]:   https://leetcode.com/problems/minimum-window-substring/
+[76]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_76.java
