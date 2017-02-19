@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|526 |[Beautiful Arrangement][526]|\[ [Permutation][526] \]|
 |520 |[Detect Capital][520]|\[ [Regex][520] \]|
 |516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
@@ -647,3 +648,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [76]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_76.java
 [520_t]:   https://leetcode.com/problems/detect-capital/
 [520]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_520.java
+[526_t]:   https://leetcode.com/problems/beautiful-arrangement/
+[526]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_526.java
