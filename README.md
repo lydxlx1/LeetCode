@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|520 |[Detect Capital][520]|\[ [Regex][520] \]|
 |516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
@@ -644,3 +645,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [493_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493_2.java
 [76_t]:   https://leetcode.com/problems/minimum-window-substring/
 [76]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_76.java
+[520_t]:   https://leetcode.com/problems/detect-capital/
+[520]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_520.java
