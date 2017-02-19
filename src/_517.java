@@ -16,18 +16,10 @@ public class _517 {
         for (int i = 0, prefixSum = 0; i < machines.length; i++) {
             int toLeft = i * per - prefixSum;
             int toRight = (machines.length - i - 1) * per - (sum - prefixSum - machines[i]);
-            int passToLeft = Math.max(0, toLeft);
-            int passToRight = Math.max(0, toRight);
-            int recFromLeft = Math.max(0, -toLeft);
-            int recFromRight = Math.max(0, -toRight);
-            ans = Math.max(ans, Math.max(passToLeft + passToRight, Math.max(recFromLeft, recFromRight)));
+            ans = Math.max(ans, Math.max(toLeft, 0) + Math.max(toRight, 0));
             prefixSum += machines[i];
         }
         return ans;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new _517().findMinMoves(new int[]{0, 3, 0}));
     }
 }
 
