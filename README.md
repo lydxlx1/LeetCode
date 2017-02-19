@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |526 |[Beautiful Arrangement][526]|\[ [Permutation][526] \]|
+|525 |[Contiguous Array][525]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
 |520 |[Detect Capital][520]|\[ [Regex][520] \]|
 |516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
@@ -650,3 +651,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [520]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_520.java
 [526_t]:   https://leetcode.com/problems/beautiful-arrangement/
 [526]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_526.java
+[525_t]:   https://leetcode.com/problems/contiguous-array/
+[525]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_525.java
+[525_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_525_1.java
