@@ -9,7 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |526 |[Beautiful Arrangement][526]|\[ [Permutation][526] \]|
 |525 |[Contiguous Array][525]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
 |520 |[Detect Capital][520]|\[ [Regex][520] \]|
-|516 |[Longest Palindromic Subsequence][516_t]|\[ [DP][516] \]|
+|517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
@@ -654,3 +654,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [525_t]:   https://leetcode.com/problems/contiguous-array/
 [525]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_525.java
 [525_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_525_1.java
+[517_t]:   https://leetcode.com/problems/super-washing-machines/
+[517]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_517.java
