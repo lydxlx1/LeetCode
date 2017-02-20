@@ -6,9 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|526 |[Beautiful Arrangement][526]|\[ [Permutation][526] \]|
-|525 |[Contiguous Array][525]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
-|520 |[Detect Capital][520]|\[ [Regex][520] \]|
+|526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
+|525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
+|520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
