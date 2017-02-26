@@ -9,6 +9,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
 |525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
+|524 |[Longest Word in Dictionary through Deleting][524_t]|\[ [Greedy][524] \]|
+|523 |[Continuous Subarray Sum][523_t]|\[ [Prefix Sum][523] \]|
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
@@ -659,3 +661,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [517]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_517.java
 [530_t]:   https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [530]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_530.java
+[523_t]:   https://leetcode.com/problems/continuous-subarray-sum/
+[523]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_523.java
+[524_t]:   https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+[524]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_524.java
