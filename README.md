@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
+|529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
 |525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
 |524 |[Longest Word in Dictionary through Deleting][524_t]|\[ [Greedy][524] \]|
@@ -665,3 +666,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [523]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_523.java
 [524_t]:   https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 [524]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_524.java
+[529_t]:   https://leetcode.com/problems/minesweeper/
+[529]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_529.java
