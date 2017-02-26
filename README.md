@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
 |525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
@@ -656,3 +657,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [525_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_525_1.java
 [517_t]:   https://leetcode.com/problems/super-washing-machines/
 [517]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_517.java
+[530_t]:   https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+[530]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_530.java
