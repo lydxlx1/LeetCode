@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
-|532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] \]|
+|532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
 |531 |[Lonely Pixel I][531_t]|\[ [Brute-force][532] \]|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
@@ -675,6 +675,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [529]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_529.java
 [532_t]:   https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [532]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_532.java
+[532_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_532_1.java
 [531_t]:   https://leetcode.com/problems/lonely-pixel-i/
 [531]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_531.java
 [533_t]:   https://leetcode.com/problems/lonely-pixel-ii/
