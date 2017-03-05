@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] \]|
+|531 |[Lonely Pixel I][531_t]|\[ [Brute-force][531] \]|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
@@ -672,3 +673,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [529]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_529.java
 [532_t]:   https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [532]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_532.java
+[531_t]:   https://leetcode.com/problems/lonely-pixel-i/
+[531]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_531.java
