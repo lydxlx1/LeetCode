@@ -18,6 +18,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
+|514 |[Freedom Trail][514_t]|\[ [DP][514] \]|
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
@@ -678,3 +679,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [531]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_531.java
 [533_t]:   https://leetcode.com/problems/lonely-pixel-ii/
 [533]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_533.java
+[514_t]:   https://leetcode.com/problems/freedom-trail/
+[514]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_514.java
