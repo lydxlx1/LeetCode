@@ -32,10 +32,4 @@ public class _514 {
         }
         return ans + key.length();
     }
-
-
-    public static void main(String[] args) {
-        _514 sol = new _514();
-        System.out.println(sol.findRotateSteps("godding", ""));
-    }
 }
