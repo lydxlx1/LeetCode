@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 /**
  * LeetCode 514 - Freedom Trail
@@ -10,18 +10,19 @@ public class _514_1 {
     public int findRotateSteps(String ring, String key) {
         int R = ring.length(), K = key.length();
         int[][] prev = new int[R][26], next = new int[R][26];
-        for (int i = 0; i < R; i++) {
-            Arrays.fill(prev[i], -1);
-            Arrays.fill(next[i], -1);
-            for (int j = (i + 1) % R; j != i; j = (j + 1) % R) {
-                int ch = ring.charAt(j) - 'a';
-                if (next[i][ch] == -1) next[i][ch] = j;
+        Map<Character, List<Integer>> map = new HashMap<>();
+        for (int i = 0; i < ring.length(); i++) {
+            char ch = ring.charAt(i);
+            map.putIfAbsent(ch, new ArrayList<>());
+            map.get(ch).add(i);
+        }
+        for (char ch : map.keySet()) {
+            List<Integer> list = map.get(ch);
+            for (int i = 0, ptr = 0; i < ring.length(); i++) {
+                next[i][ch - 'a'] = list.get(ptr);
+                prev[i][ch - 'a'] = list.get((ptr - 1 + list.size()) % list.size());
+                if (ring.charAt(i) == ch) ptr = (ptr + 1) % list.size();
             }
-            for (int j = (i - 1 + R) % R; j != i; j = (j - 1 + R) % R) {
-                int ch = ring.charAt(j) - 'a';
-                if (prev[i][ch] == -1) prev[i][ch] = j;
-            }
-            prev[i][ring.charAt(i) - 'a'] = next[i][ring.charAt(i) - 'a'] = i;
         }
 
         int[][] f = new int[K][R];
