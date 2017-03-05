@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] \]|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
@@ -669,3 +670,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [524]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_524.java
 [529_t]:   https://leetcode.com/problems/minesweeper/
 [529]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_529.java
+[532_t]:   https://leetcode.com/problems/k-diff-pairs-in-an-array/
+[532]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_532.java
