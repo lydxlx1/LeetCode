@@ -62,7 +62,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |462 |[Minimum Moves to Equal Array Elements II][462_t]|\[ [Median Finding + Quick-Selection][462] \]|
 |461 |[Hamming Distance][461_t]|\[ [Brute-force][461] \]|
-|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] &#124; [1-Liner][459_1] &#124; [1-Liner via Regex][459_2] &#124; [Miller-Rabin][459_3] \]|
+|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] &#124; [1-Liner][459_1] &#124; [1-Liner via Regex][459_2] &#124; [Miller-Rabin][459_3] &#124; [KMP][459_4] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
 |454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
@@ -505,6 +505,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [459_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459_1.java
 [459_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459_2.java
 [459_3]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459_3.java
+[459_4]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459_4.java
 [454_t]:   https://leetcode.com/problems/4sum-ii/
 [454]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_454.java
 [456_t]:   https://leetcode.com/problems/123-pattern/
