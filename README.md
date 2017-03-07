@@ -62,7 +62,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |462 |[Minimum Moves to Equal Array Elements II][462_t]|\[ [Median Finding + Quick-Selection][462] \]|
 |461 |[Hamming Distance][461_t]|\[ [Brute-force][461] \]|
-|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \]|
+|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] &#124; [1-Liner][459_1] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
 |454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
@@ -502,6 +502,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [455]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_455.java
 [459_t]:   https://leetcode.com/problems/repeated-substring-pattern/
 [459]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459.java
+[459_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_459_1.java
 [454_t]:   https://leetcode.com/problems/4sum-ii/
 [454]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_454.java
 [456_t]:   https://leetcode.com/problems/123-pattern/
