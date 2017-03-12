@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
 |532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
 |531 |[Lonely Pixel I][531_t]|\[ [Brute-force][532] \]|
@@ -687,3 +688,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [514_t]:   https://leetcode.com/problems/freedom-trail/
 [514]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_514.java
 [514_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_514_1.java
+[541_t]:   https://leetcode.com/problems/reverse-string-ii/
+[541]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_541.java
