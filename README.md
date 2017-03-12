@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
+|536 |[Construct Binary Tree from String][536_t]|\[ [LL(1)-parser][536] \]|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
 |532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
 |531 |[Lonely Pixel I][531_t]|\[ [Brute-force][532] \]|
@@ -693,3 +694,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [541]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_541.java
 [539_t]:   https://leetcode.com/problems/minimum-time-difference/
 [539]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_539.java
+[536_t]:   https://leetcode.com/problems/construct-binary-tree-from-string/
+[536]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_536.java
