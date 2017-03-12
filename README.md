@@ -14,6 +14,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |531 |[Lonely Pixel I][531_t]|\[ [Brute-force][532] \]|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
+|527 |[Word Abbreviation][527_t]|\[ [Brute-force][527] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
 |525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
 |524 |[Longest Word in Dictionary through Deleting][524_t]|\[ [Greedy][524] \]|
@@ -696,3 +697,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [539]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_539.java
 [536_t]:   https://leetcode.com/problems/construct-binary-tree-from-string/
 [536]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_536.java
+[527_t]:   https://leetcode.com/problems/word-abbreviation/
+[527]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_527.java
