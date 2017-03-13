@@ -21,7 +21,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |523 |[Continuous Subarray Sum][523_t]|\[ [Prefix Sum][523] \]|
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
-|515 |[Find Largest Element in Each Row][515_t]|\[ [DFS][515] \]|
+|515 |[Find Largest Element in Each Tree Row][515_t]|\[ [DFS][515] \]|
 |514 |[Freedom Trail][514_t]|\[ [DP][514] &#124; [Faster DP][514_1] \]|
 |513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
@@ -656,7 +656,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [504_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504_1.java
 [513_t]:   https://leetcode.com/problems/find-left-most-element/
 [513]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_513.java
-[515_t]:   https://leetcode.com/problems/find-largest-element-in-each-row/
+[515_t]:   https://leetcode.com/problems/find-largest-element-in-each-tree-row/
 [515]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_515.java
 [493_t]:   https://leetcode.com/problems/reverse-pairs/
 [493]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_493.java
