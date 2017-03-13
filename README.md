@@ -23,7 +23,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Value in Each Tree Row][515_t]|\[ [DFS][515] \]|
 |514 |[Freedom Trail][514_t]|\[ [DP][514] &#124; [Faster DP][514_1] \]|
-|513 |[Find Left Most Element][513_t]|\[ [DFS][513] \]|
+|513 |[Find Bottom Left Tree Value][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] &#124; [DFS + Multithreading][505_2] \]|
@@ -654,7 +654,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [504_t]:   https://leetcode.com/problems/base-7/
 [504]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504.java
 [504_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_504_1.java
-[513_t]:   https://leetcode.com/problems/find-left-most-element/
+[513_t]:   https://leetcode.com/problems/find-bottom-left-tree-value/
 [513]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_513.java
 [515_t]:   https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 [515]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_515.java
