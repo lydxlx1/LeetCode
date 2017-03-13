@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * LeetCode 515 - Find Largest Element in Each Row
+ * LeetCode 515 - Find Largest Value in Each Tree Row
  * <p>
  * DFS approach
  */
