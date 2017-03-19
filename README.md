@@ -9,6 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
+|538 |[Convert BST to Greater Tree][538_t]|\[ [Right-root-left-traversal][538] \]|
 |536 |[Construct Binary Tree from String][536_t]|\[ [LL(1)-parser][536] \]|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
 |532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
@@ -702,3 +703,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [527]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_527.java
 [543_t]:   https://leetcode.com/problems/diameter-of-binary-tree/
 [543]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_543.java
+[538_t]:   https://leetcode.com/problems/convert-bst-to-greater-tree/
+[538]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_538.java
