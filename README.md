@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
 |536 |[Construct Binary Tree from String][536_t]|\[ [LL(1)-parser][536] \]|
@@ -699,3 +700,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [536]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_536.java
 [527_t]:   https://leetcode.com/problems/word-abbreviation/
 [527]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_527.java
+[543_t]:   https://leetcode.com/problems/diameter-of-binary-tree/
+[543]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_543.java
