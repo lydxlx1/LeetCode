@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
+|542 |[01 Matrix][542_t]|\[ [BFS][542] \]|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
 |538 |[Convert BST to Greater Tree][538_t]|\[ [Right-root-left-traversal][538] \]|
@@ -705,3 +706,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [543]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_543.java
 [538_t]:   https://leetcode.com/problems/convert-bst-to-greater-tree/
 [538]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_538.java
+[542_t]:   https://leetcode.com/problems/01-matrix/
+[542]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_542.java
