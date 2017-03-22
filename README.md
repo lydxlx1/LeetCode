@@ -99,6 +99,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
 |422 |[Valid World Square][422_t]|\[ [Brute-force][422] \]|
 |421 |[Maximum XOR of Two Numbers in an Array][421_t]|\[ [Binary Trie][421] \]|
+|420 |[Strong Password Checker][420_t]|\[ [Stupid Solution][420] \]|
 |419 |[Battleships in a Board][419_t]|\[ [Single-pass + In-place + No modification][419] \]|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
 |417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] &#124; [DP + Vertex Contraction][417_1] \]|
@@ -711,3 +712,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [542]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_542.java
 [544_t]:   https://leetcode.com/problems/output-contest-matches/
 [544]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_544.java
+[420_t]:   https://leetcode.com/problems/strong-password-checker/
+[420]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_420.java
