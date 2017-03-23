@@ -230,6 +230,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |281 |[Zigzag Iterator][281_t]|\[ [Solution][281] \]|
 |280 |[Wiggle Sort][280_t]|\[ [One-pass Solution][280] \]|
 |277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
+|276 |[Paint Fence][276_t]|\[ [Combinatorial][276] \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
 |272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]| 
 |271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
@@ -714,3 +715,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [544]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_544.java
 [420_t]:   https://leetcode.com/problems/strong-password-checker/
 [420]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_420.java
+[276_t]:   https://leetcode.com/problems/paint-fence/
+[276]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_276.java
