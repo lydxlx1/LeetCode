@@ -29,6 +29,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |514 |[Freedom Trail][514_t]|\[ [DP][514] &#124; [Faster DP][514_1] \]|
 |513 |[Find Bottom Left Tree Value][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
+|507 |[Perfect Number][507_t]|\[ [O(sqrt(n))-time Solution][507] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
 |505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] &#124; [DFS + Multithreading][505_2] \]|
 |504 |[Base 7][504_t]|\[ [1-line Solution][504] &#124; [Conventional Method][504_1] \]|
@@ -717,3 +718,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [420]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_420.java
 [276_t]:   https://leetcode.com/problems/paint-fence/
 [276]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_276.java
+[507_t]:   https://leetcode.com/problems/perfect-number/
+[507]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_507.java
