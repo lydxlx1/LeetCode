@@ -12,6 +12,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
 |538 |[Convert BST to Greater Tree][538_t]|\[ [Right-root-left-traversal][538] \]|
+|537 |[Complex Number Multiplication][537_t]|\[ [Brute-force][537] \]|
 |536 |[Construct Binary Tree from String][536_t]|\[ [LL(1)-parser][536] \]|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
 |532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
@@ -720,3 +721,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [276]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_276.java
 [507_t]:   https://leetcode.com/problems/perfect-number/
 [507]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_507.java
+[537_t]:   https://leetcode.com/problems/complex-number-multiplication/
+[537]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_537.java
