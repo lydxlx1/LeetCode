@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
 |544 |[Output Contest Matches][544_t]|\[ [Brute-force][544] \]|
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
 |542 |[01 Matrix][542_t]|\[ [BFS][542] \]|
@@ -723,3 +724,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [507]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_507.java
 [537_t]:   https://leetcode.com/problems/complex-number-multiplication/
 [537]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_537.java
+[545_t]:   https://leetcode.com/problems/boundary-of-binary-tree/
+[545]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_545.java
