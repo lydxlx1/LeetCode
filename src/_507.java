@@ -13,7 +13,7 @@ public class _507 {
         for (long i = 1; i * i <= num; i++)
             if (num % i == 0) {
                 if (i < num) ans += i;
-                if (num / i < num) ans += num / i;
+                if (i != num / i && num / i < num) ans += num / i;
             }
         return ans == num;
     }
