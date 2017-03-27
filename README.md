@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
 |544 |[Output Contest Matches][544_t]|\[ [Brute-force][544] \]|
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
@@ -726,3 +727,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [537]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_537.java
 [545_t]:   https://leetcode.com/problems/boundary-of-binary-tree/
 [545]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_545.java
+[546_t]:   https://leetcode.com/problems/remove-boxes/
+[546]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_546.java
