@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
-|544 |[Output Contest Matches][544_t]|\[ [Brute-force][544] &#124; [O(n)-time Solution][544_1] \]|
+|544 |[Output Contest Matches][544_t]|\[ [Brute-force][544] \| [O(n)-time Solution][544_1] \]|
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
 |542 |[01 Matrix][542_t]|\[ [BFS][542] \]|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
