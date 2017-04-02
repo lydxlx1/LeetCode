@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|548 |[Split Array with Equal Sum][548_t]|\[ [O(n^2)-time Solution][548] \]|
 |547 |[Friend Circles][547_t]|\[ [DFS][547] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
@@ -739,3 +740,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [522]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_522.java
 [547_t]:   https://leetcode.com/problems/friend-circles/
 [547]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_547.java
+[548_t]:   https://leetcode.com/problems/split-array-with-equal-sum/
+[548]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_548.java
