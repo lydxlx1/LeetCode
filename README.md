@@ -27,6 +27,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |524 |[Longest Word in Dictionary through Deleting][524_t]|\[ [Greedy][524] \]|
 |523 |[Continuous Subarray Sum][523_t]|\[ [Prefix Sum][523] \]|
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
+|521 |[Longest Uncommon Subsequence I][521_t]|\[ [Math][521] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Value in Each Tree Row][515_t]|\[ [DFS][515] \]|
 |514 |[Freedom Trail][514_t]|\[ [DP][514] &#124; [Faster DP][514_1] \]|
@@ -730,3 +731,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [545]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_545.java
 [546_t]:   https://leetcode.com/problems/remove-boxes/
 [546]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_546.java
+[521_t]:   https://leetcode.com/problems/longest-uncommon-subsequence-i/
+[521]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_521.java
