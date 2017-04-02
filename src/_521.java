@@ -1,7 +1,7 @@
 /**
  * LeetCode 521 - Longest Uncommon Subsequence I
  * <p>
- * A really interesting problem that best fits the spirit of April 1.
+ * A really interesting problem that best fits April 1.
  */
 public class _521 {
     public int findLUSlength(String a, String b) {
