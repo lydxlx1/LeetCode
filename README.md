@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|557 |[Reverse Words in a String III][557_t]|\[ [Solution][557] \]|
+|556 |[Next Greater Element III][556_t]|\[ [Next Permutation][556] \]|
+|554 |[Brick Wall][554_t]|\[ [Prefix-sum][554] \]|
+|549 |[Binary Tree Longest Consecutive Sequence II][549_t]|\[ [Tree-DP][549] \]|
 |548 |[Split Array with Equal Sum][548_t]|\[ [O(n^2)-time Solution][548] \]|
 |547 |[Friend Circles][547_t]|\[ [DFS][547] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
@@ -742,3 +746,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [547]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_547.java
 [548_t]:   https://leetcode.com/problems/split-array-with-equal-sum/
 [548]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_548.java
+[557_t]:   https://leetcode.com/problems/reverse-words-in-a-string-iii/
+[557]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_557.java
+[554_t]:   https://leetcode.com/problems/brick-wall/
+[554]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_554.java
+[556_t]:   https://leetcode.com/problems/next-greater-element-iii/
+[556]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_556.java
+[549_t]:   https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
+[549]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_548.java

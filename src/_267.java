@@ -51,13 +51,14 @@ public class _267 {
     public boolean nextPermutation(char[] a) {
         for (int i = a.length - 2; i >= 0; i--)
             if (a[i] < a[i + 1]) {
-                int minIndex = i + 1;
-                for (int j = i + 2; j < a.length; j++)
-                    if (a[j] > a[i] && a[j] < a[minIndex])
-                        minIndex = j;
-                swap(a, i, minIndex);
-                reverse(a, i + 1, a.length - 1);
-                return true;
+                for (int j = a.length - 1; j > i; j--) {
+                    if (a[j] > a[i]) {
+                        swap(a, i, j);
+                        reverse(a, i + 1, a.length - 1);
+                        return true;
+                    }
+                }
+                throw new RuntimeException("Should never be here.");
             }
         return false;
     }
