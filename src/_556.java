@@ -37,7 +37,7 @@ public class _556 {
         long tmp = 0;
         for (char ch : a)
             tmp = tmp * 10 + ch - '0';
-        return tmp < Integer.MAX_VALUE ? (int) tmp : -1;
+        return tmp <= Integer.MAX_VALUE ? (int) tmp : -1;
     }
 
     public static void main(String[] args) {
