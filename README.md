@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|553 |[Optimal Division][553_t]|\[ [Greedy][553] \]|
 |551 |[Student Attendance Record I][551_t]|\[ [1-Liner][551] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
@@ -733,3 +734,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [546]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_546.java
 [551_t]:   https://leetcode.com/problems/student-attendance-record-i/
 [551]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_551.java
+[553_t]:   https://leetcode.com/problems/optimal-division/
+[553]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_553.java
