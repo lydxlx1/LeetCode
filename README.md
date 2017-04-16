@@ -6,12 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|557 |[Reverse Words in a String III][557_t]|\[ [Solution][557] \]|
-|556 |[Next Greater Element III][556_t]|\[ [Next Permutation][556] \]|
-|554 |[Brick Wall][554_t]|\[ [Prefix-sum][554] \]|
-|549 |[Binary Tree Longest Consecutive Sequence II][549_t]|\[ [Tree-DP][549] \]|
-|548 |[Split Array with Equal Sum][548_t]|\[ [O(n^2)-time Solution][548] \]|
-|547 |[Friend Circles][547_t]|\[ [DFS][547] \]|
+|551 |[Student Attendance Record I][551_t]|\[ [1-Liner][551] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
 |544 |[Output Contest Matches][544_t]|\[ [Brute-force][544] \| [O(n)-time Solution][544_1] \]|
@@ -23,52 +18,50 @@ I will keep updating the list and feel free to share any of your thoughts!
 |537 |[Complex Number Multiplication][537_t]|\[ [Brute-force][537] \]|
 |536 |[Construct Binary Tree from String][536_t]|\[ [LL(1)-parser][536] \]|
 |533 |[Lonely Pixel II][533_t]|\[ [Solution][533] \]|
-|532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] &#124; [Two-pointer][532_1] \]|
+|532 |[K-diff Pairs in an Array][532_t]|\[ [O(n)-time Solution][532] \| [Two-pointer][532_1] \]|
 |531 |[Lonely Pixel I][531_t]|\[ [Brute-force][532] \]|
 |530 |[Minimum Absolute Difference in BST][530_t]|\[ [DFS][530] \]|
 |529 |[Minesweeper][529_t]|\[ [DFS][529] \]|
 |527 |[Word Abbreviation][527_t]|\[ [Brute-force][527] \]|
 |526 |[Beautiful Arrangement][526_t]|\[ [Permutation][526] \]|
-|525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] &#124; [Divide-and-conquer][525_1] \]|
+|525 |[Contiguous Array][525_t]|\[ [Prefix Sum][525] \| [Divide-and-conquer][525_1] \]|
 |524 |[Longest Word in Dictionary through Deleting][524_t]|\[ [Greedy][524] \]|
 |523 |[Continuous Subarray Sum][523_t]|\[ [Prefix Sum][523] \]|
-|522 |[Longest Uncommon Subsequence II][522_t]|\[ [Greedy][522] \]|
-|521 |[Longest Uncommon Subsequence I][521_t]|\[ [Math][521] \]|
 |520 |[Detect Capital][520_t]|\[ [Regex][520] \]|
 |517 |[Super Washing Machines][517_t]|\[ [O(n)-time Solution][517] \]|
 |515 |[Find Largest Value in Each Tree Row][515_t]|\[ [DFS][515] \]|
-|514 |[Freedom Trail][514_t]|\[ [DP][514] &#124; [Faster DP][514_1] \]|
+|514 |[Freedom Trail][514_t]|\[ [DP][514] \| [Faster DP][514_1] \]|
 |513 |[Find Bottom Left Tree Value][513_t]|\[ [DFS][513] \]|
 |509 |[Most Frequent Subtree Sum][508_t]|\[ [Tree Traversal][508] \]|
 |507 |[Perfect Number][507_t]|\[ [O(sqrt(n))-time Solution][507] \]|
 |506 |[Relative Ranks][506_t]|\[ [Sorting][506] \]|
-|505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] &#124; [A* Search][505_1] &#124; [DFS + Multithreading][505_2] \]|
-|504 |[Base 7][504_t]|\[ [1-line Solution][504] &#124; [Conventional Method][504_1] \]|
+|505 |[The Maze II][505_t]|\[ [DFS + Pruning][505] \| [A* Search][505_1] \| [DFS + Multithreading][505_2] \]|
+|504 |[Base 7][504_t]|\[ [1-line Solution][504] \| [Conventional Method][504_1] \]|
 |503 |[Next Greater Element II][503_t]|\[ [Monotone Stack][503] \]|
 |502 |[IPO][502_t]|\[ [Greedy][502] \]|
-|501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] &#124; [O(1)-extra-space Solution][501_1] \]|
+|501 |[Find Mode in Binary Tree][501_t]|\[ [DFS + HashMap][501] \| [O(1)-extra-space Solution][501_1] \]|
 |500 |[Keyboard Row][500_t]|\[ [1-Line Solution][500] \]|
-|499 |[The Maze III][499_t]|\[ [A*][499] &#124; [DFS][499_1] \]|
-|498 |[Diagonal Traversal][498_t]|\[ [Sorting][498] &#124; [Direct Approach][498_1] \]|
+|499 |[The Maze III][499_t]|\[ [A*][499] \| [DFS][499_1] \]|
+|498 |[Diagonal Traversal][498_t]|\[ [Sorting][498] \| [Direct Approach][498_1] \]|
 |496 |[Next Greater Element I][496_t]|\[ [Brute-force][496] \]|
 |495 |[Teemo Attacking][495_t]|\[ [Sweepline][495] \]|
 |494 |[Target Sum][494_t]|\[ [Knapsack][494] \]|
-|493 |[Reverse Pairs][493_t]|\[ [Merge-sort][493] &#124; [Merge-sort Shorter Code][493_1] &#124; [BIT][493_2] \]|
+|493 |[Reverse Pairs][493_t]|\[ [Merge-sort][493] \| [Merge-sort Shorter Code][493_1] \| [BIT][493_2] \]|
 |492 |[Construct the Rectangle][492_t]|\[ [Brute-force][492] \]|
 |491 |[Increasing Subsequences][491_t]|\[ [Brute-force][491] \]|
 |490 |[The Maze][490_t]|\[ [DFS][490] \]|
 |488 |[Zuma Game][488_t]|\[ [BFS][488] \]|
 |487 |[Max Consecutive Ones II][487_t]|\[ [O(1)-space Solution][487] \]|
-|486 |[Predict the Winner][486_t]|\[ [DP + Game Theory][486] &#124; [Shorter Code][486_1] \]|
+|486 |[Predict the Winner][486_t]|\[ [DP + Game Theory][486] \| [Shorter Code][486_1] \]|
 |485 |[Max Consecutive Ones][485_t]|\[ [Brute-force][485] \]|
-|484 |[Find Permutation][484_t]|\[ [Topological-sort][484] &#124; [Constructive Approach][484_1] \]|
+|484 |[Find Permutation][484_t]|\[ [Topological-sort][484] \| [Constructive Approach][484_1] \]|
 |483 |[Smallest Good Base][483_t]|\[ [Brute-force + Binary Search][483] \]|
 |482 |[License Key Formatting][482_t]|\[ [Short Solution][482] \]|
 |481 |[Magical String][481_t]|\[ [BFS][481] \]|
 |480 |[Sliding Window Median][480_t]|\[ [Order Statistic Tree via Fenwick Tree][480] \]|
 |477 |[Total Hamming Distance][477_t]|\[ [Bit-by-bit Counting][477] \]|
 |476 |[Number Complement][476_t]|\[ [One-line Solution][476] \]|
-|475 |[Heaters][475_t]|\[ [Direct Approach][475] &#124; [Binary Search][475_1] \]|
+|475 |[Heaters][475_t]|\[ [Direct Approach][475] \| [Binary Search][475_1] \]|
 |474 |[One and Zeroes][474_t]|\[ [0/1-Knapsack][474] \]|
 |473 |[Matchsticks to Square][473_t]|\[ [Backtracking][473] \]|
 |472 |[Concatenated Words][472_t]|\[ [DP + Trie][472] \]|
@@ -82,84 +75,84 @@ I will keep updating the list and feel free to share any of your thoughts!
 |463 |[Island Perimeter][463_t]|\[ [Brute-force][463] \]|
 |462 |[Minimum Moves to Equal Array Elements II][462_t]|\[ [Median Finding + Quick-Selection][462] \]|
 |461 |[Hamming Distance][461_t]|\[ [Brute-force][461] \]|
-|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] &#124; [1-Liner][459_1] &#124; [1-Liner via Regex][459_2] &#124; [Miller-Rabin][459_3] &#124; [KMP][459_4] \]|
+|459 |[Repeated Substring Pattern][459_t]|\[ [O(n^1.5) Solution][459] \| [1-Liner][459_1] \| [1-Liner via Regex][459_2] \| [Miller-Rabin][459_3] \| [KMP][459_4] \]|
 |456 |[123 Pattern][456_t]|\[ [O(n log n) Solution via BST][456] \]|
 |455 |[Assign Cookies][455_t]|\[ [Greedy][455] \]|
 |454 |[4Sum II][454_t]|\[ [HashMap][454] \]|
 |453 |[Minimum Moves to Equal Array Elements][453_t]|\[ [Solution][453] \]|
 |452 |[Minimum Number of Arrows to Burst Balloons][452_t]|\[ [Greedy via Sweepline][452] \]|
 |451 |[Sort Characters by Frequency][451_t]|\[ [Counting-sort][451] \]|
-|450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] &#124; [Shorter Solution][450_1] \]|
-|449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] &#124; [Optimized Version][449_1] \]|
+|450 |[Delete Node in a BST][450_t]|\[ [Iterative Solution][450] \| [Shorter Solution][450_1] \]|
+|449 |[Serialize and Deserialize BST][449_t]|\[ [Pre-order Traversal][449] \| [Optimized Version][449_1] \]|
 |448 |[Find All Numbers Disappeared in an Array][448_t]|\[ [Cycle-finding][448] \]|
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
-|446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] &#124; [O(n^2) DP Solution with Pruning][446_1] \]|
+|446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] \| [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
 |442 |[Find All Duplicates in an Array][442_t]|\[ [Mod Trick][442] \]|
 |441 |[Arranging Coins][441_t]|\[ [O(1) Brute-force][441] \]|
 |440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
 |439 |[Ternary Expression Parser][439_t]|\[ [Top-down Approach][439] \]|
 |438 |[Find All Anagrams in a String][438_t]|\[ [Sliding-window][438] \]|
-|437 |[Path Sum III][437_t]|\[ [One-pass DFS][437] &#124; [One-pass DFS Version 2][437_1] &#124; [Two-pass DFS][437_2] \]|
+|437 |[Path Sum III][437_t]|\[ [One-pass DFS][437] \| [One-pass DFS Version 2][437_1] \| [Two-pass DFS][437_2] \]|
 |436 |[Find Right Interval][436_t]|\[ [TreeMap][436] \]|
-|435 |[Non-overlapping Intervals][435_t]|\[ [Greedy][435] &#124; [Activity Selection][435_1] \]|
+|435 |[Non-overlapping Intervals][435_t]|\[ [Greedy][435] \| [Activity Selection][435_1] \]|
 |435 |[Number of Segments in a String][434_t]|\[ [Regex][434] \]|
 |433 |[Minimum Genetic Mutation][433_t]|\[ [BFS][433] \]|
 |432 |[All O`one Data Structure][432_t]|\[ [HashMap + Doubly Circular Linked List][432] \]|
-|425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] &#124; [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
-|424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] &#124; [Sliding-window][424_1] \]|
+|425 |[Word Squares][425_t]|\[ [Backtracking + Pruning with Prefix Structure][425] \| [Hueristic Backtracking + Pruning with BitSet][425_1] \]|
+|424 |[Longest Repeating Character Replacement][424_t]|\[ [Binary Search][424] \| [Sliding-window][424_1] \]|
 |423 |[Reconstruct Original Digits from English][423_t]|\[ [Greedy][423] \]|
 |422 |[Valid World Square][422_t]|\[ [Brute-force][422] \]|
 |421 |[Maximum XOR of Two Numbers in an Array][421_t]|\[ [Binary Trie][421] \]|
 |420 |[Strong Password Checker][420_t]|\[ [Stupid Solution][420] \]|
 |419 |[Battleships in a Board][419_t]|\[ [Single-pass + In-place + No modification][419] \]|
 |418 |[Sentence Screen Fitting][418_t]|\[ [Simulation][418] \]|
-|417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] &#124; [DP + Vertex Contraction][417_1] \]|
+|417 |[Pacific Atlantic Water Flow][417_t]|\[ [Graph Reachability][417] \| [DP + Vertex Contraction][417_1] \]|
 |416 |[Partition Equal Subset Sum][416_t]|\[ [0/1-Knapsack][416] \]|
 |415 |[Add Strings][415_t]|\[ [BigInteger Addition][415] \]|
 |414 |[Third Maximum Number][414_t]|\[ [One-pass Solution][414] \]|
-|413 |[Arithmetic Slices][413_t]|\[ [Solution][413] &#124; [In-place Solution][413_1] \]|
+|413 |[Arithmetic Slices][413_t]|\[ [Solution][413] \| [In-place Solution][413_1] \]|
 |412 |[Fizz Buzz][412_t]|\[ [Brute-force][412] \]|
 |411 |[Minimum Unique Word Abbreviation][411_t]|\[ [Brute-force + Pruning][411] \]|
 |410 |[Split Array Largest Sum][410_t]|\[ [Bisect + Greedy][410] \]|
 |409 |[Longest Palindrome][409_t]|\[ [Counting][409] \]|
 |408 |[Valid Word Abbreviation][408_t]|\[ [Brute-force][408] \]|
-|407 |[Trapping Rain Water II][407_t]|\[ [Priority Queue][407] &#124; [Dijkstra][407_1] &#124; [SPFA][407_2] \]|
+|407 |[Trapping Rain Water II][407_t]|\[ [Priority Queue][407] \| [Dijkstra][407_1] \| [SPFA][407_2] \]|
 |406 |[Queue Reconstruction by Height][406_t]|\[ [Greedy + Sorting][406] \]|
 |405 |[Convert a Number to Hexadecimal][405_t]|\[ [Bit Manipulation][405] \]|
 |404 |[Sum of Left Leaves][404_t]|\[ [DFS][404] \]|
 |403 |[Frog Jump][403_t]|\[ [DP][403] \]|
 |402 |[Remove K Digits][402_t]|\[ [Greedy + Monotone Stack][402] \]|
-|401 |[Binary Watch][401_t]|\[ [Brute-force 1][401] &#124; [Brute-force 2][401_1]\]|
+|401 |[Binary Watch][401_t]|\[ [Brute-force 1][401] \| [Brute-force 2][401_1]\]|
 |400 |[Nth Digit][400_t]|\[ [Counting + Bisect][400] \]|
-|399 |[Evaluate Division][399_t]|\[ [Floyed][399] &#124; [DFS][399_1] \]|
-|398 |[Random Pick Index][398_t]|\[ [Solution1][398] &#124; [Solution2][398_1] &#124; [Solution3][398_2] \]|
+|399 |[Evaluate Division][399_t]|\[ [Floyed][399] \| [DFS][399_1] \]|
+|398 |[Random Pick Index][398_t]|\[ [Solution1][398] \| [Solution2][398_1] \| [Solution3][398_2] \]|
 |397 |[Integer Replacement][397_t]|\[ [BFS][397] \]|
 |396 |[Rotate Fucntion][396_t]|\[ [Solution][396] \]|
-|395 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|\[ [O(256N) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_395.java) &#124; [Solution with Pruning](https://github.com/lydxlx1/LeetCode/blob/master/src/_395_1.java) \]|
+|395 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|\[ [O(256N) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_395.java) \| [Solution with Pruning](https://github.com/lydxlx1/LeetCode/blob/master/src/_395_1.java) \]|
 |394 |[Decode String](https://leetcode.com/problems/decode-string/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_394.java) \]|
 |393 |[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_393.java) \]|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_392.java) \]|
-|391 |[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|\[ [Sweepline + TreeMap](https://github.com/lydxlx1/LeetCode/blob/master/src/_391.java) &#124; [Sweepline + Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_391_1.java) \]|
+|391 |[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|\[ [Sweepline + TreeMap](https://github.com/lydxlx1/LeetCode/blob/master/src/_391.java) \| [Sweepline + Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_391_1.java) \]|
 |390 |[Elimination Game](https://leetcode.com/problems/elimination-game/)|\[ [O(log n) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_390.java) \]|
 |389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_389.java) \]|
-|388 |[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_388.java) &#124; [Recursively Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_388_1.java) \]|
+|388 |[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_388.java) \| [Recursively Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_388_1.java) \]|
 |387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|\[ [Brute-Force](https://github.com/lydxlx1/LeetCode/blob/master/src/_387.java) \]|
-|386 |[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|\[ [Using a stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_386.java) &#124; [Recursive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_386_1.java) \]|
-|385 |[Mini Parser](https://leetcode.com/problems/mini-parser/)|\[ [Char-by-char Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_385.java) &#124; [Using Scanner](https://github.com/lydxlx1/LeetCode/blob/master/src/_385_1.java) \]|
+|386 |[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|\[ [Using a stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_386.java) \| [Recursive Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_386_1.java) \]|
+|385 |[Mini Parser](https://leetcode.com/problems/mini-parser/)|\[ [Char-by-char Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_385.java) \| [Using Scanner](https://github.com/lydxlx1/LeetCode/blob/master/src/_385_1.java) \]|
 |384 |[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_384.java) \]|
 |383 |[Ransom Note](https://leetcode.com/problems/ransom-note/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_383.java) \]|
 |381 |[Insert Delete GetRandom O(1) Duplicate Allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_381.java) \]|
 |379 |[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|\[ [Simple Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_379.java) \]|
 |378 |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|\[ [Bisect + Young Tableau](https://github.com/lydxlx1/LeetCode/blob/master/src/_378.java) \]|
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_377.java) \]|
-|376 |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) &#124; [O(n) In-place Maximal/Minimal Finding](https://github.com/lydxlx1/LeetCode/blob/master/src/_376_1.java) \]|
+|376 |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|\[ [O(n) Climbing Mountain](https://github.com/lydxlx1/LeetCode/blob/master/src/_376.java) \| [O(n) In-place Maximal/Minimal Finding](https://github.com/lydxlx1/LeetCode/blob/master/src/_376_1.java) \]|
 |375 |[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_375.java) \]|
 |374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_374.java) \]|
-|373 |[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) &#124; [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
-|372 |[Super Pow](https://leetcode.com/problems/super-pow/)|\[ [Most-significant Bit -> Least-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372.java) &#124; [Least-significant Bit -> Most-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372_1.java) \]|
+|373 |[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|\[ [O(k log k) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373_1.java) \| [O(k log(min(k, m, n)) + min(k, m, n)) Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_373.java) \]|
+|372 |[Super Pow](https://leetcode.com/problems/super-pow/)|\[ [Most-significant Bit -> Least-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372.java) \| [Least-significant Bit -> Most-significant Bit](https://github.com/lydxlx1/LeetCode/blob/master/src/_372_1.java) \]|
 |371 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|\[ [Bit Manipulation](https://github.com/lydxlx1/LeetCode/blob/master/src/_371.java) \]|
-|370 |[Range Addition](https://leetcode.com/problems/range-addition/)|\[ [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_370.java) &#124; [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_1.java) &#124; [O(n) Prefix Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_2.java) &#124; [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_3.java) \]|
+|370 |[Range Addition](https://leetcode.com/problems/range-addition/)|\[ [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_370.java) \| [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_1.java) \| [O(n) Prefix Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_2.java) \| [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_370_3.java) \]|
 |369 |Plus One Linked List&#x1f512;||
 |368 |[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_368.java) \]|
 |367 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|\[ [Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_367.java) \]|
@@ -170,26 +163,26 @@ I will keep updating the list and feel free to share any of your thoughts!
 |362 |[Design Hit Counter][362_t]|\[ [Sliding Window][362] \]|
 |361 |[Bomb Enemy][361_t]|\[ [DP][361] \]|
 |360 |[Sort Transformed Array][360_t]|\[ [O(n)-time Solution][360] \]|
-|359 |[Logger Rate Limiter][359_t]| \[ [Simple Solution][359] &#124; [Sliding Window][359_1] \]|
+|359 |[Logger Rate Limiter][359_t]| \[ [Simple Solution][359] \| [Sliding Window][359_1] \]|
 |358 |[Rearrange String k Distance Apart][358_t]| \[ [Greedy + Sliding Window][358] \]|
 |357 |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|\[ [Product Rule](https://github.com/lydxlx1/LeetCode/blob/master/src/_357.java) \]|
 |356 |[Line Reflection](https://leetcode.com/problems/line-reflection/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_356.java) \]|
 |355 |[Design Twitter](https://leetcode.com/problems/design-twitter/)|\[ [k-way Merging](https://github.com/lydxlx1/LeetCode/blob/master/src/_355.java) \]|
-|354 |[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) &#124; [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
+|354 |[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|\[ [Longest Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_354.java) \| [Longest Increasing Subsequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_354_1.java) \]|
 |353 |[Design Snake Game][353_t]|\[ [Deque + HashTable][353] \] |
 |352 |[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|\[ [BST](https://github.com/lydxlx1/LeetCode/blob/master/src/_352.java) \]|
 |351 |Android Unlock Patterns&#x1f512;||
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|\[ [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_350.java) \]|
 |349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|\[ [Java Stream](https://github.com/lydxlx1/LeetCode/blob/master/src/_349.java) \]|
 |348 |[Design Tic-Tac-Toe][348_t]|\[ [O(1)-time Solution][348] \] |
-|347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) &#124; [Map+CountingSort](https://github.com/lydxlx1/LeetCode/blob/master/src/_347_1.java) \]|
+|347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|\[ [Map+QuickSelection](https://github.com/lydxlx1/LeetCode/blob/master/src/_347.java) \| [Map+CountingSort](https://github.com/lydxlx1/LeetCode/blob/master/src/_347_1.java) \]|
 |346 |[Moving Average from Data Stream][346_t]|\[ [Sliding Window][346] \]|
 |345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|\[ [Two-Pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_345.java) \]|
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|\[ [String](https://github.com/lydxlx1/LeetCode/blob/master/src/_344.java) \]|
 |343 |[Integer Break](https://leetcode.com/problems/integer-break/)|\[ [Math/DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_343.java) \]|
 |342 |[Power of Four](https://leetcode.com/problems/power-of-four/)|\[ [Bit Manipulate](https://github.com/lydxlx1/LeetCode/blob/master/src/_342.java) \]|
-|341 |[Flatten Nested List Iterator][341_t]|\[ [Stack/DFS][341] &#124; [Lazier][341_1] \]|
-|340 |[Longest Substring with At Most K Distinct Characters][340_t]|\[ [O(n) Sliding Window][340] &#124; [O(n log n) Bisect][340_1] &#124; [Slinding Window Shorter Code][340_2] &#124; [Sliding Window for Streaming Data (1 pass)][340_3] \]|
+|341 |[Flatten Nested List Iterator][341_t]|\[ [Stack/DFS][341] \| [Lazier][341_1] \]|
+|340 |[Longest Substring with At Most K Distinct Characters][340_t]|\[ [O(n) Sliding Window][340] \| [O(n log n) Bisect][340_1] \| [Slinding Window Shorter Code][340_2] \| [Sliding Window for Streaming Data (1 pass)][340_3] \]|
 |339 |[Nested List Weight Sum][339_t]|\[ [DFS][339] \]|
 |338 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|\[ [Counting](https://github.com/lydxlx1/LeetCode/blob/master/src/_338.java) \]|
 |337 |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|\[ [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_337.java) \]|
@@ -198,7 +191,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|\[ [LIS](https://github.com/lydxlx1/LeetCode/blob/master/src/_334.java) \]|
 |333 |[Largest BST Subtree][333_t]|\[ [Tree-DP][333] \]|
 |332 |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|\[ [Euler Path](https://github.com/lydxlx1/LeetCode/blob/master/src/_332.java) \]|
-|331 |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_331.java) &#124; [Property of Full Binary Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_331_1.java) \]|
+|331 |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|\[ [Using a Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_331.java) \| [Property of Full Binary Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_331_1.java) \]|
 |330 |[Patching Array](https://leetcode.com/problems/patching-array/)|\[ [Greedy Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_330.java) \]|
 |329 |[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|\[ [O(nm) DP ](https://github.com/lydxlx1/LeetCode/blob/master/src/_329.java) \]|
 |328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|\[ [O(n) in-place](https://github.com/lydxlx1/LeetCode/blob/master/src/_328.java) \]|
@@ -213,41 +206,41 @@ I will keep updating the list and feel free to share any of your thoughts!
 |319 |[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|\[ [O(1) Math](https://github.com/lydxlx1/LeetCode/blob/master/src/_319.java) \]|
 |318 |[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|\[ [O(n^2) brute-force](https://github.com/lydxlx1/LeetCode/blob/master/src/_318.java) \]|
 |317 |Shortest Distance from All Buildings&#x1f512;||
-|316 |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) &#124; [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
-|315 |[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) &#124; [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_315_1.java) \]|
-|314 |[Binary Tree Vertical Order TGraversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_314.java) &#124; [BFS (slower, but shorter)](https://github.com/lydxlx1/LeetCode/blob/master/src/_314_1.java) \]|
+|316 |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|\[ [O(n) Greedy Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_316.java) \| [O(n) Solution via Stack](https://github.com/lydxlx1/LeetCode/blob/master/src/_316_1.java) \]|
+|315 |[Count of Small Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|\[ [Discretization + Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_315.java) \| [Mergesort](https://github.com/lydxlx1/LeetCode/blob/master/src/_315_1.java) \]|
+|314 |[Binary Tree Vertical Order TGraversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_314.java) \| [BFS (slower, but shorter)](https://github.com/lydxlx1/LeetCode/blob/master/src/_314_1.java) \]|
 |313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|\[ [O(nk) Constructive Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_313.java) \]|
 |312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|\[ [O(n^3) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_312.java) \]|
 |311 |Sparse Matrix Multiplication&#x1f512;||
-|310 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) &#124; [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
-|309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|\[ [O(n^2) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309.java) &#124; [O(n) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309_1.java) \]|
-|308 |[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|\[ [2D-Sqrt Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_308.java) &#124; [2D Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_308_1.java) \]|
-|307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) &#124; [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) &#124; [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java) \]|
+|310 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| \[ [Longest Path in Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_310.java) \| [Tree DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_310_1.java) \]  |
+|309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|\[ [O(n^2) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309.java) \| [O(n) DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_309_1.java) \]|
+|308 |[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|\[ [2D-Sqrt Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_308.java) \| [2D Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_308_1.java) \]|
+|307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|\[ [sqrt(n) Trick](https://github.com/lydxlx1/LeetCode/blob/master/src/_307.java) \| [Fenwick Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_1.java) \| [Segment Tree](https://github.com/lydxlx1/LeetCode/blob/master/src/_307_2.java) \]|
 |306 |[Additive Number](https://leetcode.com/problems/additive-number/)|\[ [Fibonacci Sequence](https://github.com/lydxlx1/LeetCode/blob/master/src/_306.java) \]|
 |305 |[Number of Islands II][305_t]| \[ [Union-Find Set][305] \]|
 |304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|\[ [Inclusion-Exclusion](https://github.com/lydxlx1/LeetCode/blob/master/src/_304.java) \]|
 |303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|\[ [Prefix Sum](https://github.com/lydxlx1/LeetCode/blob/master/src/_303.java) \]|
 |302 |[Smallest Rectangle Enclosing Black Pixels][302_t]| \[ [DFS][302] \] |
-|301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) &#124; [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
-|298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) &#124; [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) &#124; [Another DFS Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_2.java)\]|
+|301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|\[ [Backtracking](https://github.com/lydxlx1/LeetCode/blob/master/src/_301.java) \| [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_301_1.java) \]|
+|298 |[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|\[ [Tree-DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_298.java) \| [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_1.java) \| [Another DFS Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_298_2.java)\]|
 |297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|\[ [DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_297.java) \]|
 |294 |[Flip Game II][294_t]|\[ [Nim + Sprague-Grundy Theorem][294] \]|
 |293 |[Flip Game][293_t]|\[ [Brute-force][293] \]|
-|291 |[Word Pattern II][291_t]|\[ [Backtracking][291] &#124; [Backtracking + Pruning][291_1] \]|
-|289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) &#124; [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
+|291 |[Word Pattern II][291_t]|\[ [Backtracking][291] \| [Backtracking + Pruning][291_1] \]|
+|289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|\[ [In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_289.java) \| [Infinite Board](https://github.com/lydxlx1/LeetCode/blob/master/src/_289_1.java) \]|
 |288 |[Unique Word Abbreviation][288_t]|\[ [HashMap][288] \]|
 |286 |[Walls and Gates][286_t]|\[ [BFS][286]\]|
-|285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) &#124; [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
-|283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) &#124; [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
+|285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-success-in-bst/)|\[ [Top-down Approach](https://github.com/lydxlx1/LeetCode/blob/master/src/_285.java) \| [Using Parent Pointers](https://github.com/lydxlx1/LeetCode/blob/master/src/_285_1.java) \]|
+|283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|\[ [Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_283.java) \| [Cheating](https://github.com/lydxlx1/LeetCode/blob/master/src/_283_1.java) \]|
 |281 |[Zigzag Iterator][281_t]|\[ [Solution][281] \]|
 |280 |[Wiggle Sort][280_t]|\[ [One-pass Solution][280] \]|
 |277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
 |276 |[Paint Fence][276_t]|\[ [Combinatorial][276] \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
 |272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]| 
-|271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) &#124; [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
+|271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) \| [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
 |270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
-|269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) &#124; [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) &#124; [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
+|269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) \| [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) \| [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
 |267 |[Palindrome Permutation II][267_t]|\[ [Counting + Next Permutation][267] \]| 
 |266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
 |265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
@@ -255,7 +248,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |261 |[Graph Valid Tree][261_t]|\[ [Union-find Set][261] \]| 
 |259 |[3Sum Smaller][259_t]|\[ [Two-pointer][259] \]|
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
-|255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) &#124; [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
+|255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) \| [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
 |254 |[Factor Combinations][254_t]|\[ [Backtracking][254] \]|
 |253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|\[ [Sweepline Algorithm](https://github.com/lydxlx1/LeetCode/blob/master/src/_253.java) \]|
 |252 |[Meeting Rooms][252_t]|\[ [Sweepline][252] \]|
@@ -265,8 +258,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 |246 |[Strobogrammatic Number][246_t]|\[ [Brute-force][246] \]|
 |245 |[Shortest Word Distance III][245_t]|\[ [Linear Scan][245] \]|
 |244 |[Shortest Word Distance II][244_t]|\[ [Solution][244] \]|
-|218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) &#124; [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
-|214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) &#124; [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
+|218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) \| [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
+|214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \| [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 |212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|\[ [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_212.java) \]|
 |206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_206.java) \]| 
 |197 |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]| 
@@ -290,12 +283,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 |158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
 |157 |[Read N Characters Given Read4][157_t] |\[ [Reader][157] \]| 
 |156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]| 
-|155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) &#124; [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
-|151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) &#124; [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
+|155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) \| [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
+|151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) \| [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
 |146 |[LRU Cache](https://leetcode.com/problems/lru-cache/)|\[ [Doubly Connected Linked List + Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_146.java) \]|
 |140 |[Word Break II](https://leetcode.com/problems/word-break-ii/)|\[ [DP + DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_140.java) \]|
-|139 |[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) &#124; [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
-|136 |[Single Number](https://leetcode.com/problems/single-number/)|\[ [Xor](https://github.com/lydxlx1/LeetCode/blob/master/src/_136.java) &#124; [Randomized Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_136_1.java) \]|
+|139 |[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) \| [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
+|136 |[Single Number](https://leetcode.com/problems/single-number/)|\[ [Xor](https://github.com/lydxlx1/LeetCode/blob/master/src/_136.java) \| [Randomized Partition](https://github.com/lydxlx1/LeetCode/blob/master/src/_136_1.java) \]|
 |128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|\[ [O(n) HashSet](https://github.com/lydxlx1/LeetCode/blob/master/src/_128.java) \]|
 |127 |[Word Ladder][127_t]               |\[ [BFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_127.java) \]|
 |96  |[Unique Binary Search Trees][96_t]               |\[ [DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_96.java) \]|
@@ -303,16 +296,16 @@ I will keep updating the list and feel free to share any of your thoughts!
 |76  |[Minimum Window Substring][76_t]|\[ [Sliding-window][76] \]|
 |72  |[Edit Distance][72_t]              |\[ [DP][72] \]|
 |47  |[Permutations II][47_t]            |\[ [next_permutation][47] \]|
-|44  |[Wildcard Matching][44_t]          |\[ [DP][44] &#124; [Greedy][44_1] \]|
+|44  |[Wildcard Matching][44_t]          |\[ [DP][44] \| [Greedy][44_1] \]|
 |40  |[Combination Sum II][40_t]         |\[ [DP Knapsack][40] \]|
 |39  |[Combination Sum][39_t]            |\[ [DP + Backtracking][39] \]|
-|37  |[Sudoku Solver][37_t]              |\[ [Greedy Backtracking Using Bitmask][37] &#124; [Greedy Backtracking][37_1] \]|
+|37  |[Sudoku Solver][37_t]              |\[ [Greedy Backtracking Using Bitmask][37] \| [Greedy Backtracking][37_1] \]|
 |36  |[Valid Sudoku][36_t]               |\[ [Solution][36] \]|
-|22  |[Generate Parentheses][22_t]       |\[ [DP][22] &#124; [Recursion][22_1] \]|
+|22  |[Generate Parentheses][22_t]       |\[ [DP][22] \| [Recursion][22_1] \]|
 |10  |[Regular Expression Matching][10_t]|\[ [DP][10] \]|
 |4   |[Median of Two Sorted Arrays][4_t] |\[ [Binary Search][4] \]|
-|2   |[Add Two Numbers][2_t]             |\[ [Not in-place][2] &#124; [In-place][2_1] \]|
-|1   |[Two Sum][1_t]                     |\[ [Two Pointers][1] &#124; [Hash Table][1_1] \]|
+|2   |[Add Two Numbers][2_t]             |\[ [Not in-place][2] \| [In-place][2_1] \]|
+|1   |[Two Sum][1_t]                     |\[ [Two Pointers][1] \| [Hash Table][1_1] \]|
 
 
 <!-- &#x1f512;   for the lock -->
@@ -738,19 +731,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [545]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_545.java
 [546_t]:   https://leetcode.com/problems/remove-boxes/
 [546]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_546.java
-[521_t]:   https://leetcode.com/problems/longest-uncommon-subsequence-i/
-[521]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_521.java
-[522_t]:   https://leetcode.com/problems/longest-uncommon-subsequence-ii/
-[522]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_522.java
-[547_t]:   https://leetcode.com/problems/friend-circles/
-[547]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_547.java
-[548_t]:   https://leetcode.com/problems/split-array-with-equal-sum/
-[548]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_548.java
-[557_t]:   https://leetcode.com/problems/reverse-words-in-a-string-iii/
-[557]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_557.java
-[554_t]:   https://leetcode.com/problems/brick-wall/
-[554]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_554.java
-[556_t]:   https://leetcode.com/problems/next-greater-element-iii/
-[556]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_556.java
-[549_t]:   https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
-[549]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_548.java
+[551_t]:   https://leetcode.com/problems/student-attendance-record-i/
+[551]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_551.java
