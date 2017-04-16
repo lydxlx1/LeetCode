@@ -3,7 +3,7 @@
  * <p>
  * A more elegant method
  * <p>
- * Let f[i][j][k] denote the # of valid sequence of length i where:
+ * Let f[i][j][k] denote the # of valid sequences of length i where:
  * 1) there can be at most j A's in the entire sequence.
  * 2) there can be at most k trailing L's.
  * <p>
