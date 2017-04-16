@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|555 |[Split Assembled Strings][555_t]|\[ [Brute-force][555] \]|
 |553 |[Optimal Division][553_t]|\[ [Greedy][553] \]|
 |551 |[Student Attendance Record I][551_t]|\[ [1-Liner][551] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
@@ -736,3 +737,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [551]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_551.java
 [553_t]:   https://leetcode.com/problems/optimal-division/
 [553]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_553.java
+[555_t]:   https://leetcode.com/problems/split-assembled-strings/
+[555]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_555.java
