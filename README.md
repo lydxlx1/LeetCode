@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |555 |[Split Assembled Strings][555_t]|\[ [Brute-force][555] \]|
 |553 |[Optimal Division][553_t]|\[ [Greedy][553] \]|
-|552 |[Student Attendance Record II][552_t]|\[ [Counting][552] \| [More Elegant Solution][552_1] \| [O(log n)-time Solution][552_2] \]|
+|552 |[Student Attendance Record II][552_t]|\[ [Counting][552] \| [More Elegant Solution][552_1] \| [O(log n)-time Solution][552_2] \| [O(log n)-time Solution with Shorter Code][552_3] \]|
 |551 |[Student Attendance Record I][551_t]|\[ [1-Liner][551] \]|
 |546 |[Remove Boxes][546_t]|\[ [O(n^4)-time DP][546] \]|
 |545 |[Boundary of Binary Tree][545_t]|\[ [(Careful) Tree Traversal][545] \]|
@@ -744,3 +744,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [552]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_552.java
 [552_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_552_1.java
 [552_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_552_2.java
+[552_3]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_552_3.java
