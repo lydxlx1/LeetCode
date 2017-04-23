@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |564 |[Find the Closest Palindrome][564_t]|\[ [Greedy][564] \]|
+|563 |[Binary Tree Tilt][563_t]|\[ [DFS][563] \]|
 |555 |[Split Assembled Strings][555_t]|\[ [Brute-force][555] \]|
 |553 |[Optimal Division][553_t]|\[ [Greedy][553] \]|
 |552 |[Student Attendance Record II][552_t]|\[ [Counting][552] \| [More Elegant Solution][552_1] \| [O(log n)-time Solution][552_2] \| [O(log n)-time Solution with Shorter Code][552_3] \]|
@@ -748,3 +749,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [552_3]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_552_3.java
 [564_t]:   https://leetcode.com/problems/find-the-closest-palindrome/
 [564]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_564.java
+[563_t]:   https://leetcode.com/problems/binary-tree-tilt/
+[563]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_563.java
