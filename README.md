@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|567 |[Permutation in String][567_t]|\[ [Sliding-window][567] \]|
 |566 |[Reshape the Matrix][566_t]|\[ [Brute-force][566] \]|
 |564 |[Find the Closest Palindrome][564_t]|\[ [Greedy][564] \]|
 |563 |[Binary Tree Tilt][563_t]|\[ [DFS][563] \]|
@@ -763,3 +764,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [566]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_566.java
 [560_t]:   https://leetcode.com/problems/subarray-sum-equals-k/
 [560]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_560.java
+[567_t]:   https://leetcode.com/problems/permutation-in-string/
+[567]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_567.java
