@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|566 |[Reshape the Matrix][566_t]|\[ [Brute-force][566] \]|
 |564 |[Find the Closest Palindrome][564_t]|\[ [Greedy][564] \]|
 |563 |[Binary Tree Tilt][563_t]|\[ [DFS][563] \]|
 |562 |[Longest Line of Consecutive One in Matrix][562_t]|\[ [Brute-force][562] \]|
@@ -757,3 +758,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [561]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_561.java
 [562_t]:   https://leetcode.com/problems/longest-line-of-one-in-matrix/
 [562]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_562.java
+[566_t]:   https://leetcode.com/problems/reshape-the-matrix/
+[566]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_566.java
