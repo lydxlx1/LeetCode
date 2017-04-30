@@ -11,6 +11,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |563 |[Binary Tree Tilt][563_t]|\[ [DFS][563] \]|
 |562 |[Longest Line of Consecutive One in Matrix][562_t]|\[ [Brute-force][562] \]|
 |561 |[Array Partition I][561_t]|\[ [Greedy][561] \]|
+|560 |[Subarray Sum Equals K][560_t]|\[ [Prefix-sum][560] \]|
 |555 |[Split Assembled Strings][555_t]|\[ [Brute-force][555] \]|
 |553 |[Optimal Division][553_t]|\[ [Greedy][553] \]|
 |552 |[Student Attendance Record II][552_t]|\[ [Counting][552] \| [More Elegant Solution][552_1] \| [O(log n)-time Solution][552_2] \| [O(log n)-time Solution with Shorter Code][552_3] \]|
@@ -760,3 +761,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [562]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_562.java
 [566_t]:   https://leetcode.com/problems/reshape-the-matrix/
 [566]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_566.java
+[560_t]:   https://leetcode.com/problems/subarray-sum-equals-k/
+[560]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_560.java
