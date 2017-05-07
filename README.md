@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
-|572 |[Subtree of Another Tree][572_t]|\[ [O(n^2)-time Brute-force][572] \| [O(n)-time Solution][572_1] \]|
+|572 |[Subtree of Another Tree][572_t]|\[ [O(n^2)-time Brute-force][572] \| [O(n)-time Solution][572_1] \| [Tree Encoding][572_2] \]|
 |568 |[Maximum Vacation Days][568_t]|\[ [DP][568] \]|
 |567 |[Permutation in String][567_t]|\[ [Sliding-window][567] \]|
 |566 |[Reshape the Matrix][566_t]|\[ [Brute-force][566] \]|
@@ -776,3 +776,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [572_t]:   https://leetcode.com/problems/subtree-of-another-tree/
 [572]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_572.java
 [572_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_572_1.java
+[572_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_572_2.java
