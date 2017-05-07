@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
 |568 |[Maximum Vacation Days][568_t]|\[ [DP][568] \]|
 |567 |[Permutation in String][567_t]|\[ [Sliding-window][567] \]|
 |566 |[Reshape the Matrix][566_t]|\[ [Brute-force][566] \]|
@@ -769,3 +770,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [567]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_567.java
 [568_t]:   https://leetcode.com/problems/maximum-vacation-days/
 [568]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_568.java
+[575_t]:   https://leetcode.com/problems/distribute-candies/
+[575]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_575.java
