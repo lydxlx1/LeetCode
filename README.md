@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|576 |[Out of Boundary Paths][576_t]|\[ [DP][576] \]|
 |575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
 |573 |[Squirrel Simulation][573_t]|\[ [Greedy][573] \]|
 |572 |[Subtree of Another Tree][572_t]|\[ [O(n^2)-time Brute-force][572] \| [O(n)-time Solution][572_1] \| [Tree Encoding][572_2] \]|
@@ -780,3 +781,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [572_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_572_2.java
 [573_t]:   https://leetcode.com/problems/squirrel-simulation/
 [573]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_573.java
+[576_t]:   https://leetcode.com/problems/out-of-boundary-paths/
+[576]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_576.java
