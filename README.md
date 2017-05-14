@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|581 |[Shortest Unsorted Continuous Subarray][581_t]|\[ [Sorting][581] \]|
 |576 |[Out of Boundary Paths][576_t]|\[ [DP][576] \]|
 |575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
 |573 |[Squirrel Simulation][573_t]|\[ [Greedy][573] \]|
@@ -785,3 +786,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [576]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_576.java
 [317_t]:   https://leetcode.com/problems/shortest-distance-from-all-buildings/
 [317]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_317.java
+[581_t]:   https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+[581]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_581.java
