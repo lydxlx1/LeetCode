@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|582 |[Kill Process][582_t]|\[ [Tree Traversal][582] \]|
 |581 |[Shortest Unsorted Continuous Subarray][581_t]|\[ [Sorting][581] \]|
 |576 |[Out of Boundary Paths][576_t]|\[ [DP][576] \]|
 |575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
@@ -788,3 +789,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [317]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_317.java
 [581_t]:   https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [581]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_581.java
+[582_t]:   https://leetcode.com/problems/kill-process/
+[582]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_582.java
