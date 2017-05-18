@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |583 |[Delete Operation for Two Strings][583_t]|\[ [LCS][583] \]|
-|582 |[Kill Process][582_t]|\[ [Tree Traversal][582] \]|
+|582 |[Kill Process][582_t]|\[ [Tree Traversal][582] \| [Union-find-set-like Solution][582_1] \]|
 |581 |[Shortest Unsorted Continuous Subarray][581_t]|\[ [Sorting][581] \]|
 |576 |[Out of Boundary Paths][576_t]|\[ [DP][576] \]|
 |575 |[Distribute Candies][575_t]|\[ [Greedy][575] \]|
@@ -792,5 +792,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [581]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_581.java
 [582_t]:   https://leetcode.com/problems/kill-process/
 [582]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_582.java
+[582_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_582_1.java
 [583_t]:   https://leetcode.com/problems/delete-operation-for-two-strings/
 [583]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_583.java
