@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |594 |[Longest Harmonious Subsequence][594_t]|\[ [Brute-force][594] \]|
+|593 |[Valid Square][593_t]|\[ [Elegant Solution][593] \]|
 |583 |[Delete Operation for Two Strings][583_t]|\[ [LCS][583] \]|
 |582 |[Kill Process][582_t]|\[ [Tree Traversal][582] \| [Union-find-set-like Solution][582_1] \]|
 |581 |[Shortest Unsorted Continuous Subarray][581_t]|\[ [Sorting][581] \]|
@@ -798,3 +799,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [583]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_583.java
 [594_t]:   https://leetcode.com/problems/longest-harmonious-subsequence/
 [594]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_594.java
+[593_t]:   https://leetcode.com/problems/valid-square/
+[593]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_593.java
