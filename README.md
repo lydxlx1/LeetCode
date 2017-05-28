@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|599 |[Minimum Index Sum of Two Lists][599_t]|\[ [Brute-force][599] \]|
 |598 |[Range Addition II][598_t]|\[ [Solution][598] \]|
 |594 |[Longest Harmonious Subsequence][594_t]|\[ [Brute-force][594] \]|
 |593 |[Valid Square][593_t]|\[ [Elegant Solution][593] \]|
@@ -21,6 +22,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |568 |[Maximum Vacation Days][568_t]|\[ [DP][568] \]|
 |567 |[Permutation in String][567_t]|\[ [Sliding-window][567] \]|
 |566 |[Reshape the Matrix][566_t]|\[ [Brute-force][566] \]|
+|565 |[Array Nesting][565_t]|\[ [Solution][565] \]|
 |564 |[Find the Closest Palindrome][564_t]|\[ [Greedy][564] \]|
 |563 |[Binary Tree Tilt][563_t]|\[ [DFS][563] \]|
 |562 |[Longest Line of Consecutive One in Matrix][562_t]|\[ [Brute-force][562] \]|
@@ -810,3 +812,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [588]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_588.java
 [598_t]:   https://leetcode.com/problems/range-addition-ii/
 [598]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_598.java
+[599_t]:   https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[599]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_599.java
+[565_t]:   https://leetcode.com/problems/array-nesting/
+[565]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_565.java
