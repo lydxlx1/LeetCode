@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|598 |[Range Addition II][598_t]|\[ [Solution][598] \]|
 |594 |[Longest Harmonious Subsequence][594_t]|\[ [Brute-force][594] \]|
 |593 |[Valid Square][593_t]|\[ [Elegant Solution][593] \]|
 |592 |[Fraction Addition and Subtraction][592_t]|\[ [Solution][592] \]|
@@ -807,3 +808,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [592]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_592.java
 [588_t]:   https://leetcode.com/problems/design-in-memory-file-system/
 [588]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_588.java
+[598_t]:   https://leetcode.com/problems/range-addition-ii/
+[598]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_598.java
