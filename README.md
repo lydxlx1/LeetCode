@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|600 |[Non-negative Integers without Consecutive Ones][600_t]|\[ [Counting][600] \]|
 |599 |[Minimum Index Sum of Two Lists][599_t]|\[ [Brute-force][599] \]|
 |598 |[Range Addition II][598_t]|\[ [Solution][598] \]|
 |594 |[Longest Harmonious Subsequence][594_t]|\[ [Brute-force][594] \]|
@@ -816,3 +817,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [599]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_599.java
 [565_t]:   https://leetcode.com/problems/array-nesting/
 [565]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_565.java
+[600_t]:   https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+[600]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_600.java
