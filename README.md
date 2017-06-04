@@ -15,6 +15,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |594 |[Longest Harmonious Subsequence][594_t]|\[ [Brute-force][594] \]|
 |593 |[Valid Square][593_t]|\[ [Elegant Solution][593] \]|
 |592 |[Fraction Addition and Subtraction][592_t]|\[ [Solution][592] \]|
+|591 |[Tag Validator][591_t]|\[ [Recursive Solution][591] \]|
 |588 |[Design In-memory File System][588_t]|\[ [Trie][588] \]|
 |583 |[Delete Operation for Two Strings][583_t]|\[ [LCS][583] \]|
 |582 |[Kill Process][582_t]|\[ [Tree Traversal][582] \| [Union-find-set-like Solution][582_1] \]|
@@ -829,3 +830,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [606]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_606.java
 [609_t]:   https://leetcode.com/problems/find-duplicate-file-in-system/
 [609]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_609.java
+[591_t]:   https://leetcode.com/problems/tag-validator/
+[591]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_591.java
