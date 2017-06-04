@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|606 |[Construct String from Binary Tree][606_t]|\[ [DFS][606] \]|
+|605 |[Can Place Flowers][605_t]|\[ [Greedy][605] \]|
 |600 |[Non-negative Integers without Consecutive Ones][600_t]|\[ [Counting][600] \| [Digit-DP][600_1] \]|
 |599 |[Minimum Index Sum of Two Lists][599_t]|\[ [Brute-force][599] \]|
 |598 |[Range Addition II][598_t]|\[ [Solution][598] \]|
@@ -820,3 +822,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [600_t]:   https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 [600]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_600.java
 [600_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_600_1.java
+[605_t]:   https://leetcode.com/problems/can-place-flowers/
+[605]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_605.java
+[606_t]:   https://leetcode.com/problems/construct-string-from-binary-tree/
+[606]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_606.java
