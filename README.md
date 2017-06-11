@@ -11,6 +11,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |609 |[Find Duplicate File in System][609_t]|\[ [Solution][609] \]|
 |606 |[Construct String from Binary Tree][606_t]|\[ [DFS][606] \]|
 |605 |[Can Place Flowers][605_t]|\[ [Greedy][605] \]|
+|604 |[Design Compressed String Iterator][604_t]|\[ [Lazy Solution][604] \]|
 |600 |[Non-negative Integers without Consecutive Ones][600_t]|\[ [Counting][600] \| [Digit-DP][600_1] \]|
 |599 |[Minimum Index Sum of Two Lists][599_t]|\[ [Brute-force][599] \]|
 |598 |[Range Addition II][598_t]|\[ [Solution][598] \]|
@@ -838,3 +839,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [616]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_616.java
 [617_t]:   https://leetcode.com/problems/merge-two-binary-trees/
 [617]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_617.java
+[604_t]:   https://leetcode.com/problems/design-compressed-string-iterator/
+[604]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_604.java
