@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|617 |[Merge Two Binary Trees][617_t]|\[ [DFS][617] \]|
 |616 |[Add Bold Tag in String][616_t]|\[ [O(1000^2)-time Solution][616] \]|
 |609 |[Find Duplicate File in System][609_t]|\[ [Solution][609] \]|
 |606 |[Construct String from Binary Tree][606_t]|\[ [DFS][606] \]|
@@ -835,3 +836,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [591]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_591.java
 [616_t]:   https://leetcode.com/problems/add-bold-tag-in-string/
 [616]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_616.java
+[617_t]:   https://leetcode.com/problems/merge-two-binary-trees/
+[617]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_617.java
