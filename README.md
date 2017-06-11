@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|616 |[Add Bold Tag in String][616_t]|\[ [O(1000^2)-time Solution][616] \]|
 |609 |[Find Duplicate File in System][609_t]|\[ [Solution][609] \]|
 |606 |[Construct String from Binary Tree][606_t]|\[ [DFS][606] \]|
 |605 |[Can Place Flowers][605_t]|\[ [Greedy][605] \]|
@@ -832,3 +833,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [609]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_609.java
 [591_t]:   https://leetcode.com/problems/tag-validator/
 [591]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_591.java
+[616_t]:   https://leetcode.com/problems/add-bold-tag-in-string/
+[616]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_616.java
