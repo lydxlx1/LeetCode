@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|625 |[Minimum Factorization][625_t]|\[ [Greedy][625] \]|
 |624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
 |623 |[Add One Row to Tree][623_t]|\[ [DFS][623] \]|
 |617 |[Merge Two Binary Trees][617_t]|\[ [DFS][617] \]|
@@ -850,3 +851,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [624]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_624.java
 [623_t]:   https://leetcode.com/problems/add-one-row-to-tree/
 [623]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_623.java
+[625_t]:   https://leetcode.com/problems/minimum-factorization/
+[625]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_625.java
