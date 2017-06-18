@@ -9,6 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |625 |[Minimum Factorization][625_t]|\[ [Greedy][625] \| [DP][625_1] \]|
 |624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
 |623 |[Add One Row to Tree][623_t]|\[ [DFS][623] \]|
+|621 |[Task Scheduler][621_t]|\[ [Simulation + Greedy][621] \]|
 |617 |[Merge Two Binary Trees][617_t]|\[ [DFS][617] \]|
 |616 |[Add Bold Tag in String][616_t]|\[ [O(1000^2)-time Solution][616] \]|
 |611 |[Valid Triangle Number][611_t]|\[ [Three-sum][611] \]|
@@ -854,3 +855,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [625_t]:   https://leetcode.com/problems/minimum-factorization/
 [625]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_625.java
 [625_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_625_1.java
+[621_t]:   https://leetcode.com/problems/task-scheduler/
+[621]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_621.java
