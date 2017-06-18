@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
 |617 |[Merge Two Binary Trees][617_t]|\[ [DFS][617] \]|
 |616 |[Add Bold Tag in String][616_t]|\[ [O(1000^2)-time Solution][616] \]|
 |611 |[Valid Triangle Number][611_t]|\[ [Three-sum][611] \]|
@@ -844,3 +845,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [604]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_604.java
 [611_t]:   https://leetcode.com/problems/valid-triangle-number/
 [611]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_611.java
+[624_t]:   https://leetcode.com/problems/maximum-distance-in-arrays/
+[624]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_624.java
