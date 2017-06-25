@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|630 |[Course Schedule III][630_t]|\[ [Sweep Line + Greedy][630] \]|
 |625 |[Minimum Factorization][625_t]|\[ [Greedy][625] \| [DP][625_1] \]|
 |624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
 |623 |[Add One Row to Tree][623_t]|\[ [DFS][623] \]|
@@ -857,3 +858,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [625_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_625_1.java
 [621_t]:   https://leetcode.com/problems/task-scheduler/
 [621]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_621.java
+[630_t]:   https://leetcode.com/problems/course-schedule-iii/
+[630]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_630.java
