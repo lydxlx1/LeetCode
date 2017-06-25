@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |631 |[Design Excel Sum Formula][631_t]|\[ [DAG + Implementation][631] \]|
 |630 |[Course Schedule III][630_t]|\[ [Sweep Line + Greedy][630] \]|
+|629 |[K Inverse Pairs Array][629_t]|\[ [Counting][629] \]|
 |628 |[Maximum Product of Three Numbers][628_t]|\[ [Math][628] \]|
 |625 |[Minimum Factorization][625_t]|\[ [Greedy][625] \| [DP][625_1] \]|
 |624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
@@ -866,3 +867,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [631]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_631.java
 [628_t]:   https://leetcode.com/problems/maximum-product-of-three-numbers/
 [628]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_628.java
+[629_t]:   https://leetcode.com/problems/k-inverse-pairs-array/
+[629]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_629.java
