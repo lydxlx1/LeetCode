@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|631 |[Design Excel Sum Formula][631_t]|\[ [DAG + Implementation][631] \]|
 |630 |[Course Schedule III][630_t]|\[ [Sweep Line + Greedy][630] \]|
 |625 |[Minimum Factorization][625_t]|\[ [Greedy][625] \| [DP][625_1] \]|
 |624 |[Maximum Distance in Arrays][624_t]|\[ [Solution][624] \]|
@@ -860,3 +861,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [621]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_621.java
 [630_t]:   https://leetcode.com/problems/course-schedule-iii/
 [630]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_630.java
+[631_t]:   https://leetcode.com/problems/design-excel-sum-formula/
+[631]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_631.java
