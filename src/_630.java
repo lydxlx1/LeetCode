@@ -16,7 +16,7 @@ public class _630 {
         for (int[] course : courses) {
             time += course[0];
             queue.add(course[0]);
-            while (time > course[1])
+            if (time > course[1])
                 time -= queue.poll();
         }
         return queue.size();
