@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |635 |[Design Log Storage System][635_t]|\[ [Brute-force + Lexicographical Order][635] \]|
+|634 |[Find the Derangement of an Array][634_t]|\[ [Combinatorics][634] \]|
 |633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \| [Another Solution][633_1] \]|
 |632 |[Smallest Range][632_t]|\[ [Greedy + BST][632] \]|
 |631 |[Design Excel Sum Formula][631_t]|\[ [DAG + Implementation][631] \]|
@@ -879,3 +880,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [633_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_633_1.java
 [635_t]:   https://leetcode.com/problems/design-log-storage-system/
 [635]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_635.java
+[634_t]:   https://leetcode.com/problems/find-the-derangement-of-an-array/
+[634]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_634.java
