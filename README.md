@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \]|
+|633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \| [Another Solution][633_1] \]|
 |632 |[Smallest Range][632_t]|\[ [Greedy + BST][632] \]|
 |631 |[Design Excel Sum Formula][631_t]|\[ [DAG + Implementation][631] \]|
 |630 |[Course Schedule III][630_t]|\[ [Sweep Line + Greedy][630] \]|
@@ -875,3 +875,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [632]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_632.java
 [633_t]:   https://leetcode.com/problems/sum-of-square-numbers/
 [633]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_633.java
+[633_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_633_1.java
