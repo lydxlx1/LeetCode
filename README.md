@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |638 |[Shopping Offers][638_t]|\[ [DP][638] \| [Search + Pruning][638_1] \]|
+|637 |[Average of Levels in Binary Tree][637_t]|\[ [DFS][637] \]|
 |635 |[Design Log Storage System][635_t]|\[ [Brute-force + Lexicographical Order][635] \]|
 |634 |[Find the Derangement of an Array][634_t]|\[ [Combinatorics][634] \]|
 |633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \| [Another Solution][633_1] \]|
@@ -889,3 +890,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [638_t]:   https://leetcode.com/problems/shopping-offers/
 [638]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_638.java
 [638_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_638_1.java
+[637_t]:   https://leetcode.com/problems/average-of-levels-in-binary-tree/
+[637]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_637.java
