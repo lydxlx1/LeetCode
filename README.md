@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|640 |[Solve the Equation][640_t]|\[ [Parser][640] \]|
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |638 |[Shopping Offers][638_t]|\[ [DP][638] \| [Search + Pruning][638_1] \]|
 |637 |[Average of Levels in Binary Tree][637_t]|\[ [DFS][637] \]|
@@ -892,3 +893,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [638_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_638_1.java
 [637_t]:   https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [637]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_637.java
+[640_t]:   https://leetcode.com/problems/solve-the-equation/
+[640]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_640.java
