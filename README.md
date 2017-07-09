@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |635 |[Design Log Storage System][635_t]|\[ [Brute-force + Lexicographical Order][635] \]|
 |634 |[Find the Derangement of an Array][634_t]|\[ [Combinatorics][634] \]|
 |633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \| [Another Solution][633_1] \]|
@@ -882,3 +883,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [635]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_635.java
 [634_t]:   https://leetcode.com/problems/find-the-derangement-of-an-array/
 [634]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_634.java
+[639_t]:   https://leetcode.com/problems/decode-ways-ii/
+[639]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_639.java
