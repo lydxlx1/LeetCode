@@ -28,7 +28,7 @@ public class _639 {
                     if (i > 0) {
                         for (int k = 1; k <= 2; k++) {
                             int val = k * 10 + j;
-                            boolean valInRange = val >= 1 && val <= 26;
+                            boolean valInRange = val >= 10 && val <= 26;
                             boolean kIsValid = s.charAt(i - 1) - '0' == k || s.charAt(i - 1) == '*';
                             if (valInRange && kIsValid) {
                                 f[i] = (f[i] + (i - 2 >= 0 ? f[i - 2] : 1)) % mod;
