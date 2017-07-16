@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|643 |[Maximum Average Subarray I][643_t]|\[ [Sliding Window][643] \]|
 |640 |[Solve the Equation][640_t]|\[ [Parser][640] \]|
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |638 |[Shopping Offers][638_t]|\[ [DP][638] \| [Search + Pruning][638_1] \]|
@@ -895,3 +896,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [637]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_637.java
 [640_t]:   https://leetcode.com/problems/solve-the-equation/
 [640]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_640.java
+[643_t]:   https://leetcode.com/problems/maximum-average-subarray-i/
+[643]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_643.java
