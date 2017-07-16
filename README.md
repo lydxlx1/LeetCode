@@ -11,6 +11,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |638 |[Shopping Offers][638_t]|\[ [DP][638] \| [Search + Pruning][638_1] \]|
 |637 |[Average of Levels in Binary Tree][637_t]|\[ [DFS][637] \]|
+|636 |[Exclusive Time of Functions][636_t]|\[ [Stack][636] \]|
 |635 |[Design Log Storage System][635_t]|\[ [Brute-force + Lexicographical Order][635] \]|
 |634 |[Find the Derangement of an Array][634_t]|\[ [Combinatorics][634] \]|
 |633 |[Sum of Square Numbers][633_t]|\[ [Solution][633] \| [Another Solution][633_1] \]|
@@ -898,3 +899,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [640]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_640.java
 [643_t]:   https://leetcode.com/problems/maximum-average-subarray-i/
 [643]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_643.java
+[636_t]:   https://leetcode.com/problems/exclusive-time-of-functions/
+[636]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_636.java
