@@ -21,3 +21,4 @@ src/Solution*
 *.out
 tests/SolutionTest.java
 tests/Solution*
+.DS_Store

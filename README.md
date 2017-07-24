@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|648 |[Replace Words][648_t]|\[ [Trie][648] \]|
+|647 |[Palindromic Substrings][647_t]|\[ [DP][647] \]|
+|646 |[Maximum Length of Pair Chain][646_t]|\[ [Sweepline][646] \]|
+|645 |[Set Mismatch][645_t]|\[ [Counting Sort][645] \]|
 |643 |[Maximum Average Subarray I][643_t]|\[ [Sliding Window][643] \]|
 |640 |[Solve the Equation][640_t]|\[ [Parser][640] \]|
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
@@ -901,3 +905,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [643]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_643.java
 [636_t]:   https://leetcode.com/problems/exclusive-time-of-functions/
 [636]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_636.java
+[648_t]:   https://leetcode.com/problems/replace-words/
+[648]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_648.java
+[647_t]:   https://leetcode.com/problems/palindromic-substrings/
+[647]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_647.java
+[646_t]:   https://leetcode.com/problems/maximum-length-of-pair-chain/
+[646]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_646.java
+[645_t]:   https://leetcode.com/problems/set-mismatch/
+[645]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_645.java
