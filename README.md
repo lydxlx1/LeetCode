@@ -915,4 +915,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [645_t]:   https://leetcode.com/problems/set-mismatch/
 [645]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_645.java
 [652_t]:   https://leetcode.com/problems/find-duplicate-subtrees/
-[652_t]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652.java
+[652]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652.java
