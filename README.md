@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \| [Tree Encoding][652_1] \]|
+|651 |[4 Keys Keyboard][651_t]|\[ [DP][651] \]|
 |650 |[2 Keys Keyboard][650_t]|\[ [O(n log n)-time DP][650] \]|
 |649 |[Dota2 Senate][649_t]|\[ [Greedy + Queue][649] \]|
 |648 |[Replace Words][648_t]|\[ [Trie][648] \]|
@@ -923,3 +924,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [650]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_650.java
 [649_t]:   https://leetcode.com/problems/dota2-senate/
 [649]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_649.java
+[651_t]:   https://leetcode.com/problems/4-keys-keyboard/
+[651]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_651.java
