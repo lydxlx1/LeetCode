@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * LeetCode 650 - Two Keys Keyboard
+ * LeetCode 650 - 2 Keys Keyboard
  * <p>
  * O(n log n)-time DP
  */

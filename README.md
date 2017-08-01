@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \| [Tree Encoding][652_1] \]|
-|650 |[Two Keys Keyboard][650_t]|\[ [O(n log n)-time DP][650] \]|
+|650 |[2 Keys Keyboard][650_t]|\[ [O(n log n)-time DP][650] \]|
 |648 |[Replace Words][648_t]|\[ [Trie][648] \]|
 |647 |[Palindromic Substrings][647_t]|\[ [DP][647] \]|
 |646 |[Maximum Length of Pair Chain][646_t]|\[ [Sweepline][646] \]|
@@ -918,5 +918,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [652_t]:   https://leetcode.com/problems/find-duplicate-subtrees/
 [652]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652.java
 [652_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652_1.java
-[650_t]:   https://leetcode.com/problems/two-keys-keyboard/
+[650_t]:   https://leetcode.com/problems/2-keys-keyboard/
 [650]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_650.java
