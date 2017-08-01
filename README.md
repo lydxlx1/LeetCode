@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \]|
+|652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \| [Tree Encoding][652_1] \]|
 |648 |[Replace Words][648_t]|\[ [Trie][648] \]|
 |647 |[Palindromic Substrings][647_t]|\[ [DP][647] \]|
 |646 |[Maximum Length of Pair Chain][646_t]|\[ [Sweepline][646] \]|
@@ -916,3 +916,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [645]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_645.java
 [652_t]:   https://leetcode.com/problems/find-duplicate-subtrees/
 [652]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652.java
+[652_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_652_1.java
