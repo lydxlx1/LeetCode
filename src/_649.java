@@ -13,8 +13,8 @@ import java.util.List;
  */
 public class _649 {
     public String predictPartyVictory(String senate) {
-        List<Character> list = new ArrayList<>();
-        List<Boolean> killed = new ArrayList<>();
+        List<Character> list = new ArrayList<>(2 * senate.length()); // 2*length is enough
+        List<Boolean> killed = new ArrayList<>(2 * senate.length()); // 2*length is enough
         for (int i = 0; i < senate.length(); i++) {
             list.add(senate.charAt(i));
             killed.add(false);
@@ -34,7 +34,6 @@ public class _649 {
             }
             if (i >= list.size()) return "Dire";
             if (j >= list.size()) return "Radiant";
-
 
             killed.set(i, true);
             killed.set(j, true);
