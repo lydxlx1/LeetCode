@@ -14,6 +14,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |647 |[Palindromic Substrings][647_t]|\[ [DP][647] \]|
 |646 |[Maximum Length of Pair Chain][646_t]|\[ [Sweepline][646] \]|
 |645 |[Set Mismatch][645_t]|\[ [Counting Sort][645] \]|
+|644 |[Maximum Average Subarray II][644_t]|\[ [Binary Search + Sliding Window][644] \]|
 |643 |[Maximum Average Subarray I][643_t]|\[ [Sliding Window][643] \]|
 |642 |[Design Search Autocomplete System][642_t]|\[ [Brute-force][642] \| [Trie][642_1] \]|
 |640 |[Solve the Equation][640_t]|\[ [Parser][640] \]|
@@ -930,3 +931,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [642_t]:   https://leetcode.com/problems/design-search-autocomplete-system/
 [642]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642.java
 [642_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642_1.java
+[644_t]:   https://leetcode.com/problems/maximum-average-subarray-ii/
+[644_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_644.java
