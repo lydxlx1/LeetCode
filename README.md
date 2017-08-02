@@ -932,4 +932,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [642]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642.java
 [642_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642_1.java
 [644_t]:   https://leetcode.com/problems/maximum-average-subarray-ii/
-[644_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_644.java
+[644]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_644.java
