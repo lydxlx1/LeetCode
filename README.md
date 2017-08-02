@@ -929,3 +929,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [651]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_651.java
 [642_t]:   https://leetcode.com/problems/design-search-autocomplete-system/
 [642]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642.java
+[642_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642_1.java
