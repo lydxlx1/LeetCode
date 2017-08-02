@@ -15,6 +15,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |646 |[Maximum Length of Pair Chain][646_t]|\[ [Sweepline][646] \]|
 |645 |[Set Mismatch][645_t]|\[ [Counting Sort][645] \]|
 |643 |[Maximum Average Subarray I][643_t]|\[ [Sliding Window][643] \]|
+|642 |[Design Search Autocomplete System][642_t]|\[ [Brute-force][642] \| [Trie][642_1] \]|
 |640 |[Solve the Equation][640_t]|\[ [Parser][640] \]|
 |639 |[Decode Ways II][639_t]|\[ [Counting][639] \]|
 |638 |[Shopping Offers][638_t]|\[ [DP][638] \| [Search + Pruning][638_1] \]|
@@ -926,3 +927,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [649]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_649.java
 [651_t]:   https://leetcode.com/problems/4-keys-keyboard/
 [651]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_651.java
+[642_t]:   https://leetcode.com/problems/design-search-autocomplete-system/
+[642]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642.java
