@@ -75,6 +75,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |543 |[Diameter of Binary Tree][543_t]|\[ [DP][543] \]|
 |542 |[01 Matrix][542_t]|\[ [BFS][542] \]|
 |541 |[Reverse String II][541_t]|\[ [Brute-force][541] \]|
+|540 |[Single Element in a Sorted Array][540_t]|\[ [Binary Search][540] \]|
 |539 |[Minimum Time Difference][539_t]|\[ [Sorting][539] \]|
 |538 |[Convert BST to Greater Tree][538_t]|\[ [Right-root-left-traversal][538] \]|
 |537 |[Complex Number Multiplication][537_t]|\[ [Brute-force][537] \]|
@@ -933,3 +934,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [642_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_642_1.java
 [644_t]:   https://leetcode.com/problems/maximum-average-subarray-ii/
 [644]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_644.java
+[540_t]:   https://leetcode.com/problems/single-element-in-a-sorted-array/
+[540]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_540.java
