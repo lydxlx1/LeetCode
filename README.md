@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
 |655 |[Print Binary Tree][655_t]|\[ [DFS + Math][655] \]|
 |654 |[Maximum Binary Tree][654_t]|\[ [DFS][654] \]|
 |653 |[Two Sum IV - Input is a BST][653_t]|\[ [Solution][653] \]|
@@ -945,3 +946,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [654]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_654.java
 [655_t]:   https://leetcode.com/problems/print-binary-tree/
 [655]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_655.java
+[655_t]:   https://leetcode.com/problems/print-binary-tree/
+[655]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_655.java
+[656_t]:   https://leetcode.com/problems/coin-path/
+[656]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_656.java
