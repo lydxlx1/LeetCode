@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|653 |[Two Sum IV - Input is a BST][653_t]|\[ [Solution][653] \]|
 |652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \| [Tree Encoding][652_1] \]|
 |651 |[4 Keys Keyboard][651_t]|\[ [DP][651] \]|
 |650 |[2 Keys Keyboard][650_t]|\[ [O(n log n)-time DP][650] \]|
@@ -936,3 +937,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [644]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_644.java
 [540_t]:   https://leetcode.com/problems/single-element-in-a-sorted-array/
 [540]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_540.java
+[653_t]:   https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+[653]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_653.java
