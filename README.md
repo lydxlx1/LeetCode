@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|654 |[Maximum Binary Tree][654_t]|\[ [DFS][654] \]|
 |653 |[Two Sum IV - Input is a BST][653_t]|\[ [Solution][653] \]|
 |652 |[Find Duplicate Subtrees][652_t]|\[ [Tree-DP][652] \| [Tree Encoding][652_1] \]|
 |651 |[4 Keys Keyboard][651_t]|\[ [DP][651] \]|
@@ -939,3 +940,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [540]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_540.java
 [653_t]:   https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 [653]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_653.java
+[654_t]:   https://leetcode.com/problems/maximum-binary-tree/
+[654]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_654.java
