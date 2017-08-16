@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
 |656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
 |655 |[Print Binary Tree][655_t]|\[ [DFS + Math][655] \]|
 |654 |[Maximum Binary Tree][654_t]|\[ [DFS][654] \]|
@@ -950,3 +951,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [655]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_655.java
 [656_t]:   https://leetcode.com/problems/coin-path/
 [656]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_656.java
+[669_t]:   https://leetcode.com/problems/remove-9/
+[669]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_669.java
