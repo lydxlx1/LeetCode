@@ -13,7 +13,7 @@ import java.util.List;
  * <p>
  * This code gets ACed by the OJ. However, the reader may notice that the labels in the algorithm can easily get
  * overflowed. I tried really hard to construct counter-examples but failed to do so...
- * I believe this just got lucky (maybe due to the overflow mechanical in 2s-complement representation).
+ * I believe this just got lucky (maybe due to the overflow mechanism in 2s-complement representation).
  */
 class _662 {
 
