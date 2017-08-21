@@ -961,5 +961,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [662_t]:   https://leetcode.com/problems/maximum-width-of-binary-tree/
 [662]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662.java
 [662_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662_1.java
-[663_t]:   https://leetcode.com/problems/eaual-tree-partition/
+[663_t]:   https://leetcode.com/problems/equal-tree-partition/
 [663]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_663.java
