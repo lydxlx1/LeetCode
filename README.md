@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|663 |[Equal Tree Partition][663_t]|\[ [DFS][663] \]|
 |662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \| [BFS Solution][662_1] \]|
 |661 |[Image Smoother][661_t]|\[ [Solution][661] \]|
 |656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
@@ -960,3 +961,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [662_t]:   https://leetcode.com/problems/maximum-width-of-binary-tree/
 [662]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662.java
 [662_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662_1.java
+[663_t]:   https://leetcode.com/problems/eaual-tree-partition/
+[663]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_663.java
