@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \]|
 |661 |[Image Smoother][661_t]|\[ [Solution][661] \]|
 |656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
 |655 |[Print Binary Tree][655_t]|\[ [DFS + Math][655] \]|
@@ -956,3 +957,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [669]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_669.java
 [661_t]:   https://leetcode.com/problems/image-smoother/
 [661]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_661.java
+[662_t]:   https://leetcode.com/problems/maximum-width-of-binary-tree/
+[662]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662.java
