@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
-|662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \| [BFS Solution][622_1] \]|
+|662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \| [BFS Solution][662_1] \]|
 |661 |[Image Smoother][661_t]|\[ [Solution][661] \]|
 |656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
 |655 |[Print Binary Tree][655_t]|\[ [DFS + Math][655] \]|
