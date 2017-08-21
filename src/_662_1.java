@@ -7,13 +7,13 @@ import java.util.Deque;
  * <p>
  * This BFS version will NOT cause any integer overflow issue.
  * <p>
- * We use a Deque to maintain all the leaves (including null's)  on the current row, where
+ * We use a Deque to maintain the nodes (including null's)  on the current row, where
  * <p>
  * 1) We exclude the leading null's.
  * 2) We exclude the trailing null's.
  * 3) Each node has a associated field size, which is initialized to 1.
  * 4) If there are two consecutive null's, merge them into one while summing up their sizes.
- * 5) The sum of sizes of the deque is the largest width of current row.
+ * 5) The sum of sizes of the deque is the largest width of the current row.
  * <p>
  * Note that, step 4 guarantees that the runtime of the algorithm is O(n).
  * This is because that the number of null's in each row is the same order as the number of nodes (in the tree) on that row.
@@ -21,15 +21,15 @@ import java.util.Deque;
  * <p>
  * Without (4), the algorithm is still correct, but can have an Theta(2^n) runtime in the worst case.
  * Consider the example below.
- *
- *              *
- *             / \
- *            *  *
- *           /    \
- *          *     *
- *         /       \
- *        *        *
- *        .....
+ * <p>
+ * *
+ * / \
+ * *  *
+ * /    \
+ * *     *
+ * /       \
+ * *        *
+ * .....
  */
 class _662_1 {
 
@@ -72,9 +72,9 @@ class _662_1 {
                 } else {
                     data.size *= 2;
                     next.addLast(data);
-                    // Equivalently, we can do the following.
-                    // next.addLast(new Data(null, 1));
-                    // next.addLast(new Data(null, 1));
+                    // Equivalently, one can do the following.
+                    // next.addLast(data);
+                    // next.addLast(data);
                 }
             }
             ans = Math.max(ans, size);
