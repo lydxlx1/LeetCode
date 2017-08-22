@@ -33,7 +33,7 @@ class _664 {
         if (s.length() == 1) return 1;
         if (map.containsKey(s)) return map.get(s);
 
-        int ans = 1 + strangePrinter(s.substring(1)); // only care about s[0] only
+        int ans = 1 + strangePrinter(s.substring(1)); // only care about s[0]
         for (int i = 1; i < s.length(); i++)
             if (s.charAt(i) == s.charAt(0)) {
                 ans = Math.min(ans, strangePrinter(s.substring(1, i)) + strangePrinter(s.substring(i))); // The cost for printing s[0] is included in the latter recursive call.
