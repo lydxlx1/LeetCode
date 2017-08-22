@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|664 |[Strange Printer][664_t]|\[ [DP][664] \]|
 |663 |[Equal Tree Partition][663_t]|\[ [DFS][663] \]|
 |662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \| [BFS Solution][662_1] \]|
 |661 |[Image Smoother][661_t]|\[ [Solution][661] \]|
@@ -963,3 +964,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [662_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_662_1.java
 [663_t]:   https://leetcode.com/problems/equal-tree-partition/
 [663]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_663.java
+[664_t]:   https://leetcode.com/problems/strange-printer/
+[664]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_664.java
