@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|666 |[Path Sum IV][666_t]|\[ [DFS][666] \]|
 |665 |[Non-decreasing Array][665_t]|\[ [Greedy][665] \]|
 |664 |[Strange Printer][664_t]|\[ [DP][664] \]|
 |663 |[Equal Tree Partition][663_t]|\[ [DFS][663] \]|
@@ -969,3 +970,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [664]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_664.java
 [665_t]:   https://leetcode.com/problems/non-decreasing-array/
 [665]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_665.java
+[666_t]:   https://leetcode.com/problems/path-sum-iv/
+[666]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_666.java
