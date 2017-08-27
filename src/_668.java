@@ -38,7 +38,7 @@ class _668 {
     }
 
     public int findKthNumber(int m, int n, int k) {
-        // left: strictly less than value at rank-k
+        // left: strictly less than the value at rank-k
         // right: no less than the value at rank-k
         int left = 0, right = m * n;
         while (left + 1 < right) {
