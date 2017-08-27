@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|667 |[Beautiful Arrangement II][667_t]|\[ [Constructive Approach][667] \]|
 |666 |[Path Sum IV][666_t]|\[ [DFS][666] \]|
 |665 |[Non-decreasing Array][665_t]|\[ [Greedy][665] \]|
 |664 |[Strange Printer][664_t]|\[ [DP][664] \]|
@@ -972,3 +973,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [665]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_665.java
 [666_t]:   https://leetcode.com/problems/path-sum-iv/
 [666]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_666.java
+[667_t]:   https://leetcode.com/problems/beautiful-arrangement-ii/
+[667]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_667.java
