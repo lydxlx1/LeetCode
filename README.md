@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
-|668 |[Kth Largest Number in Multiplication Table][668_t]|\[ [Binary Search][668] \]|
+|668 |[Kth Smallest Number in Multiplication Table][668_t]|\[ [Binary Search][668] \]|
 |667 |[Beautiful Arrangement II][667_t]|\[ [Constructive Approach][667] \]|
 |666 |[Path Sum IV][666_t]|\[ [DFS][666] \]|
 |665 |[Non-decreasing Array][665_t]|\[ [Greedy][665] \]|
@@ -976,5 +976,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [666]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_666.java
 [667_t]:   https://leetcode.com/problems/beautiful-arrangement-ii/
 [667]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_667.java
-[668_t]:   https://leetcode.com/problems/kth-largest-number-in-multiplication-table/
+[668_t]:   https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 [668]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_668.java
