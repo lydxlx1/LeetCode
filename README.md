@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |671 |[Second Minimum Node in a Binary Tree][671_t]|\[ [DFS][671] \]|
-|669 |[Trim a Binary Search Tre][669_t]|\[ [DFS][669] \]|
+|669 |[Trim a Binary Search Tree][669_t]|\[ [DFS][669] \]|
 |668 |[Kth Smallest Number in Multiplication Table][668_t]|\[ [Binary Search][668] \]|
 |667 |[Beautiful Arrangement II][667_t]|\[ [Constructive Approach][667] \]|
 |666 |[Path Sum IV][666_t]|\[ [DFS][666] \]|
