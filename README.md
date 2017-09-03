@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|671 |[Second Minimum Node in a Binary Tree][671_t]|\[ [DFS][671] \]|
 |669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
 |668 |[Kth Smallest Number in Multiplication Table][668_t]|\[ [Binary Search][668] \]|
 |667 |[Beautiful Arrangement II][667_t]|\[ [Constructive Approach][667] \]|
@@ -978,3 +979,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [667]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_667.java
 [668_t]:   https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 [668]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_668.java
+[671_t]:   https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+[671]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_671.java
