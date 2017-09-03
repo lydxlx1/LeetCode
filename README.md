@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |671 |[Second Minimum Node in a Binary Tree][671_t]|\[ [DFS][671] \]|
-|669 |[Remove 9][669_t]|\[ [Base-9][669] \]|
+|669 |[Trim a Binary Search Tre][669_t]|\[ [DFS][669] \]|
 |668 |[Kth Smallest Number in Multiplication Table][668_t]|\[ [Binary Search][668] \]|
 |667 |[Beautiful Arrangement II][667_t]|\[ [Constructive Approach][667] \]|
 |666 |[Path Sum IV][666_t]|\[ [DFS][666] \]|
@@ -16,6 +16,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |663 |[Equal Tree Partition][663_t]|\[ [DFS][663] \]|
 |662 |[Maximum Width of Binary Tree][662_t]|\[ [DFS "Solution"][662] \| [BFS Solution][662_1] \]|
 |661 |[Image Smoother][661_t]|\[ [Solution][661] \]|
+|660 |[Remove 9][660_t]|\[ [Base-9][660] \]|
 |656 |[Coin Path][656_t]|\[ [DP + Printing Solution][656] \]|
 |655 |[Print Binary Tree][655_t]|\[ [DFS + Math][655] \]|
 |654 |[Maximum Binary Tree][654_t]|\[ [DFS][654] \]|
@@ -960,8 +961,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [655]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_655.java
 [656_t]:   https://leetcode.com/problems/coin-path/
 [656]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_656.java
-[669_t]:   https://leetcode.com/problems/remove-9/
-[669]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_669.java
+[660_t]:   https://leetcode.com/problems/remove-9/
+[660]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_660.java
 [661_t]:   https://leetcode.com/problems/image-smoother/
 [661]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_661.java
 [662_t]:   https://leetcode.com/problems/maximum-width-of-binary-tree/
@@ -981,3 +982,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [668]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_668.java
 [671_t]:   https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 [671]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_671.java
+[669_t]:   https://leetcode.com/problems/trim-a-binary-search-tree/
+[669]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_669.java

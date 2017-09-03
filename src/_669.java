@@ -1,11 +1,23 @@
 /**
- * LeetCode 669 - Remove 9
+ * LeetCode 669 - Trim a Binary Search Tree
  * <p>
- * Base-9
+ * DFS approach
  */
-public class _669 {
+class _669 {
+    public TreeNode trimBST(TreeNode root, int L, int R) {
+        if (root == null) {
+            return null;
+        }
 
-    public int newInteger(int n) {
-        return Integer.parseInt(Integer.toString(n, 9));
+        TreeNode left = trimBST(root.left, L, R);
+        TreeNode right = trimBST(root.right, L, R);
+        if (L <= root.val && root.val <= R) {
+            root.left = left;
+            root.right = right;
+            return root;
+        } else {
+            // Since root.val is already out of range, at least one of left or right must be null.
+            return left != null ? left : right;
+        }
     }
 }
