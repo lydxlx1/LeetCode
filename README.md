@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|672 |[Bulb Switches II][672_t]|\[ [Brute-force + Math][672] \]|
 |671 |[Second Minimum Node in a Binary Tree][671_t]|\[ [DFS][671] \]|
 |670 |[Maximum Swap][670_t]|\[ [Brute-force][670] \]|
 |669 |[Trim a Binary Search Tree][669_t]|\[ [DFS][669] \]|
@@ -987,3 +988,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [669]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_669.java
 [670_t]:   https://leetcode.com/problems/maximum-swap/
 [670]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_670.java
+[672_t]:   https://leetcode.com/problems/bulb-switches-ii/
+[672]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_672.java
