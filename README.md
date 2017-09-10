@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|676 |[Implement Magic Dictionary][676_t]|\[ [Brute-force][676] \| [Trie + Fuzzy Search][676_1] \]|
 |674 |[Longest Continuous Increasing Subsequence][674_t]|\[ [O(n)-time Solution][674] \]|
 |672 |[Bulb Switcher II][672_t]|\[ [Brute-force + Math][672] \]|
 |671 |[Second Minimum Node in a Binary Tree][671_t]|\[ [DFS][671] \]|
@@ -993,3 +994,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [672]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_672.java
 [674_t]:   https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [674]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_674.java
+[676_t]:   https://leetcode.com/problems/implement-magic-dictionary/
+[676]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_676.java
+[676_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_676_1.java
