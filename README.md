@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |676 |[Implement Magic Dictionary][676_t]|\[ [Brute-force][676] \| [Trie + Fuzzy Search][676_1] \]|
+|675 |[Cut Off Trees for Golf Event][675_t]|\[ [BFS][675] \]|
 |674 |[Longest Continuous Increasing Subsequence][674_t]|\[ [O(n)-time Solution][674] \]|
 |673 |[Number of Longest Increasing Subsequence][673_t]|\[ [O(n^2)-time DP][673] \| [O(n log n)-time DP via Treap][673_1] \]|
 |672 |[Bulb Switcher II][672_t]|\[ [Brute-force + Math][672] \]|
@@ -1001,3 +1002,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [673_t]:   https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 [673]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_673.java
 [673_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_673_1.java
+[675_t]:   https://leetcode.com/problems/cut-off-trees-for-golf-event/
+[675]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_675.java
