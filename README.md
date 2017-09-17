@@ -7,7 +7,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |680 |[Valid Palindrome II][680_t]|\[ [Greedy][680] \]|
-|677 |[Map Sum Pairs][677_t]|\[ [Trei][677] \]|
+|678 |[Valid Parenthesis String][678_t]|\[ [DP][678] \]|
+|677 |[Map Sum Pairs][677_t]|\[ [Trie][677] \]|
 |676 |[Implement Magic Dictionary][676_t]|\[ [Brute-force][676] \| [Trie + Fuzzy Search][676_1] \]|
 |675 |[Cut Off Trees for Golf Event][675_t]|\[ [BFS][675] \]|
 |674 |[Longest Continuous Increasing Subsequence][674_t]|\[ [O(n)-time Solution][674] \]|
@@ -1010,3 +1011,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [680]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_680.java
 [677_t]:   https://leetcode.com/problems/map-sum-pairs/
 [677]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_677.java
+[678_t]:   https://leetcode.com/problems/valid-parenthesis-string/
+[678]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_678.java
