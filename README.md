@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |680 |[Valid Palindrome II][680_t]|\[ [Greedy][680] \]|
+|679 |[24 Game][679_t]|\[ [Backtracking][679] \]|
 |678 |[Valid Parenthesis String][678_t]|\[ [DP][678] \]|
 |677 |[Map Sum Pairs][677_t]|\[ [Trie][677] \]|
 |676 |[Implement Magic Dictionary][676_t]|\[ [Brute-force][676] \| [Trie + Fuzzy Search][676_1] \]|
@@ -1013,3 +1014,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [677]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_677.java
 [678_t]:   https://leetcode.com/problems/valid-parenthesis-string/
 [678]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_678.java
+[679_t]:   https://leetcode.com/problems/24-game/
+[679]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_679.java
