@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|680 |[Valid Palindrome II][680_t]|\[ [Greedy][680] \]|
 |676 |[Implement Magic Dictionary][676_t]|\[ [Brute-force][676] \| [Trie + Fuzzy Search][676_1] \]|
 |675 |[Cut Off Trees for Golf Event][675_t]|\[ [BFS][675] \]|
 |674 |[Longest Continuous Increasing Subsequence][674_t]|\[ [O(n)-time Solution][674] \]|
@@ -1004,3 +1005,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [673_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_673_1.java
 [675_t]:   https://leetcode.com/problems/cut-off-trees-for-golf-event/
 [675]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_675.java
+[680_t]:   https://leetcode.com/problems/valid-palindrome-ii/
+[680]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_680.java
