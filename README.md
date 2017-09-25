@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |682 |[Baseball Game][682_t]|\[ [Implementation][682] \]|
+|681 |[Next Closest Time][681_t]|\[ [Brute-force][681] \]|
 |680 |[Valid Palindrome II][680_t]|\[ [Greedy][680] \]|
 |679 |[24 Game][679_t]|\[ [Backtracking][679] \]|
 |678 |[Valid Parenthesis String][678_t]|\[ [DP][678] \]|
@@ -1019,3 +1020,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [679]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_679.java
 [682_t]:   https://leetcode.com/problems/baseball-game/
 [682]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_682.java
+[681_t]:   https://leetcode.com/problems/next-closest-time/
+[681]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_681.java
