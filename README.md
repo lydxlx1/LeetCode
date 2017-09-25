@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|682 |[Baseball Game][682_t]|\[ [Implementation][682] \]|
 |680 |[Valid Palindrome II][680_t]|\[ [Greedy][680] \]|
 |679 |[24 Game][679_t]|\[ [Backtracking][679] \]|
 |678 |[Valid Parenthesis String][678_t]|\[ [DP][678] \]|
@@ -1016,3 +1017,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [678]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_678.java
 [679_t]:   https://leetcode.com/problems/24-game/
 [679]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_679.java
+[682_t]:   https://leetcode.com/problems/baseball-game/
+[682]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_682.java
