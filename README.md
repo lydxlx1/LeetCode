@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|689 |[Maximum Sum of 3 Non-overlapping Subarrays][689_t]|\[ [DP + Solution Finding][689] \]|
 |688 |[Knight Probability in Chessboard][688_t]|\[ [DP][688] \]|
 |687 |[Longest Univalue Path][687_t]|\[ [Tree-DP][687] \]|
 |683 |[K Empty Slots][683_t]|\[ [BST][683] \]|
@@ -1030,4 +1031,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [687_t]:   https://leetcode.com/problems/longest-univalue-path/
 [687]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_687.py
 [688_t]:   https://leetcode.com/problems/knight-probability-in-chessboard/
-[688]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_688.py
+[688]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_688.java
+[689_t]:   https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+[689]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_689.java
