@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|687 |[Longest Univalue Path][687_t]|\[ [Tree-DP}][687] \]|
 |683 |[K Empty Slots][683_t]|\[ [BST][683] \]|
 |682 |[Baseball Game][682_t]|\[ [Implementation][682] \]|
 |681 |[Next Closest Time][681_t]|\[ [Brute-force][681] \]|
@@ -1025,3 +1026,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [681]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_681.java
 [683_t]:   https://leetcode.com/problems/k-empty-slots/
 [683]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_683.java
+[687_t]:   https://leetcode.com/problems/longest-univalue-path/
+[687]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_687.py
