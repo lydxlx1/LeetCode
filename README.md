@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|687 |[Longest Univalue Path][687_t]|\[ [Tree-DP}][687] \]|
+|687 |[Longest Univalue Path][687_t]|\[ [Tree-DP][687] \]|
 |683 |[K Empty Slots][683_t]|\[ [BST][683] \]|
 |682 |[Baseball Game][682_t]|\[ [Implementation][682] \]|
 |681 |[Next Closest Time][681_t]|\[ [Brute-force][681] \]|
