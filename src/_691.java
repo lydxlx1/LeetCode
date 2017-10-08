@@ -4,7 +4,7 @@ import java.util.*;
  * LeetCode 691 - Stickers to Spell Word
  * <p>
  * A pretty nice DP problem.
- * Different from the faster solution in the LeetCode discussion session, I am doing some offline optimization to the
+ * Different from the faster solution in the LeetCode discussion session, I am doing some offline optimization on the
  * inputs.
  * <p>
  * 1) Order here is totally useless, so we can sort all stickers and the target.
