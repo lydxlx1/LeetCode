@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|695 |[Max Area of Island][695_t]|\[ [DFS][695] \]|
 |693 |[Binary Number with Alternating Bits][693_t]|\[ [Solution][693] \]|
 |689 |[Maximum Sum of 3 Non-overlapping Subarrays][689_t]|\[ [DP + Solution Finding][689] \]|
 |688 |[Knight Probability in Chessboard][688_t]|\[ [DP][688] \]|
@@ -1041,3 +1042,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [686_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_686_1.java
 [693_t]:   https://leetcode.com/problems/binary-number-with-alternating-bits/
 [693]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_693.java
+[695_t]:   https://leetcode.com/problems/max-area-of-island/
+[695]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_695.py
