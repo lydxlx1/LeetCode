@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |695 |[Max Area of Island][695_t]|\[ [DFS][695] \]|
+|694 |[Number of Distinct Islands][694_t]|\[ [DFS + Sorting + Hashing][694] \]|
 |693 |[Binary Number with Alternating Bits][693_t]|\[ [Solution][693] \]|
 |689 |[Maximum Sum of 3 Non-overlapping Subarrays][689_t]|\[ [DP + Solution Finding][689] \]|
 |688 |[Knight Probability in Chessboard][688_t]|\[ [DP][688] \]|
@@ -1044,3 +1045,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [693]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_693.java
 [695_t]:   https://leetcode.com/problems/max-area-of-island/
 [695]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_695.py
+[694_t]:   https://leetcode.com/problems/number-of-distinct-islands/
+[694]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_694.py
