@@ -9,6 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |695 |[Max Area of Island][695_t]|\[ [DFS][695] \]|
 |694 |[Number of Distinct Islands][694_t]|\[ [DFS + Sorting + Hashing][694] \]|
 |693 |[Binary Number with Alternating Bits][693_t]|\[ [Solution][693] \]|
+|693 |[Stickers to Spell Word][691_t]|\[ [DP + Optimization][691] \]|
 |689 |[Maximum Sum of 3 Non-overlapping Subarrays][689_t]|\[ [DP + Solution Finding][689] \]|
 |688 |[Knight Probability in Chessboard][688_t]|\[ [DP][688] \]|
 |687 |[Longest Univalue Path][687_t]|\[ [Tree-DP][687] \]|
@@ -1047,3 +1048,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [695]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_695.py
 [694_t]:   https://leetcode.com/problems/number-of-distinct-islands/
 [694]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_694.py
+[691_t]:   https://leetcode.com/problems/stickers-to-spell-word/
+[691]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_691.java
