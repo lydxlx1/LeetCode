@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|697 |[Degree of an Array][697_t]|\[ [HashMap][697] \]|
 |695 |[Max Area of Island][695_t]|\[ [DFS][695] \]|
 |694 |[Number of Distinct Islands][694_t]|\[ [DFS + Sorting + Hashing][694] \]|
 |693 |[Binary Number with Alternating Bits][693_t]|\[ [Solution][693] \]|
@@ -1050,3 +1051,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [694]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_694.py
 [691_t]:   https://leetcode.com/problems/stickers-to-spell-word/
 [691]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_691.java
+[697_t]:   https://leetcode.com/problems/degree-of-an-array/
+[697]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_697.py
