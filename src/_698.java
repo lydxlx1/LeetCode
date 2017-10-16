@@ -94,9 +94,8 @@ public class _698 {
         return ans;
     }
 
-
     public static void main(String[] args) {
-        Solution3 sol = new Solution3();
+        _698 sol = new _698();
         System.out.println(sol.canPartitionKSubsets(new int[]{4, 3, 2, 3, 5, 2, 1}, 4));
         System.out.println(sol.canPartitionKSubsets(new int[]{4, 3, 2, 3, 5, 2, 1}, 3));
         System.out.println(sol.canPartitionKSubsets(new int[]{4, 3, 2, 3, 5, 2, 1}, 5));
