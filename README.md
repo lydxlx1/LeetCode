@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|699 |[Falling Squares][699_t]|\[ [Simple O(n^2)-time Solution][699] \| [O(n log n)-time Solution via Segment Tree][699_1] \]|
 |698 |[Partition to K Equal Sum Subsets][698_t]|\[ [Bit-DP][698] \]|
 |697 |[Degree of an Array][697_t]|\[ [HashMap][697] \]|
 |696 |[Count Binary Substrings][696_t]|\[ [DP][696] \| [Linear Scan][696_1] \]|
@@ -1057,6 +1058,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [697]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_697.py
 [696_t]:   https://leetcode.com/problems/count-binary-substrings/
 [696]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_696.java
-[696_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_696_1.py
+[696_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_696.py
 [698_t]:   https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 [698]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_698.java
+[699_t]:   https://leetcode.com/problems/falling-squares/
+[699]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_699.py
+[699_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_699.java
