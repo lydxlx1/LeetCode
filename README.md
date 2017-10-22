@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|713 |[Subarray Product Less Than K][713_t]|\[ [O(n)-time sliding window][713] \]|
 |699 |[Falling Squares][699_t]|\[ [Simple O(n^2)-time Solution][699] \| [O(n log n)-time Solution via Segment Tree][699_1] \]|
 |698 |[Partition to K Equal Sum Subsets][698_t]|\[ [Bit-DP][698] \]|
 |697 |[Degree of an Array][697_t]|\[ [HashMap][697] \]|
@@ -1064,3 +1065,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [699_t]:   https://leetcode.com/problems/falling-squares/
 [699]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_699.py
 [699_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_699.java
+[713_t]:   https://leetcode.com/problems/subarray-produce-less-than-k/
+[713]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_713.java
