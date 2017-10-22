@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |715 |[Range Module][715_t]|\[ [O(n log q)-time Solution via Dynamic Segment Tree][715] \]|
 |713 |[Subarray Product Less Than K][713_t]|\[ [O(n)-time sliding window][713] \]|
+|712 |[Minimum ASCII Delete Sum for Two Strings][712_t]|\[ [DP][712] \]|
 |699 |[Falling Squares][699_t]|\[ [Simple O(n^2)-time Solution][699] \| [O(n log n)-time Solution via Segment Tree][699_1] \]|
 |698 |[Partition to K Equal Sum Subsets][698_t]|\[ [Bit-DP][698] \]|
 |697 |[Degree of an Array][697_t]|\[ [HashMap][697] \]|
@@ -1070,3 +1071,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [713]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_713.java
 [715_t]:   https://leetcode.com/problems/range-module/
 [715]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_715.java
+[712_t]:   https://leetcode.com/problems/minimun-ascii-delete-sum-for-two-strings/
+[712]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_712.java
