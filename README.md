@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|718 |[Maximum Length of Repeated Subarray][718_t]|\[ [DP][718] \]|
 |717 |[1-bit and 2-bit Characters][717_t]|\[ [Solution][717] \]|
 |715 |[Range Module][715_t]|\[ [O(n log q)-time Solution via Dynamic Segment Tree][715] \]|
 |714 |[Best Time to Buy and Sell Stock with Transaction Fee][714_t]|\[ [O(n)-time DP][714] \]|
@@ -1082,3 +1083,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [717]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_717.py
 [443_t]:   https://leetcode.com/problems/string-compression/
 [443]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_443.py
+[718_t]:   https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+[718]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_718.java
