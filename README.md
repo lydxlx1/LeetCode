@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|719 |[Find K-th Smallest Pair Distance][719_t]|\[ [Binary Search + Sliding Window][719] \]|
 |718 |[Maximum Length of Repeated Subarray][718_t]|\[ [DP][718] \]|
 |717 |[1-bit and 2-bit Characters][717_t]|\[ [Solution][717] \]|
 |715 |[Range Module][715_t]|\[ [O(n log q)-time Solution via Dynamic Segment Tree][715] \]|
@@ -1085,3 +1086,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [443]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_443.py
 [718_t]:   https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 [718]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_718.java
+[719_t]:   https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+[719]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_719.java
