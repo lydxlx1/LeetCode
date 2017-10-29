@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|717 |[1-bit and 2-bit Characters][717_t]|\[ [Solution][717] \]|
 |715 |[Range Module][715_t]|\[ [O(n log q)-time Solution via Dynamic Segment Tree][715] \]|
 |714 |[Best Time to Buy and Sell Stock with Transaction Fee][714_t]|\[ [O(n)-time DP][714] \]|
 |713 |[Subarray Product Less Than K][713_t]|\[ [O(n)-time sliding window][713] \]|
@@ -1076,3 +1077,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [712]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_712.java
 [714_t]:   https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [714]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_714.java
+[717_t]:   https://leetcode.com/problems/1-bit-and-2-bit-characters/
+[717]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_717.py
