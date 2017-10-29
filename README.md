@@ -196,6 +196,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |447 |[Number of Boomerangs][447_t]|\[ [Counting via HashMap][447] \]|
 |446 |[Arithmetic Slices II - Subsequence][446_t]|\[ [Very Fast O(n^3) DP Solution][446] \| [O(n^2) DP Solution with Pruning][446_1] \]|
 |444 |[Sequence Reconstruction][444_t]|\[ [Topological Sort][444] \]|
+|443 |[String Compression][443_t]|\[ [Solution][443] \]|
 |442 |[Find All Duplicates in an Array][442_t]|\[ [Mod Trick][442] \]|
 |441 |[Arranging Coins][441_t]|\[ [O(1) Brute-force][441] \]|
 |440 |[K-th Smallest in Lexicographical Order][440_t]|\[ [Counting + Greedy][440] \]|
@@ -1079,3 +1080,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [714]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_714.java
 [717_t]:   https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [717]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_717.py
+[443_t]:   https://leetcode.com/problems/string-compression/
+[443]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_443.py
