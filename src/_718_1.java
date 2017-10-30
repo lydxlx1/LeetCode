@@ -29,7 +29,7 @@ public class _718_1 {
         long hash = 0, high = pow(M, len - 1);
         for (int i = 0; i < a.length; i++) {
             if (i >= len) {
-                hash = hash - a[i - len] * high % MOD + MOD;
+                hash = hash - (a[i - len] + 1) * high % MOD + MOD;
             }
             hash = (hash * M + a[i] + 1) % MOD;
             if (i >= len - 1) {
@@ -40,9 +40,9 @@ public class _718_1 {
         hash = 0;
         for (int i = 0; i < b.length; i++) {
             if (i >= len) {
-                hash = hash - b[i - len] * high % MOD + MOD;
+                hash = hash - (b[i - len] + 1) * high % MOD + MOD;
             }
-            hash = (hash * M + b[i] + 1) % MOD;
+            hash = (hash * M + (b[i] + 1)) % MOD;
             if (i >= len - 1 && set.contains(hash)) {
                 return true;
             }
