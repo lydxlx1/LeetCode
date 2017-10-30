@@ -31,7 +31,7 @@ public class _718_1 {
             if (i >= len) {
                 hash = hash - a[i - len] * high % MOD + MOD;
             }
-            hash = (hash * M + a[i]) % MOD;
+            hash = (hash * M + a[i] + 1) % MOD;
             if (i >= len - 1) {
                 set.add(hash);
             }
@@ -42,7 +42,7 @@ public class _718_1 {
             if (i >= len) {
                 hash = hash - b[i - len] * high % MOD + MOD;
             }
-            hash = (hash * M + b[i]) % MOD;
+            hash = (hash * M + b[i] + 1) % MOD;
             if (i >= len - 1 && set.contains(hash)) {
                 return true;
             }
