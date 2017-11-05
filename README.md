@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|721 |[Accounts Merge][721_t]|\[ [Disjoint Set + Hashset][721] \]|
 |720 |[Longest Word in Dictionary][720_t]|\[ [Sorting + DP][720] \]|
 |719 |[Find K-th Smallest Pair Distance][719_t]|\[ [Binary Search + Sliding Window][719] \]|
 |718 |[Maximum Length of Repeated Subarray][718_t]|\[ [DP][718] \| [Binary Search + Rolling Hash][718_1] \]|
@@ -1092,3 +1093,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [719]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_719.java
 [720_t]:   https://leetcode.com/problems/longest-word-in-dictionary/
 [720]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_720.py
+[721_t]:   https://leetcode.com/problems/accounts-merge/
+[721]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_721.py
