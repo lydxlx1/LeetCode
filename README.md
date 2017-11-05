@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|722 |[Remove Comments][722_t]|\[ [Solution][722] \]|
 |721 |[Accounts Merge][721_t]|\[ [Disjoint Set + Hashset][721] \]|
 |720 |[Longest Word in Dictionary][720_t]|\[ [Sorting + DP][720] \]|
 |719 |[Find K-th Smallest Pair Distance][719_t]|\[ [Binary Search + Sliding Window][719] \]|
@@ -1095,3 +1096,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [720]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_720.py
 [721_t]:   https://leetcode.com/problems/accounts-merge/
 [721]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_721.py
+[722_t]:   https://leetcode.com/problems/remove-comments/
+[722]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_722.py
