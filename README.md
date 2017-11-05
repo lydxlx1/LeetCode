@@ -1091,4 +1091,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [719_t]:   https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 [719]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_719.java
 [720_t]:   https://leetcode.com/problems/longest-word-in-dictionary/
-[720]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_720.java
+[720]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_720.py
