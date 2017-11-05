@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|723 |[Candy Crush][723_t]|\[ [Solution][723] \]|
 |722 |[Remove Comments][722_t]|\[ [Solution][722] \]|
 |721 |[Accounts Merge][721_t]|\[ [Disjoint Set + Hashset][721] \]|
 |720 |[Longest Word in Dictionary][720_t]|\[ [Sorting + DP][720] \]|
@@ -1098,3 +1099,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [721]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_721.py
 [722_t]:   https://leetcode.com/problems/remove-comments/
 [722]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_722.py
+[723_t]:   https://leetcode.com/problems/candy-crush/
+[723]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_723.py
