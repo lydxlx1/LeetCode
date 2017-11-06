@@ -13,6 +13,7 @@ class Solution:
         """
         valid = {""}
         for word in sorted(words):
-            if word.startswith(word[:-1]) and word[:-1] in valid:
+            if word[:-1] in valid:
                 valid.add(word)
         return min(((-len(s), s) for s in valid))[1]
+
