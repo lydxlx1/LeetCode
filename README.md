@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|727 |[Minimum Window Subsequence][727_t]|\[ [DP][727] \]|
+|726 |[Number of Atoms][726_t]|\[ [LL-Parser][726] \| [Python Solution][726_1] \]|
+|725 |[Split Linked List in Parts][725_t]|\[ [Greedy][725] \]|
+|724 |[Find Pivot Index][724_t]|\[ [Prefix-Sum][724] \]|
 |723 |[Candy Crush][723_t]|\[ [Solution][723] \]|
 |722 |[Remove Comments][722_t]|\[ [Solution][722] \]|
 |721 |[Accounts Merge][721_t]|\[ [Disjoint Set + Hashset][721] \]|
@@ -1101,3 +1105,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [722]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_722.py
 [723_t]:   https://leetcode.com/problems/candy-crush/
 [723]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_723.py
+[724_t]:   https://leetcode.com/problems/find-pivot-index/
+[724]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_724.py
+[725_t]:   https://leetcode.com/problems/split-linked-list-in-parts/
+[725]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_725.py
+[726_t]:   https://leetcode.com/problems/number-of-atoms/
+[726]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_726.java
+[726_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_726.py
+[727_t]:   https://leetcode.com/problems/minimum-window-subsequence/
+[727]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_727.java
