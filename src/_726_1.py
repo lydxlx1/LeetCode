@@ -31,7 +31,7 @@ class Solution:
                 map[atom[::-1]] += max(multiplier, 1) * stack[-1]
                 atom, multiplier, base = ("", 0, 1)
             elif ch == ')':
-                stack.append(max(multiplier, 0) * stack[-1])  # prefix prod
+                stack.append(max(multiplier, 1) * stack[-1])  # prefix prod
                 atom, multiplier, base = ("", 0, 1)
             else:
                 raise
