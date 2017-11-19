@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |731 |[My Calendar II][731_t]|\[ [Sweepline][731] \| [Segment Tree][731_1] \]|
+|730 |[Count Different Palindromic Subsequences][730_t]|\[ [DP][730] \]|
 |729 |[My Calendar I][729_t]|\[ [Sweepline][729] \| [Segment Tree][729_1] \]|
 |727 |[Minimum Window Subsequence][727_t]|\[ [DP][727] \]|
 |726 |[Number of Atoms][726_t]|\[ [LL-Parser][726] \| [Python Solution][726_1] \| [Non-recursive Solution][726_2] \]|
@@ -1123,3 +1124,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [731_t]:   https://leetcode.com/problems/my-calendar-ii/
 [731]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_731.java
 [731_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_731_1.java
+[730_t]:   https://leetcode.com/problems/count-different-palindromic-subsequences/
+[730]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_730.java
