@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|731 |[My Calendar II][731_t]|\[ [Sweepline][731] \| [Segment Tree][731_1] \]|
+|729 |[My Calendar I][729_t]|\[ [Sweepline][729] \| [Segment Tree][729_1] \]|
 |727 |[Minimum Window Subsequence][727_t]|\[ [DP][727] \]|
 |726 |[Number of Atoms][726_t]|\[ [LL-Parser][726] \| [Python Solution][726_1] \| [Non-recursive Solution][726_2] \]|
 |725 |[Split Linked List in Parts][725_t]|\[ [Greedy][725] \]|
@@ -1115,3 +1117,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [726_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_726_1.py
 [727_t]:   https://leetcode.com/problems/minimum-window-subsequence/
 [727]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_727.java
+[729_t]:   https://leetcode.com/problems/my-calendar-i/
+[729]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_729.java
+[729_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_729_1.java
+[731_t]:   https://leetcode.com/problems/my-calendar-ii/
+[731]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_731.java
+[731_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_731_1.java
