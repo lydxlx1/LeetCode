@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|734 |[Sentence Similarity][734_t]|\[ [Solution][734] \]|
 |733 |[Flood Fill][733_t]|\[ [DFS][733] \]|
 |731 |[My Calendar II][731_t]|\[ [Sweepline][731] \| [Segment Tree][731_1] \]|
 |730 |[Count Different Palindromic Subsequences][730_t]|\[ [DP][730] \]|
@@ -1132,3 +1133,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [728]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_728.py
 [733_t]:   https://leetcode.com/problems/flood-fill/
 [733]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_733.py
+[734_t]:   https://leetcode.com/problems/sentence-similarity/
+[734]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_734.py
