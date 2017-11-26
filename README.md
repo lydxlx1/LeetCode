@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|736 |[Parse List Expression][736_t]|\[ [Parser][736] \]|
 |735 |[Asteroid Collision][735_t]|\[ [Stack][735] \]|
 |734 |[Sentence Similarity][734_t]|\[ [Solution][734] \]|
 |733 |[Flood Fill][733_t]|\[ [DFS][733] \]|
@@ -1138,3 +1139,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [734]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_734.py
 [735_t]:   https://leetcode.com/problems/asteroid-collision/
 [735]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_735.py
+[736_t]:   https://leetcode.com/problems/parse-lisp-expression/
+[736]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_736.py
