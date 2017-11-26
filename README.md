@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|735 |[Asteroid Collision][735_t]|\[ [Stack][735] \]|
 |734 |[Sentence Similarity][734_t]|\[ [Solution][734] \]|
 |733 |[Flood Fill][733_t]|\[ [DFS][733] \]|
 |731 |[My Calendar II][731_t]|\[ [Sweepline][731] \| [Segment Tree][731_1] \]|
@@ -1135,3 +1136,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [733]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_733.py
 [734_t]:   https://leetcode.com/problems/sentence-similarity/
 [734]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_734.py
+[735_t]:   https://leetcode.com/problems/asteroid-collision/
+[735]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_735.py
