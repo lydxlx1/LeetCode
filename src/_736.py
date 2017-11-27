@@ -2,7 +2,6 @@ import re
 
 """
 LeetCode 736 - Parse List Expression
-
 Parser
 The only trick in this problem is to decide when to stop the variable list for let-clauses.
 """
@@ -50,9 +49,6 @@ class Solution:
                 assert next() == ')'
                 return res
             else:
-                try:
-                    return int(token)
-                except:
-                    return vars[token]
+                return int(token) if re.match(r'[+-]?\d+', token) else vars[token]
 
         return dfs({})
