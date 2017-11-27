@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|737 |[Sentence Similarity II][737_t]|\[ [Union-find Set][737] \]|
 |736 |[Parse List Expression][736_t]|\[ [Parser][736] \]|
 |735 |[Asteroid Collision][735_t]|\[ [Stack][735] \]|
 |734 |[Sentence Similarity][734_t]|\[ [Solution][734] \]|
@@ -1141,3 +1142,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [735]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_735.py
 [736_t]:   https://leetcode.com/problems/parse-lisp-expression/
 [736]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_736.py
+[737_t]:   https://leetcode.com/problems/sentence-similarity-ii/
+[737]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_737.py
