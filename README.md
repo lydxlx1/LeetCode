@@ -1155,4 +1155,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [740_t]:   https://leetcode.com/problems/delete-and-earn/
 [740]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_740.py
 [741_t]:   https://leetcode.com/problems/cherry-pickup/
-[741]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_741.py
+[741]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_741.java
