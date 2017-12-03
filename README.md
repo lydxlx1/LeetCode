@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|739 |[Daily Temperatrues][739_t]|\[ [Stack][739] \]|
 |737 |[Sentence Similarity II][737_t]|\[ [Union-find Set][737] \]|
 |736 |[Parse List Expression][736_t]|\[ [Parser][736] \]|
 |735 |[Asteroid Collision][735_t]|\[ [Stack][735] \]|
@@ -1144,3 +1145,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [736]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_736.py
 [737_t]:   https://leetcode.com/problems/sentence-similarity-ii/
 [737]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_737.py
+[739_t]:   https://leetcode.com/problems/daily-temperatures/
+[739]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_739.py
