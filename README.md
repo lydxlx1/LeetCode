@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|741 |[Cherry Pickup][741_t]|\[ [DP][741] \]|
 |740 |[Delete and Earn][740_t]|\[ [DP][740] \]|
 |739 |[Daily Temperatrues][739_t]|\[ [Stack][739] \]|
 |738 |[Monotone Increasing Digits][738_t]|\[ [Greedy][738] \]|
@@ -1153,3 +1154,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [738]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_738.java
 [740_t]:   https://leetcode.com/problems/delete-and-earn/
 [740]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_740.py
+[741_t]:   https://leetcode.com/problems/cherry-pickup/
+[741]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_741.py
