@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |745 |[Prefix and Suffix Search][745_t]|\[ [Solution1][745] \| [Solution2][745_1] \]|
+|744 |[Find Smallest Letter Greater Than Target][744_t]|\[ [Solution][744] \]|
 |743 |[Network Delay Time][743_t]|\[ [Floyd][743] \| [SPFA][743_1] \]|
 |742 |[Closest Leaf in a Binary Tree][742_t]|\[ [DFS][742] \]|
 |741 |[Cherry Pickup][741_t]|\[ [DP][741] \]|
@@ -1167,3 +1168,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [743_t]:   https://leetcode.com/problems/network-delay-time/
 [743]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_743.py
 [743_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_743_1.py
+[744_t]:   https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[744]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_744.py
