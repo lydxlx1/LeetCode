@@ -1,7 +1,7 @@
 """
 LeetCode 743 - Network Delay Time
 
-Floyed
+Floyd
 """
 
 
