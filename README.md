@@ -15,7 +15,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |739 |[Daily Temperatrues][739_t]|\[ [Stack][739] \]|
 |738 |[Monotone Increasing Digits][738_t]|\[ [Greedy][738] \]|
 |737 |[Sentence Similarity II][737_t]|\[ [Union-find Set][737] \]|
-|736 |[Parse List Expression][736_t]|\[ [Parser][736] \]|
+|736 |[Parse Lisp Expression][736_t]|\[ [Parser][736] \]|
 |735 |[Asteroid Collision][735_t]|\[ [Stack][735] \]|
 |734 |[Sentence Similarity][734_t]|\[ [Solution][734] \]|
 |733 |[Flood Fill][733_t]|\[ [DFS][733] \]|
