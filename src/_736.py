@@ -1,7 +1,7 @@
 import re
 
 """
-LeetCode 736 - Parse List Expression
+LeetCode 736 - Parse Lisp Expression
 Parser
 The only trick in this problem is to decide when to stop the variable list for let-clauses.
 """
