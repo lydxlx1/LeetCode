@@ -1174,7 +1174,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [743_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_743_1.py
 [744_t]:   https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [744]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_744.py
-[749_t]:   https://leetcode.com/problems/contain_virus/
+[749_t]:   https://leetcode.com/problems/contain-virus/
 [749]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_749.java
 [750_t]:   https://leetcode.com/problems/number-of-corner-rectangles/
 [750]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_750.java
