@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|750 |[Number of Corner Rectangles][750_t]|\[ [Solution][750] \]|
+|749 |[Contain Virus][749_t]|\[ [DFS][749] \]|
+|748 |[Shortest Completing Word][748_t]|\[ [Solution][748] \]|
+|746 |[Min Cost Climbing Stairs][746_t]|\[ [DP][746] \]|
 |745 |[Prefix and Suffix Search][745_t]|\[ [Solution1][745] \| [Solution2][745_1] \]|
 |744 |[Find Smallest Letter Greater Than Target][744_t]|\[ [Solution][744] \]|
 |743 |[Network Delay Time][743_t]|\[ [Floyd][743] \| [SPFA][743_1] \]|
@@ -1170,3 +1174,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [743_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_743_1.py
 [744_t]:   https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [744]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_744.py
+[749_t]:   https://leetcode.com/problems/contain_virus/
+[749]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_749.java
+[750_t]:   https://leetcode.com/problems/number-of-corner-rectangles/
+[750]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_750.java
+[748_t]:   https://leetcode.com/problems/shortest-completing-word/
+[748]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_748.py
+[746_t]:   https://leetcode.com/problems/min-cost-climbing-stairs/
+[746]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_746.java
