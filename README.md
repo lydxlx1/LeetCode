@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|750 |[IP to CIDR][751_t]|\[ [Greedy + Bit Manipulation][751] \]|
 |750 |[Number of Corner Rectangles][750_t]|\[ [Solution][750] \]|
 |749 |[Contain Virus][749_t]|\[ [DFS][749] \]|
 |748 |[Shortest Completing Word][748_t]|\[ [Solution][748] \]|
@@ -377,15 +378,15 @@ I will keep updating the list and feel free to share any of your thoughts!
 |277 |[Find the Celebrity][277_t]|\[ [Universal Sink][277] \]|
 |276 |[Paint Fence][276_t]|\[ [Combinatorial][276] \]|
 |274 |[H-Index](https://leetcode.com/problems/h-index/)|\[ [Counting Sort](https://github.com/lydxlx1/LeetCode/blob/master/src/_274.java) \]|
-|272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]| 
-|271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) \| [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]| 
-|270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]| 
+|272 |[Closest Binary Search Tree Value II][272_t]|\[ [Predesessor + Successor in BST][272] \]|
+|271 |[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|\[ [Escaping Character](https://github.com/lydxlx1/LeetCode/blob/master/src/_271.java) \| [Trie Serialization/Deserialization](https://github.com/lydxlx1/LeetCode/blob/master/src/_271_1.java) \]|
+|270 |[Closest Binary Search Tree Value][270_t]|\[ [Solution][270] \]|
 |269 |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|\[ [Topological Sort (BFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269.java) \| [BFS with Smaller Constant](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_1.java) \| [Topological Sort (DFS)](https://github.com/lydxlx1/LeetCode/blob/master/src/_269_2.java)\]|
-|267 |[Palindrome Permutation II][267_t]|\[ [Counting + Next Permutation][267] \]| 
-|266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]| 
-|265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]| 
-|262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]| 
-|261 |[Graph Valid Tree][261_t]|\[ [Union-find Set][261] \]| 
+|267 |[Palindrome Permutation II][267_t]|\[ [Counting + Next Permutation][267] \]|
+|266 |[Palindrome Permutation][266_t]|\[ [Counting][266] \]|
+|265 |[Paint House II][265_t]|\[ [O(nk) DP][265] \]|
+|262 |[Trips and Users](https://leetcode.com/problems/trips-and-users/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_262.sql) \]|
+|261 |[Graph Valid Tree][261_t]|\[ [Union-find Set][261] \]|
 |259 |[3Sum Smaller][259_t]|\[ [Two-pointer][259] \]|
 |256 |[Paint House][256_t]|\[ [DP][256] \]|
 |255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|\[ [Construction Method](https://github.com/lydxlx1/LeetCode/blob/master/src/_255.java) \| [RMQ + Binary Search](https://github.com/lydxlx1/LeetCode/blob/master/src/_255_1.java) \]|
@@ -401,30 +402,30 @@ I will keep updating the list and feel free to share any of your thoughts!
 |218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|\[ [Sweepline](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.cpp) \| [Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_218.java)\]|
 |214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|\[ [Rabin-Karp rolling hash](https://github.com/lydxlx1/LeetCode/blob/master/src/_214.java) \| [KMP](https://github.com/lydxlx1/LeetCode/blob/master/src/_214_1.java) \]|
 |212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|\[ [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_212.java) \]|
-|206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_206.java) \]| 
-|197 |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]| 
-|196 |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_196.sql) \]| 
-|186 |[Reverse Words in a String II][186_t]|\[ [In-place Solution][186] \]| 
-|184 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_184.sql) \]| 
-|183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_183.sql) \]| 
-|182 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_182.sql) \]| 
-|181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_181.sql) \]| 
-|180 |[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_180.sql) \]| 
-|178 |[Rank Scores](https://leetcode.com/problems/rank-scores/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_178.sql) \]| 
-|177 |[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_177.sql) \]| 
-|176 |[Second Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_176.sql) \]| 
-|175 |[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]| 
-|170 |[Two Sum III - Data structure design][170_t]|\[ [Hash Table][170] \]| 
+|206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_206.java) \]|
+|197 |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_197.sql) \]|
+|196 |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_196.sql) \]|
+|186 |[Reverse Words in a String II][186_t]|\[ [In-place Solution][186] \]|
+|184 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_184.sql) \]|
+|183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_183.sql) \]|
+|182 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_182.sql) \]|
+|181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_181.sql) \]|
+|180 |[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_180.sql) \]|
+|178 |[Rank Scores](https://leetcode.com/problems/rank-scores/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_178.sql) \]|
+|177 |[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_177.sql) \]|
+|176 |[Second Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_176.sql) \]|
+|175 |[Combine Two Tables](https://leetcode.com/problems/nth-highest-salary/)|\[ [Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_175.sql) \]|
+|170 |[Two Sum III - Data structure design][170_t]|\[ [Hash Table][170] \]|
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|\[ [Two-pointer](https://github.com/lydxlx1/LeetCode/blob/master/src/_167.java) \]|
 |165 |[Compare version Numbers](https://leetcode.com/problems/compare-version-numbers/)|\[ [Lexicographical Order](https://github.com/lydxlx1/LeetCode/blob/master/src/_165.java) \]|
 |163 |[Missing Ranges][163_t]|\[ [Sorting][163] \]|
-|161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]| 
-|159 |[Longest Substring with At Most Two Distinct Characters][159_t] |\[ [Sliding-window][159] \]| 
-|158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]| 
-|157 |[Read N Characters Given Read4][157_t] |\[ [Reader][157] \]| 
-|156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]| 
-|155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) \| [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]| 
-|151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) \| [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]| 
+|161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|\[ [Short Java Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_161.java) \]|
+|159 |[Longest Substring with At Most Two Distinct Characters][159_t] |\[ [Sliding-window][159] \]|
+|158 |[Read N Characters Given Read4 II - Call multiple times][158_t] |\[ [Reader][158] \]|
+|157 |[Read N Characters Given Read4][157_t] |\[ [Reader][157] \]|
+|156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]|
+|155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) \| [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]|
+|151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) \| [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]|
 |146 |[LRU Cache](https://leetcode.com/problems/lru-cache/)|\[ [Doubly Connected Linked List + Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_146.java) \]|
 |140 |[Word Break II](https://leetcode.com/problems/word-break-ii/)|\[ [DP + DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_140.java) \]|
 |139 |[Word Break](https://leetcode.com/problems/word-break/)|\[ [Short DP](https://github.com/lydxlx1/LeetCode/blob/master/src/_139.java) \| [DP + Trie](https://github.com/lydxlx1/LeetCode/blob/master/src/_139_1.java) \]|
@@ -1182,3 +1183,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [748]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_748.py
 [746_t]:   https://leetcode.com/problems/min-cost-climbing-stairs/
 [746]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_746.java
+[751_t]:   https://leetcode.com/problems/ip-to-cidr/
+[751]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_751.java
