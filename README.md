@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|753 |[Cracking the Safe][753_t]|\[ [Eulerian Circuit][753] \]|
 |752 |[Open the Lock][752_t]|\[ [BFS][752] \]|
 |751 |[IP to CIDR][751_t]|\[ [Greedy + Bit Manipulation][751] \]|
 |750 |[Number of Corner Rectangles][750_t]|\[ [Solution][750] \]|
@@ -1191,3 +1192,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [747]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_747.java
 [752_t]:   https://leetcode.com/problems/open-the-lock/
 [752]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_752.py
+[753_t]:   https://leetcode.com/problems/cracking-the-safe/
+[753]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_753.java
