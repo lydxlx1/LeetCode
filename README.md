@@ -58,6 +58,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |688 |[Knight Probability in Chessboard][688_t]|\[ [DP][688] \]|
 |687 |[Longest Univalue Path][687_t]|\[ [Tree-DP][687] \]|
 |686 |[Repeated String Match][686_t]|\[ [Brute-force][686] \| [KMP][686_1] \]|
+|685 |[Redundant Connection II][685_t]|\[ [DFS][685] \]|
 |683 |[K Empty Slots][683_t]|\[ [BST][683] \]|
 |682 |[Baseball Game][682_t]|\[ [Implementation][682] \]|
 |681 |[Next Closest Time][681_t]|\[ [Brute-force][681] \]|
@@ -1194,3 +1195,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [752]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_752.py
 [753_t]:   https://leetcode.com/problems/cracking-the-safe/
 [753]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_753.java
+[685_t]:   https://leetcode.com/problems/redundant-connection-ii/
+[685]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_685.java
