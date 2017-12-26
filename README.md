@@ -20,7 +20,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |742 |[Closest Leaf in a Binary Tree][742_t]|\[ [DFS][742] \]|
 |741 |[Cherry Pickup][741_t]|\[ [DP][741] \]|
 |740 |[Delete and Earn][740_t]|\[ [DP][740] \]|
-|739 |[Daily Temperatrues][739_t]|\[ [Stack][739] \]|
+|739 |[Daily Temperatures][739_t]|\[ [Stack][739] \]|
 |738 |[Monotone Increasing Digits][738_t]|\[ [Greedy][738] \]|
 |737 |[Sentence Similarity II][737_t]|\[ [Union-find Set][737] \]|
 |736 |[Parse Lisp Expression][736_t]|\[ [Parser][736] \]|
