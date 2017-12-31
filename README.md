@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|759 |[Set Intersection Size At Least Two][759_t]|\[ [Sweepline + Greedy][759] \]|
 |753 |[Cracking the Safe][753_t]|\[ [Eulerian Circuit][753] \]|
 |752 |[Open the Lock][752_t]|\[ [BFS][752] \]|
 |751 |[IP to CIDR][751_t]|\[ [Greedy + Bit Manipulation][751] \]|
@@ -1197,3 +1198,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [753]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_753.java
 [685_t]:   https://leetcode.com/problems/redundant-connection-ii/
 [685]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_685.java
+[759_t]:   https://leetcode.com/problems/set-intersection-size-at-least-two/
+[759]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_759.java
