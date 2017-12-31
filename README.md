@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |759 |[Set Intersection Size At Least Two][759_t]|\[ [Sweepline + Greedy][759] \]|
+|757 |[Pyramid Transition Matrix][757_t]|\[ [DP][757] \]|
 |756 |[Pour Water][756_t]|\[ [Solution][756] \]|
 |755 |[Reach a Number][755_t]|\[ [Math][755] \]|
 |753 |[Cracking the Safe][753_t]|\[ [Eulerian Circuit][753] \]|
@@ -1206,3 +1207,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [755]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_755.java
 [756_t]:   https://leetcode.com/problems/pour-water/
 [756]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_756.java
+[757_t]:   https://leetcode.com/problems/pyramid-transition-matrix/
+[757]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_757.java
