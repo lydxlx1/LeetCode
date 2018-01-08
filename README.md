@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |760 |[Find Anagram Mappings][760_t]|\[ [Solution][760] \]|
 |759 |[Set Intersection Size At Least Two][759_t]|\[ [Sweepline + Greedy][759] \]|
+|758 |[Bold Words in String][758_t]|\[ [Greedy][758] \]|
 |757 |[Pyramid Transition Matrix][757_t]|\[ [DP][757] \]|
 |756 |[Pour Water][756_t]|\[ [Solution][756] \]|
 |755 |[Reach a Number][755_t]|\[ [Math][755] \]|
@@ -1212,3 +1213,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [757]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_757.java
 [760_t]:   https://leetcode.com/problems/find-anagram-mappings/
 [760]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_760.java
+[758_t]:   https://leetcode.com/problems/bold-words-in-string/
+[758]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_758.java
