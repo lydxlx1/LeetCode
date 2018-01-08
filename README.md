@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|761 |[Special Binary String][761_t]|\[ [Greedy + Stack][761] \]|
 |760 |[Find Anagram Mappings][760_t]|\[ [Solution][760] \]|
 |759 |[Employee Free Time][759_t]|\[ [Segment Tree][759] \]|
 |758 |[Bold Words in String][758_t]|\[ [Greedy][758] \]|
@@ -1218,3 +1219,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [758]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_758.java
 [759_t]:   https://leetcode.com/problems/employee-free-time/
 [759]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_759.java
+[761_t]:   https://leetcode.com/problems/special-binary-string/
+[761]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_761.java
