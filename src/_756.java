@@ -1,68 +1,40 @@
-import java.util.Arrays;
+import java.util.BitSet;
+import java.util.List;
 
 /**
- * LeetCode 756 - Pour Water
+ * LeetCode 756 - Pyramid Transition Matrix
  * <p>
- * Just make sure you correctly understand the problem description.
+ * DP
+ * Note that each string pattern in the list allowed can be used multiple times.
  */
 public class _756 {
 
-    public int[] pourWater(int[] heights, int V, int K) {
-        for (int i = 0; i < V; i++) {
-            int tmp = moveLeft(heights, K);
-            if (tmp != -1) {
-                heights[tmp]++;
-                continue;
-            }
+    public boolean pyramidTransition(String bottom, List<String> allowed) {
+        BitSet[][] go = new BitSet[26][26];
+        for (int i = 0; i < go.length; i++)
+            for (int j = 0; j < go.length; j++)
+                go[i][j] = new BitSet(26);
+        for (String s : allowed)
+            go[s.charAt(0) - 'A'][s.charAt(1) - 'A'].set(s.charAt(2) - 'A');
 
-            tmp = moveRight(heights, K);
-            if (tmp != -1) {
-                heights[tmp]++;
-                continue;
-            }
+        int n = bottom.length();
+        BitSet[][] f = new BitSet[n][n];
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                f[i][j] = new BitSet(26);
 
-            heights[K]++;
+        for (int i = 0; i < n; i++) {
+            f[n - 1][i].set(bottom.charAt(i) - 'A');
         }
-        return heights;
-    }
-
-    int moveLeft(int[] a, int idx) {
-        int ans = -1;
-
-        for (int i = idx - 1; i >= 0; i--) {
-            if (a[i] == a[i + 1]) {
-                continue;
-            } else if (a[i] < a[i + 1]) {
-                ans = i;
-            } else {
-                break;
+        for (int i = n - 2; i >= 0; i--) {
+            for (int j = 0; j <= i; j++) {
+                // f[i][j] relies on f[i+1][j] and f[i+1][j+1]
+                for (int ii = f[i + 1][j].nextSetBit(0); ii != -1; ii = f[i + 1][j].nextSetBit(ii + 1))
+                    for (int jj = f[i + 1][j + 1].nextSetBit(0); jj != -1; jj = f[i + 1][j + 1].nextSetBit(jj + 1))
+                        f[i][j].or(go[ii][jj]);
             }
         }
-
-        return ans;
-    }
-
-    int moveRight(int[] a, int idx) {
-        int ans = -1;
-
-        for (int i = idx + 1; i < a.length; i++) {
-            if (a[i] == a[i - 1]) {
-                continue;
-            } else if (a[i] < a[i - 1]) {
-                ans = i;
-            } else {
-                break;
-            }
-        }
-        return ans;
-    }
-
-
-    public static void main(String[] args) {
-        _756 sol = new _756();
-        System.out.println(Arrays.toString(sol.pourWater(new int[]{2, 1, 1, 2, 1, 2, 2}, 4, 3)));
-        System.out.println(Arrays.toString(sol.pourWater(new int[]{1, 2, 3, 4}, 2, 2)));
-        System.out.println(Arrays.toString(sol.pourWater(new int[]{3, 1, 3}, 5, 1)));
+        return f[0][0].cardinality() > 0;
     }
 }
 

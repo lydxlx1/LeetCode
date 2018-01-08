@@ -7,11 +7,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |760 |[Find Anagram Mappings][760_t]|\[ [Solution][760] \]|
-|759 |[Set Intersection Size At Least Two][759_t]|\[ [Sweepline + Greedy][759] \]|
 |758 |[Bold Words in String][758_t]|\[ [Greedy][758] \]|
-|757 |[Pyramid Transition Matrix][757_t]|\[ [DP][757] \]|
-|756 |[Pour Water][756_t]|\[ [Solution][756] \]|
-|755 |[Reach a Number][755_t]|\[ [Math][755] \]|
+|757 |[Set Intersection Size At Least Two][757_t]|\[ [Sweepline + Greedy][757] \]|
+|756 |[Pyramid Transition Matrix][756_t]|\[ [DP][756] \]|
+|755 |[Pour Water][755_t]|\[ [Solution][755] \]|
+|754 |[Reach a Number][754_t]|\[ [Math][754] \]|
 |753 |[Cracking the Safe][753_t]|\[ [Eulerian Circuit][753] \]|
 |752 |[Open the Lock][752_t]|\[ [BFS][752] \]|
 |751 |[IP to CIDR][751_t]|\[ [Greedy + Bit Manipulation][751] \]|
@@ -1203,14 +1203,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 [753]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_753.java
 [685_t]:   https://leetcode.com/problems/redundant-connection-ii/
 [685]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_685.java
-[759_t]:   https://leetcode.com/problems/set-intersection-size-at-least-two/
-[759]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_759.java
-[755_t]:   https://leetcode.com/problems/reach-a-number/
-[755]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_755.java
-[756_t]:   https://leetcode.com/problems/pour-water/
-[756]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_756.java
-[757_t]:   https://leetcode.com/problems/pyramid-transition-matrix/
+[757_t]:   https://leetcode.com/problems/set-intersection-size-at-least-two/
 [757]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_757.java
+[754_t]:   https://leetcode.com/problems/reach-a-number/
+[754]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_754.java
+[755_t]:   https://leetcode.com/problems/pour-water/
+[755]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_755.java
+[756_t]:   https://leetcode.com/problems/pyramid-transition-matrix/
+[756]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_756.java
 [760_t]:   https://leetcode.com/problems/find-anagram-mappings/
 [760]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_760.java
 [758_t]:   https://leetcode.com/problems/bold-words-in-string/
