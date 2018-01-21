@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|766 |[Toeplitz Matrix][766_t]|\[ [Solution][766] \]|
 |761 |[Special Binary String][761_t]|\[ [Greedy + Stack][761] \]|
 |760 |[Find Anagram Mappings][760_t]|\[ [Solution][760] \]|
 |759 |[Employee Free Time][759_t]|\[ [Segment Tree][759] \]|
@@ -1221,3 +1222,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [759]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_759.java
 [761_t]:   https://leetcode.com/problems/special-binary-string/
 [761]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_761.java
+[766_t]:   https://leetcode.com/problems/toeplitz-matrix/
+[766]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_766.java
