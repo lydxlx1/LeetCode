@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|767 |[Reorganize String][767_t]|\[ [Greedy][767] \]|
 |766 |[Toeplitz Matrix][766_t]|\[ [Solution][766] \]|
 |761 |[Special Binary String][761_t]|\[ [Greedy + Stack][761] \]|
 |760 |[Find Anagram Mappings][760_t]|\[ [Solution][760] \]|
@@ -1224,3 +1225,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [761]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_761.java
 [766_t]:   https://leetcode.com/problems/toeplitz-matrix/
 [766]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_766.java
+[767_t]:   https://leetcode.com/problems/reorganize-string/
+[767]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_767.java
