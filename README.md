@@ -6,8 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|769 |[Max Chunks To Make Sorted (Ver 1)][769_t]|\[ [Greedy][769] \]|
-|768 |[Max Chunks To Make Sorted (Ver 2)][768_t]|\[ [Greedy][768] \]|
+|769 |[Max Chunks To Make Sorted][769_t]|\[ [Greedy][769] \]|
+|768 |[Max Chunks To Make Sorted II][768_t]|\[ [Greedy][768] \| [HashMap][768_1] \]|
 |767 |[Reorganize String][767_t]|\[ [Greedy][767] \]|
 |766 |[Toeplitz Matrix][766_t]|\[ [Solution][766] \]|
 |761 |[Special Binary String][761_t]|\[ [Greedy + Stack][761] \]|
@@ -1229,7 +1229,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [766]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_766.java
 [767_t]:   https://leetcode.com/problems/reorganize-string/
 [767]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_767.java
-[768_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted-ver-2/
+[768_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 [768]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768.java
-[769_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted-ver-1/
+[768]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768_1.java
+[769_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted/
 [769]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_769.java
