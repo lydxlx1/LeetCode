@@ -1231,6 +1231,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [767]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_767.java
 [768_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 [768]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768.java
-[768]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768_1.java
+[768_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768_1.java
 [769_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted/
 [769]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_769.java
