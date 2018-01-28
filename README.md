@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|771 |[Jewels and Stones][771_t]|\[ [Solution][771] \]|
 |769 |[Max Chunks To Make Sorted][769_t]|\[ [Greedy][769] \]|
 |768 |[Max Chunks To Make Sorted II][768_t]|\[ [Greedy][768] \| [HashMap][768_1] \]|
 |767 |[Reorganize String][767_t]|\[ [Greedy][767] \]|
@@ -1234,3 +1235,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [768_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_768_1.java
 [769_t]:   https://leetcode.com/problems/max-chunks-to-make-sorted/
 [769]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_769.java
+[771_t]:   https://leetcode.com/problems/jewels-and-stones/
+[771]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_771.java
