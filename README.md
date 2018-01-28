@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|775 |[Global and Local Inversions][775_t]|\[ [BIT][775] \]|
 |771 |[Jewels and Stones][771_t]|\[ [Solution][771] \]|
 |769 |[Max Chunks To Make Sorted][769_t]|\[ [Greedy][769] \]|
 |768 |[Max Chunks To Make Sorted II][768_t]|\[ [Greedy][768] \| [HashMap][768_1] \]|
@@ -1237,3 +1238,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [769]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_769.java
 [771_t]:   https://leetcode.com/problems/jewels-and-stones/
 [771]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_771.java
+[775_t]:   https://leetcode.com/problems/global-and-local-inversions/
+[775]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_775.java
