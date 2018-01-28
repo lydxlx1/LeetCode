@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |775 |[Global and Local Inversions][775_t]|\[ [BIT][775] \]|
+|774 |[Minimize Max Distance to Gas Station][774_t]|\[ [Binary Search][774] \]|
 |773 |[Sliding Puzzle][773_t]|\[ [BFS][773] \]|
 |771 |[Jewels and Stones][771_t]|\[ [Solution][771] \]|
 |769 |[Max Chunks To Make Sorted][769_t]|\[ [Greedy][769] \]|
@@ -1243,3 +1244,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [775]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_775.java
 [773_t]:   https://leetcode.com/problems/sliding-puzzle/
 [773]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_773.java
+[774_t]:   https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+[774]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_774.java
