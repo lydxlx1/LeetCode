@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |779 |[K-th Symbol in Grammar][779_t]|\[ [Recursion][779] \]|
+|777 |[Swap Adjacent in LR String][777_t]|\[ [Greedy][777] \]|
 |776 |[Split BST][776_t]|\[ [Recursion][776] \]|
 |775 |[Global and Local Inversions][775_t]|\[ [BIT][775] \]|
 |774 |[Minimize Max Distance to Gas Station][774_t]|\[ [Binary Search][774] \]|
@@ -1252,3 +1253,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [779]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_779.java
 [776_t]:   https://leetcode.com/problems/split-bst/
 [776]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_776.java
+[777_t]:   https://leetcode.com/problems/swap-adjacent-in-lr-string/
+[777]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_777.java
