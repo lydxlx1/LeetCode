@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * LeetCode 774 - Minimize Max Distance to Gas Station
  * <p>
@@ -27,6 +29,3 @@ public class _774 {
     }
 
 }
-
-
-

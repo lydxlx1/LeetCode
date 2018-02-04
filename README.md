@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|779 |[K-th Symbol in Grammar][779_t]|\[ [Recursion][779] \]|
 |775 |[Global and Local Inversions][775_t]|\[ [BIT][775] \]|
 |774 |[Minimize Max Distance to Gas Station][774_t]|\[ [Binary Search][774] \]|
 |773 |[Sliding Puzzle][773_t]|\[ [BFS][773] \]|
@@ -1246,3 +1247,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [773]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_773.java
 [774_t]:   https://leetcode.com/problems/minimize-max-distance-to-gas-station/
 [774]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_774.java
+[779_t]:   https://leetcode.com/problems/k-th-symbol-in-grammar/
+[779]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_779.java
