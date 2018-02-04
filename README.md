@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |779 |[K-th Symbol in Grammar][779_t]|\[ [Recursion][779] \]|
+|778 |[Swim in Rising Water][778_t]|\[ [Binary Search + DFS][778] \| [Dijkstra][778_1] \]|
 |777 |[Swap Adjacent in LR String][777_t]|\[ [Greedy][777] \]|
 |776 |[Split BST][776_t]|\[ [Recursion][776] \]|
 |775 |[Global and Local Inversions][775_t]|\[ [BIT][775] \]|
@@ -1255,3 +1256,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [776]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_776.java
 [777_t]:   https://leetcode.com/problems/swap-adjacent-in-lr-string/
 [777]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_777.java
+[778_t]:   https://leetcode.com/problems/swim-in-rising-water/
+[778]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_778.java
+[778_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_778_1.java
