@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |783 |[Minimum Distance Between BST Nodes][783_t]|\[ [In-order Traversal][783] \]|
+|781 |[Rabbits in Forest][781_t]|\[ [Math][781] \]|
 |779 |[K-th Symbol in Grammar][779_t]|\[ [Recursion][779] \]|
 |778 |[Swim in Rising Water][778_t]|\[ [Binary Search + DFS][778] \| [Dijkstra][778_1] \]|
 |777 |[Swap Adjacent in LR String][777_t]|\[ [Greedy][777] \]|
@@ -1262,3 +1263,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [778_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_778_1.java
 [783_t]:   https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [783]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_783.java
+[781_t]:   https://leetcode.com/problems/rabbits-in-forest/
+[781]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_781.java
