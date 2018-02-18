@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|785 |[Is Graph Bipartite?][785_t]|\[ [DFS][785] \]|
 |784 |[Letter Case Permutation][784_t]|\[ [Solution][784] \]|
 |783 |[Minimum Distance Between BST Nodes][783_t]|\[ [In-order Traversal][783] \]|
 |781 |[Rabbits in Forest][781_t]|\[ [Math][781] \]|
@@ -1271,3 +1272,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [780]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_780.java
 [784_t]:   https://leetcode.com/problems/letter-case-permutation/
 [784]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_784.java
+[785_t]:   https://leetcode.com/problems/is-graph-bipartite/
+[785]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_785.java
