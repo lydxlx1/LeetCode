@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|784 |[Letter Case Permutation][784_t]|\[ [Solution][784] \]|
 |783 |[Minimum Distance Between BST Nodes][783_t]|\[ [In-order Traversal][783] \]|
 |781 |[Rabbits in Forest][781_t]|\[ [Math][781] \]|
 |780 |[Reaching Points][780_t]|\[ [Math][780] \]|
@@ -1268,3 +1269,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [781]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_781.java
 [780_t]:   https://leetcode.com/problems/reaching-points/
 [780]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_780.java
+[784_t]:   https://leetcode.com/problems/letter-case-permutation/
+[784]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_784.java
