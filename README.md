@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |791 |[Custom Sort String][791_t]|\[ [Quick-sort][791] \| [Counting-sort][791_1] \]|
+|790 |[Domino and Tromino Tiling][790_t]|\[ [DP][790] \]|
 |789 |[Escape the Ghosts][789_t]|\[ [Math][789] \]|
 |788 |[Rotated Digits][788_t]|\[ [Solution][788] \]|
 |787 |[Cheapest Flights Within K Stops][787_t]|\[ [DP][787] \]|
@@ -1291,3 +1292,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [791_t]:   https://leetcode.com/problems/custom-sort-string/
 [791]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_791.java
 [791_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_791_1.java
+[790_t]:   https://leetcode.com/problems/domino-and-tromino-tiling/
+[790]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_790.java
