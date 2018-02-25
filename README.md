@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|788 |[Rotated Digits][788_t]|\[ [Solution][788] \]|
 |787 |[Cheapest Flights Within K Stops][787_t]|\[ [DP][787] \]|
 |786 |[K-th Smallest Prime Fraction][786_t]|\[ [Partition][786] \| [Young Tableau][786_1] \]|
 |785 |[Is Graph Bipartite?][785_t]|\[ [DFS][785] \]|
@@ -1281,3 +1282,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [786_t]:   https://leetcode.com/problems/k-th-smallest-prime-fraction/
 [786]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_786.java
 [786_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_786_1.java
+[788_t]:   https://leetcode.com/problems/rotated-digits/
+[788]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_788.java
