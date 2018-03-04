@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |794 |[Valid Tic-Tac-Toe State][794_t]|\[ [Solution][794] \]|
+|792 |[Number of Matching Subsequences][792_t]|\[ [Linear-time Solution][792] \]|
 |791 |[Custom Sort String][791_t]|\[ [Quick-sort][791] \| [Counting-sort][791_1] \]|
 |790 |[Domino and Tromino Tiling][790_t]|\[ [DP][790] \]|
 |789 |[Escape the Ghosts][789_t]|\[ [Math][789] \]|
@@ -1297,3 +1298,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [790]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_790.java
 [794_t]:   https://leetcode.com/problems/valid-tic-tac-toe-state/
 [794]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_794.java
+[792_t]:   https://leetcode.com/problems/number-of-matching-subsequences/
+[792]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_792.java
