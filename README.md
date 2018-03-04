@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|795 |[Number of Subarrays with Bounded Maximum][795_t]|\[ [Divide-and-Conquer][795] \| [O(n)-time Solution][795_1] \]|
 |794 |[Valid Tic-Tac-Toe State][794_t]|\[ [Solution][794] \]|
 |792 |[Number of Matching Subsequences][792_t]|\[ [Linear-time Solution][792] \]|
 |791 |[Custom Sort String][791_t]|\[ [Quick-sort][791] \| [Counting-sort][791_1] \]|
@@ -1300,3 +1301,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [794]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_794.java
 [792_t]:   https://leetcode.com/problems/number-of-matching-subsequences/
 [792]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_792.java
+[795_t]:   https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+[795]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_795.java
+[795_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_795_1.java
