@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |795 |[Number of Subarrays with Bounded Maximum][795_t]|\[ [Divide-and-Conquer][795] \| [O(n)-time Solution][795_1] \]|
 |794 |[Valid Tic-Tac-Toe State][794_t]|\[ [Solution][794] \]|
+|793 |[Preimage Size of Factorial Zeroes Function][793_t]|\[ [Binary Search + Math][793] \]|
 |792 |[Number of Matching Subsequences][792_t]|\[ [Linear-time Solution][792] \]|
 |791 |[Custom Sort String][791_t]|\[ [Quick-sort][791] \| [Counting-sort][791_1] \]|
 |790 |[Domino and Tromino Tiling][790_t]|\[ [DP][790] \]|
@@ -1304,3 +1305,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [795_t]:   https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
 [795]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_795.java
 [795_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_795_1.java
+[793_t]:   https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
+[793]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_793.java
