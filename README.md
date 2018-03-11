@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|799 |[Champagne Tower][799_t]|\[ [Solution][799] \]|
 |797 |[All Paths from Source to Target][797_t]|\[ [Backtracking][797] \]|
 |796 |[Rotate String][796_t]|\[ [Solution][796] \]|
 |795 |[Number of Subarrays with Bounded Maximum][795_t]|\[ [Divide-and-Conquer][795] \| [O(n)-time Solution][795_1] \]|
@@ -1313,3 +1314,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [796]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_796.java
 [797_t]:   https://leetcode.com/problems/all-paths-from-source-to-target/
 [797]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_797.java
+[799_t]:   https://leetcode.com/problems/champagne-tower/
+[799]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_799.java
