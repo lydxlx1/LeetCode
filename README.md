@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|796 |[Rotate String][796_t]|\[ [Solution][796] \]|
 |795 |[Number of Subarrays with Bounded Maximum][795_t]|\[ [Divide-and-Conquer][795] \| [O(n)-time Solution][795_1] \]|
 |794 |[Valid Tic-Tac-Toe State][794_t]|\[ [Solution][794] \]|
 |793 |[Preimage Size of Factorial Zeroes Function][793_t]|\[ [Binary Search + Math][793] \]|
@@ -1307,3 +1308,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [795_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_795_1.java
 [793_t]:   https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
 [793]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_793.java
+[796_t]:   https://leetcode.com/problems/rotate-string/
+[796]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_796.java
