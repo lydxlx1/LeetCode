@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|807 |[Max Increase to Keep City Skyline][807_t]|\[ [Solution][807] \]|
 |806 |[Number of Lines To Write String][806_t]|\[ [Solution][806] \]|
 |804 |[Unique Morse Code Words][804_t]|\[ [Solution][804] \]|
 |799 |[Champagne Tower][799_t]|\[ [Solution][799] \]|
@@ -1325,3 +1326,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [806]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_806.java
 [804_t]:   https://leetcode.com/problems/unique-morse-code-words/
 [804]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_804.java
+[807_t]:   https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+[807]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_807.java
