@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |807 |[Max Increase to Keep City Skyline][807_t]|\[ [Solution][807] \]|
 |806 |[Number of Lines To Write String][806_t]|\[ [Solution][806] \]|
+|805 |[Split Array with Same Average][805_t]|\[ [Pruning + DP][805] \]|
 |804 |[Unique Morse Code Words][804_t]|\[ [Solution][804] \]|
 |799 |[Champagne Tower][799_t]|\[ [Solution][799] \]|
 |798 |[Smallest Rotation with Highest Score][798_t]|\[ [Sliding Window][798] \]|
@@ -1328,3 +1329,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [804]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_804.java
 [807_t]:   https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 [807]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_807.java
+[805_t]:   https://leetcode.com/problems/split-array-with-same-average/
+[805]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_805.java
