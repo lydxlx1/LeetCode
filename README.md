@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|806 |[Number of Lines To Write String][806_t]|\[ [Solution][806] \]|
 |799 |[Champagne Tower][799_t]|\[ [Solution][799] \]|
 |798 |[Smallest Rotation with Highest Score][798_t]|\[ [Sliding Window][798] \]|
 |797 |[All Paths from Source to Target][797_t]|\[ [Backtracking][797] \]|
@@ -1319,3 +1320,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [799]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_799.java
 [798_t]:   https://leetcode.com/problems/smallest-rotation-with-highest-score/
 [798]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_798.java
+[806_t]:   https://leetcode.com/problems/number-of-lines-to-write-string/
+[806]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_806.java
