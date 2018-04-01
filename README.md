@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|811 |[Subdomain Visit Count][811_t]|\[ [HashMap][811] \]|
 |807 |[Max Increase to Keep City Skyline][807_t]|\[ [Solution][807] \]|
 |806 |[Number of Lines To Write String][806_t]|\[ [Solution][806] \]|
 |805 |[Split Array with Same Average][805_t]|\[ [Pruning + DP][805] \| [Pruning + DFS][805_1] \]|
@@ -1332,3 +1333,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [805_t]:   https://leetcode.com/problems/split-array-with-same-average/
 [805]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_805.java
 [805_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_805_1.java
+[811_t]:   https://leetcode.com/problems/subdomain-visit-count/
+[811]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_811.java
