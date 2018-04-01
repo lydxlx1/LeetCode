@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |811 |[Subdomain Visit Count][811_t]|\[ [HashMap][811] \]|
+|809 |[Expressive Word][809_t]|\[ [Solution][809] \]|
 |807 |[Max Increase to Keep City Skyline][807_t]|\[ [Solution][807] \]|
 |806 |[Number of Lines To Write String][806_t]|\[ [Solution][806] \]|
 |805 |[Split Array with Same Average][805_t]|\[ [Pruning + DP][805] \| [Pruning + DFS][805_1] \]|
@@ -1335,3 +1336,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [805_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_805_1.java
 [811_t]:   https://leetcode.com/problems/subdomain-visit-count/
 [811]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_811.java
+[809_t]:   https://leetcode.com/problems/expressive-word/
+[809]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_809.java
