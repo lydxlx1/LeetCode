@@ -1341,5 +1341,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [809_t]:   https://leetcode.com/problems/expressive-words/
 [809]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_809.java
 [808_t]:   https://leetcode.com/problems/soup-servings/
-[810_t]:    https://g/leetcode.com/problems/chalkboard-xor-game/
+[808]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
+[810_t]:    https://leetcode.com/problems/chalkboard-xor-game/
 [810]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
