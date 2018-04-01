@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |811 |[Subdomain Visit Count][811_t]|\[ [HashMap][811] \]|
+|810 |[Chalkboard XOR game][810_t]|\[ [Game Theory][810] \]|
 |809 |[Expressive Words][809_t]|\[ [Solution][809] \]|
 |808 |[Soup Servings][808_t]|\[ [DP + Math][808] \]|
 |807 |[Max Increase to Keep City Skyline][807_t]|\[ [Solution][807] \]|
@@ -1340,4 +1341,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [809_t]:   https://leetcode.com/problems/expressive-words/
 [809]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_809.java
 [808_t]:   https://leetcode.com/problems/soup-servings/
-[808]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_808.java
+[810_t]:    https://g/leetcode.com/problems/chalkboard-xor-game/
+[810]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
