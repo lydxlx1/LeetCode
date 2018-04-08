@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|812 |[Largest Triangle Area][812_t]|\[ [Brute-force][812] \]|
 |811 |[Subdomain Visit Count][811_t]|\[ [HashMap][811] \]|
 |810 |[Chalkboard XOR game][810_t]|\[ [Game Theory][810] \]|
 |809 |[Expressive Words][809_t]|\[ [Solution][809] \]|
@@ -1344,3 +1345,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [808]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
 [810_t]:    https://leetcode.com/problems/chalkboard-xor-game/
 [810]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
+[812_t]:    https://leetcode.com/problems/largest-triangle-area/
+[812]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_812.java
