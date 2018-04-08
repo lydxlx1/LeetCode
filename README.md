@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|814 |[Binary Tree Pruning][814_t]|\[ [DFS][814] \]|
 |812 |[Largest Triangle Area][812_t]|\[ [Brute-force][812] \]|
 |811 |[Subdomain Visit Count][811_t]|\[ [HashMap][811] \]|
 |810 |[Chalkboard XOR game][810_t]|\[ [Game Theory][810] \]|
@@ -1347,3 +1348,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [810]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_810.java
 [812_t]:    https://leetcode.com/problems/largest-triangle-area/
 [812]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_812.java
+[814_t]:    https://leetcode.com/problems/binary-tree-pruning/
+[814]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_814.java
