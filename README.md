@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|822 |[Card Flipping Game][822_t]|\[ [Solution][822] \]|
 |821 |[Shortest Distance to a Character][821_t]|\[ [Brute-force][821] \| [Linear-time Solution][821_1] \]|
 |815 |[Bus Routes][815_t]|\[ [BFS][815] \]|
 |814 |[Binary Tree Pruning][814_t]|\[ [DFS][814] \]|
@@ -1360,3 +1361,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [821_t]:    https://leetcode.com/problems/shortest-distance-to-a-character/
 [821]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_821.java
 [821_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_821_1.java
+[822_t]:    https://leetcode.com/problems/card-flipping-game/
+[822]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_822.java
