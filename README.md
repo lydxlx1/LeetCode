@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|823 |[Binary Trees with Factors][823_t]|\[ [DP + Two-pointers][822] \]|
 |822 |[Card Flipping Game][822_t]|\[ [Solution][822] \]|
 |821 |[Shortest Distance to a Character][821_t]|\[ [Brute-force][821] \| [Linear-time Solution][821_1] \]|
 |820 |[Short Encoding of Words][820_t]|\[ [Greedy][820] \]|
@@ -1366,3 +1367,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [822]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_822.java
 [820_t]:    https://leetcode.com/problems/short-encoding-of-words/
 [820]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_820.java
+[823_t]:    https://leetcode.com/problems/binary-trees-with-factors/
+[823]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_823.java
