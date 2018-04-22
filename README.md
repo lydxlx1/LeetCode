@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |822 |[Card Flipping Game][822_t]|\[ [Solution][822] \]|
 |821 |[Shortest Distance to a Character][821_t]|\[ [Brute-force][821] \| [Linear-time Solution][821_1] \]|
+|820 |[Short Encoding of Words][820_t]|\[ [Greedy][820] \]|
 |815 |[Bus Routes][815_t]|\[ [BFS][815] \]|
 |814 |[Binary Tree Pruning][814_t]|\[ [DFS][814] \]|
 |813 |[Largest Sum of Averages][813_t]|\[ [DP][813] \]|
@@ -1363,3 +1364,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [821_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_821_1.java
 [822_t]:    https://leetcode.com/problems/card-flipping-game/
 [822]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_822.java
+[820_t]:    https://leetcode.com/problems/short-encoding-of-words/
+[820]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_820.java
