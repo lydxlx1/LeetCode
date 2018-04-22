@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|821 |[Shortest Distance to a Character][821_t]|\[ [Brute-force][821] \]|
 |815 |[Bus Routes][815_t]|\[ [BFS][815] \]|
 |814 |[Binary Tree Pruning][814_t]|\[ [DFS][814] \]|
 |813 |[Largest Sum of Averages][813_t]|\[ [DP][813] \]|
@@ -1356,3 +1357,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [813]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_813.java
 [815_t]:    https://leetcode.com/problems/bus-routes/
 [815]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_815.java
+[821_t]:    https://leetcode.com/problems/shortest-distance-to-a-character/
+[821]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_821.java
