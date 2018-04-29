@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|824 |[Goat Latin][824_t]|\[ [Solution][824] \]|
 |823 |[Binary Trees with Factors][823_t]|\[ [DP + Two-pointers][822] \]|
 |822 |[Card Flipping Game][822_t]|\[ [Solution][822] \]|
 |821 |[Shortest Distance to a Character][821_t]|\[ [Brute-force][821] \| [Linear-time Solution][821_1] \]|
@@ -1369,3 +1370,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [820]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_820.java
 [823_t]:    https://leetcode.com/problems/binary-trees-with-factors/
 [823]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_823.java
+[824_t]:    https://leetcode.com/problems/goat-latin/
+[824]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_824.py
