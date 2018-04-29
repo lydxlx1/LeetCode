@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|825 |[Friends of Appropriate Ages][825_t]|\[ [Solution][825] \]|
 |824 |[Goat Latin][824_t]|\[ [Solution][824] \]|
 |823 |[Binary Trees with Factors][823_t]|\[ [DP + Two-pointers][822] \]|
 |822 |[Card Flipping Game][822_t]|\[ [Solution][822] \]|
@@ -1372,3 +1373,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [823]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_823.java
 [824_t]:    https://leetcode.com/problems/goat-latin/
 [824]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_824.py
+[825_t]:    https://leetcode.com/problems/friends-of-appropriate-ages/
+[825]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_825.py
