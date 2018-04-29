@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|826 |[Most Profit Assigning Work][826_t]|\[ [Greedy][826] \| [BIT][826_1] \]|
 |825 |[Friends of Appropriate Ages][825_t]|\[ [Solution][825] \]|
 |824 |[Goat Latin][824_t]|\[ [Solution][824] \]|
 |823 |[Binary Trees with Factors][823_t]|\[ [DP + Two-pointers][822] \]|
@@ -1375,3 +1376,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [824]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_824.py
 [825_t]:    https://leetcode.com/problems/friends-of-appropriate-ages/
 [825]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_825.py
+[826_t]:    https://leetcode.com/problems/most-profit-assigning-work/
+[826]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_826.py
+[826_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_826_1.py
