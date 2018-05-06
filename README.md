@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|830 |[Positions of Larger Groups][830_t]|\[ [Solution][830] \]|
 |827 |[Making a Large Island][827_t]|\[ [Union-Find Set][827] \]|
 |826 |[Most Profit Assigning Work][826_t]|\[ [Greedy][826] \| [BIT][826_1] \]|
 |825 |[Friends of Appropriate Ages][825_t]|\[ [Solution][825] \]|
@@ -1382,3 +1383,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [826_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_826_1.py
 [827_t]:    https://leetcode.com/problems/making-a-large-island/
 [827]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_827.py
+[830_t]:    https://leetcode.com/problems/positions-of-larger-groups/
+[830]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_830.java
