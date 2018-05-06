@@ -1392,5 +1392,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [831]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_831.java
 [829_t]:    https://leetcode.com/problems/consecutive-numbers-sum/
 [829]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_829.java
-[828_t]:    https://leetcode.com/problems/unique-letter-stirng/
+[828_t]:    https://leetcode.com/problems/unique-letter-string/
 [828]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_828.java
