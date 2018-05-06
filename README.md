@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |831 |[Masking Persional Information][831_t]|\[ [Solution][831] \]|
-|830 |[Positions of Larger Groups][830_t]|\[ [Solution][830] \]|
+|830 |[Positions of Large Groups][830_t]|\[ [Solution][830] \]|
 |829 |[Consecutive Numbers Sum][829_t]|\[ [Math][829] \]|
 |827 |[Making a Large Island][827_t]|\[ [Union-Find Set][827] \]|
 |826 |[Most Profit Assigning Work][826_t]|\[ [Greedy][826] \| [BIT][826_1] \]|
@@ -1385,7 +1385,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [826_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_826_1.py
 [827_t]:    https://leetcode.com/problems/making-a-large-island/
 [827]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_827.py
-[830_t]:    https://leetcode.com/problems/positions-of-larger-groups/
+[830_t]:    https://leetcode.com/problems/positions-of-large-groups/
 [830]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_830.java
 [831_t]:    https://leetcode.com/problems/masking-personal-information/
 [831]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_831.java
