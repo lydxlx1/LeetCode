@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|832 |[Flipping an Image][832_t]|\[ [Solution][832] \]|
 |831 |[Masking Persional Information][831_t]|\[ [Solution][831] \]|
 |830 |[Positions of Large Groups][830_t]|\[ [Solution][830] \]|
 |829 |[Consecutive Numbers Sum][829_t]|\[ [Math][829] \]|
@@ -1394,3 +1395,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [829]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_829.java
 [828_t]:    https://leetcode.com/problems/unique-letter-string/
 [828]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_828.java
+[832_t]:    https://leetcode.com/problems/flipping-an-image/
+[832]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_823.py
