@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|833 |[Find and replace in String][833_t]|\[ [Solution][833] \]|
 |832 |[Flipping an Image][832_t]|\[ [Solution][832] \]|
 |831 |[Masking Persional Information][831_t]|\[ [Solution][831] \]|
 |830 |[Positions of Large Groups][830_t]|\[ [Solution][830] \]|
@@ -1396,4 +1397,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [828_t]:    https://leetcode.com/problems/unique-letter-string/
 [828]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_828.java
 [832_t]:    https://leetcode.com/problems/flipping-an-image/
-[832]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_823.py
+[832]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_832.py
+[833_t]:    https://leetcode.com/problems/find-and-replace-in-string/
+[833]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_833.py
