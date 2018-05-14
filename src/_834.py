@@ -1,5 +1,5 @@
 """
-LeetCode 834 - Sum of Distance in Tree
+LeetCode 834 - Sum of Distances in Tree
 
 Tree DP
 - Compute the dist sum for some node (say node 0) via brute-force.
