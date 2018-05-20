@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|836 |[Rectangle Overlap][836_t]|\[ [Solution][836] \]|
 |835 |[Image Overlap][835_t]|\[ [Math][835] \]|
 |834 |[Sum of Distances in Tree][834_t]|\[ [Tree DP][834] \]|
 |833 |[Find and replace in String][833_t]|\[ [Solution][833] \]|
@@ -1404,5 +1405,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [833]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_833.py
 [835_t]:    https://leetcode.com/problems/image-overlap/
 [835]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_835.py
-[834_t]:    https://leetcode.com/problems/sum-of-distances-in-tree
+[834_t]:    https://leetcode.com/problems/sum-of-distances-in-tree/
 [834]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_834.py
+[836_t]:    https://leetcode.com/problems/rectangle-overlap/
+[836]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_836.py
