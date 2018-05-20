@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|838 |[Push Dominoes][838_t]|\[ [Solution][838] \]|
 |836 |[Rectangle Overlap][836_t]|\[ [Solution][836] \]|
 |835 |[Image Overlap][835_t]|\[ [Math][835] \]|
 |834 |[Sum of Distances in Tree][834_t]|\[ [Tree DP][834] \]|
@@ -1408,4 +1409,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 [834_t]:    https://leetcode.com/problems/sum-of-distances-in-tree/
 [834]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_834.py
 [836_t]:    https://leetcode.com/problems/rectangle-overlap/
-[836]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_836.py
+[836]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_836.java
+[838_t]:    https://leetcode.com/problems/push-dominoes/
+[838]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_838.java
