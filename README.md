@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|841 |[Keys and Rooms][841_t]|\[ [DFS][841] \]|
 |840 |[Magic Squares in Grid][840_t]|\[ [Solution][840] \]|
 |838 |[Push Dominoes][838_t]|\[ [Solution][838] \]|
 |837 |[Sliding Window][837_t]|\[ [DP + Sliding Window][837] \]|
@@ -1418,3 +1419,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [837]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_837.java
 [840_t]:    https://leetcode.com/problems/magic-squares-in-grid/
 [840]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_840.java
+[841_t]:    https://leetcode.com/problems/keys-and-rooms/
+[841]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_841.java
