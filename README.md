@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|840 |[Magic Squares in Grid][840_t]|\[ [Solution][840] \]|
 |838 |[Push Dominoes][838_t]|\[ [Solution][838] \]|
 |837 |[Sliding Window][837_t]|\[ [DP + Sliding Window][837] \]|
 |836 |[Rectangle Overlap][836_t]|\[ [Solution][836] \]|
@@ -13,7 +14,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |834 |[Sum of Distances in Tree][834_t]|\[ [Tree DP][834] \]|
 |833 |[Find and replace in String][833_t]|\[ [Solution][833] \]|
 |832 |[Flipping an Image][832_t]|\[ [Solution][832] \]|
-|831 |[Masking Persional Information][831_t]|\[ [Solution][831] \]|
+|831 |[Masking Personal Information][831_t]|\[ [Solution][831] \]|
 |830 |[Positions of Large Groups][830_t]|\[ [Solution][830] \]|
 |829 |[Consecutive Numbers Sum][829_t]|\[ [Math][829] \]|
 |828 |[Unique Number String][828_t]|\[ [Counting][828] \]|
@@ -1415,3 +1416,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [838]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_838.java
 [837_t]:    https://leetcode.com/problems/new-21-game/
 [837]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_837.java
+[840_t]:    https://leetcode.com/problems/magic-squares-in-grid/
+[840]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_840.java
