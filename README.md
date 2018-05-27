@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|843 |[Guess the Word][843_t]|\[ [Min-max Greedy][843] \]|
 |842 |[Split Array into Fibonacci Sequence][842_t]|\[ [Brute-force][842] \]|
 |841 |[Keys and Rooms][841_t]|\[ [DFS][841] \]|
 |840 |[Magic Squares in Grid][840_t]|\[ [Solution][840] \]|
@@ -1424,3 +1425,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [841]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_841.java
 [842_t]:    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 [842]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_842.java
+[843_t]:    https://leetcode.com/problems/guess-the-word/
+[843]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_843.java
