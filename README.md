@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|847 |[Shortest Path Visiting All Nodes][847_t]|\[ [Hamiltonian-path][847] \]|
+|846 |[Hand of Straights][846_t]|\[ [Solution][846] \]|
+|845 |[Longest Mountain in Array][845_t]|\[ [Solution][845] \]|
+|844 |[Backspace String Compare][844_t]|\[ [Solution][844] \]|
 |843 |[Guess the Word][843_t]|\[ [Min-max Greedy][843] \]|
 |842 |[Split Array into Fibonacci Sequence][842_t]|\[ [Brute-force][842] \]|
 |841 |[Keys and Rooms][841_t]|\[ [DFS][841] \]|
@@ -1427,3 +1431,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [842]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_842.java
 [843_t]:    https://leetcode.com/problems/guess-the-word/
 [843]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_843.java
+[844_t]:    https://leetcode.com/problems/backspace-string-compare/
+[844]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_844.java
+[845_t]:    https://leetcode.com/problems/longest-mountain-in-array/
+[845]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_845.java
+[846_t]:    https://leetcode.com/problems/hand-of-straights/
+[846]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_846.java
+[847_t]:    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+[847]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_847.java
