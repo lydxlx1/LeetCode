@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|851 |[Loud and Rich][851_t]|\[ [DAG][851] \]|
+|850 |[Rectangle Area II][850_t]|\[ [Rectangle Cutting][850] \| [Index Compressing][850_1] \]|
+|849 |[Maximize Distance to Closest Person][849_t]|\[ [Solution][849] \]|
+|848 |[Shifting Letters][848_t]|\[ [Suffix-sum][848] \]|
 |847 |[Shortest Path Visiting All Nodes][847_t]|\[ [Hamiltonian-path][847] \]|
 |846 |[Hand of Straights][846_t]|\[ [Solution][846] \]|
 |845 |[Longest Mountain in Array][845_t]|\[ [Solution][845] \]|
@@ -1439,3 +1443,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [846]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_846.java
 [847_t]:    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 [847]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_847.java
+[848_t]:    https://leetcode.com/problems/shifting-letters/
+[848]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_848.java
+[849_t]:    https://leetcode.com/problems/maximize-distance-to-closest-person/
+[849]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_849.java
+[851_t]:    https://leetcode.com/problems/loud-and-rich/
+[851]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_851.java
+[850_t]:    https://leetcode.com/problems/rectangle-area-ii/
+[850]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_850.java
+[850_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_851.java
