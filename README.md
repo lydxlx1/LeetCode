@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|855 |[Exam Room][855_t]|\[ [TreeSet + PriorityQueue][855] \]|
+|853 |[Car Fleet][853_t]|\[ [Math][853] \]|
+|852 |[Peak Index in a Mountain Array][852_t]|\[ [Binary Search][852] \]|
 |851 |[Loud and Rich][851_t]|\[ [DAG][851] \]|
 |850 |[Rectangle Area II][850_t]|\[ [Rectangle Cutting][850] \| [Index Compressing][850_1] \]|
 |849 |[Maximize Distance to Closest Person][849_t]|\[ [Solution][849] \]|
@@ -1452,3 +1455,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [850_t]:    https://leetcode.com/problems/rectangle-area-ii/
 [850]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_850.java
 [850_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_851.java
+[852_t]:    https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[852]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_852.java
+[853_t]:    https://leetcode.com/problems/car-fleet/
+[853]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_853.java
+[855_t]:    https://leetcode.com/problems/exam-room/
+[855]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_855.java
