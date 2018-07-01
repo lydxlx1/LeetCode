@@ -6,6 +6,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|863 |[All Nodes Distance K in Binary Tree][863_t]|\[ [DFS][863] \]|
+|862 |[Shortest Subarray with Sum at Least K][862_t]|\[ [Augmented-BST][862] \]|
+|861 |[Score After Flipping Matrix][861_t]|\[ [Greedy+Math][861] \]|
+|860 |[Lemonade Change][860_t]|\[ [Greedy][860] \]|
+|859 |[Buddy Strings][859_t]|\[ [Solution][859] \]|
+|856 |[Score of Parentheses][856_t]|\[ [Divide-and-conquer][856] \]|
 |855 |[Exam Room][855_t]|\[ [TreeSet + PriorityQueue][855] \]|
 |853 |[Car Fleet][853_t]|\[ [Math][853] \]|
 |852 |[Peak Index in a Mountain Array][852_t]|\[ [Binary Search][852] \]|
@@ -1461,3 +1467,15 @@ I will keep updating the list and feel free to share any of your thoughts!
 [853]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_853.java
 [855_t]:    https://leetcode.com/problems/exam-room/
 [855]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_855.java
+[859_t]:    https://leetcode.com/problems/buddy-strings/
+[859]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_859.java
+[856_t]:    https://leetcode.com/problems/score-of-parentheses/
+[856]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_856.java
+[860_t]:    https://leetcode.com/problems/lemonade-change/
+[860]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_860.java
+[863_t]:    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+[863]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_863.java
+[861_t]:    https://leetcode.com/problems/score-after-flipping-matrix/
+[861]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_861.java
+[862_t]:    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+[862]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_862.java
