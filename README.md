@@ -6,10 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|868 |[Transpose Matrix][868_t]|\[ [Solution][868] \]|
-|867 |[Prime Palindrome][867_t]|\[ [Fast Primality Test][867] \]|
-|866 |[Smallest Subtree with All the Deepest Nodes][866_t]|\[ [Tree-DP][866] \]|
-|865 |[Shortest Path to Get All Keys][865_t]|\[ [SPFA][865] \]|
+|867 |[Transpose Matrix][867_t]|\[ [Solution][867] \]|
+|866 |[Prime Palindrome][866_t]|\[ [Fast Primality Test][866] \]|
+|865 |[Smallest Subtree with All the Deepest Nodes][865_t]|\[ [Tree-DP][865] \]|
+|864 |[Shortest Path to Get All Keys][864_t]|\[ [SPFA][864] \]|
 |863 |[All Nodes Distance K in Binary Tree][863_t]|\[ [DFS][863] \]|
 |862 |[Shortest Subarray with Sum at Least K][862_t]|\[ [Augmented-BST][862] \]|
 |861 |[Score After Flipping Matrix][861_t]|\[ [Greedy+Math][861] \]|
@@ -1483,11 +1483,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [861]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_861.java
 [862_t]:    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 [862]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_862.java
-[868_t]:    https://leetcode.com/problems/transpose-matrix/
-[868]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_868.java
-[866_t]:    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
-[866]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_866.java
-[865_t]:    https://leetcode.com/problems/shortest-path-to-get-all-keys/
-[865]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_865.java
-[867_t]:    https://leetcode.com/problems/prime-palindrome/
+[867_t]:    https://leetcode.com/problems/transpose-matrix/
 [867]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_867.java
+[865_t]:    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+[865]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_864.java
+[864_t]:    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+[864]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_864.java
+[866_t]:    https://leetcode.com/problems/prime-palindrome/
+[866]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_866.java

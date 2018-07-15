@@ -1,36 +1,75 @@
+import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
 /**
- * LeetCode 866 - Smallest Subtree with All the Deepest Nodes
+ * LeetCode 867 - Prime Palindrome
  * <p>
- * Tree-DP
+ * Fast Primality Test
+ * <p>
+ * - Use numerical calculation to revert a number when concatenate each palindrome.
+ * - Use fast primality test as the number range is pretty small.
  */
 public class _866 {
 
-    public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        return dfs(root).subtreeAns;
-    }
+    static List<Integer> cand = new ArrayList<>();
+    static int CERTAINTY = 32;
 
-    class State {
-        int subtreeHeight;
-        TreeNode subtreeAns;
-    }
+    static {
+        cand.addAll(Arrays.asList(2, 3, 5, 7));
 
-    State dfs(TreeNode root) {
-        State s = new State();
-        s.subtreeHeight = 0;
-        s.subtreeAns = root;
+        // Odd-length
+        loop:
+        {
+            for (int prefix = 1; ; prefix++) {
+                for (int mid = 0; mid < 10; mid++) {
+                    int len = (int) Math.log10(prefix) + 1;
+                    long palindrome = prefix * 10 + mid, tmp = prefix;
+                    for (int i = 0; i < len; i++) {
+                        palindrome = palindrome * 10 + tmp % 10;
+                        tmp /= 10;
+                    }
 
-        for (TreeNode child : new TreeNode[]{root.left, root.right}) {
-            if (child != null) {
-                State ss = dfs(child);
-                if (ss.subtreeHeight + 1 > s.subtreeHeight) {
-                    s.subtreeHeight = ss.subtreeHeight + 1;
-                    s.subtreeAns = ss.subtreeAns;
-                } else if (ss.subtreeHeight + 1 == s.subtreeHeight) {
-                    s.subtreeAns = root;
+                    if (palindrome > Integer.MAX_VALUE) {
+                        break loop;
+                    }
+                    if (BigInteger.valueOf(palindrome).isProbablePrime(CERTAINTY)) {
+                        cand.add((int) palindrome);
+                    }
                 }
+
             }
         }
-        return s;
+
+        // Even-length
+        for (int prefix = 1; ; prefix++) {
+            int len = (int) Math.log10(prefix) + 1;
+            long palindrome = prefix, tmp = prefix;
+            for (int i = 0; i < len; i++) {
+                palindrome = palindrome * 10 + tmp % 10;
+                tmp /= 10;
+            }
+
+            if (palindrome > Integer.MAX_VALUE) {
+                break;
+            }
+            if (BigInteger.valueOf(palindrome).isProbablePrime(CERTAINTY)) {
+                cand.add((int) palindrome);
+            }
+        }
+
+        Collections.sort(cand);
+    }
+
+    public int primePalindrome(int N) {
+        for (int i : cand) {
+            if (i >= N) {
+                return i;
+            }
+        }
+        throw new RuntimeException();
     }
 }
 
