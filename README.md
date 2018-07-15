@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|871 |[Minimum Number of Refueling Stops][871_t]|\[ [Greedy][871] \]|
+|870 |[Advantage Shuffle][870_t]|\[ [Greedy + Merge-sort][870] \]|
+|869 |[Reordered Power of 2][869_t]|\[ [Solution][869] \]|
+|868 |[Binary Gap][868_t]|\[ [Solution][868] \]|
 |867 |[Transpose Matrix][867_t]|\[ [Solution][867] \]|
 |866 |[Prime Palindrome][866_t]|\[ [Fast Primality Test][866] \]|
 |865 |[Smallest Subtree with All the Deepest Nodes][865_t]|\[ [Tree-DP][865] \]|
@@ -1491,3 +1495,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [864]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_864.java
 [866_t]:    https://leetcode.com/problems/prime-palindrome/
 [866]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_866.java
+[868_t]:    https://leetcode.com/problems/binary-gap/
+[868]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_868.java
+[869_t]:    https://leetcode.com/problems/reordered-power-of-2/
+[869]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_869.java
+[870_t]:    https://leetcode.com/problems/advantage-shuffle/
+[870]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_870.java
+[871_t]:    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+[871]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_871.java
