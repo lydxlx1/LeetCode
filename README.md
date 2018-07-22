@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|875 |[Koko Eating Bananas][875_t]|\[ [Binary Search][875] \]|
+|874 |[Walking Robot Simulation][874_t]|\[ [Solution][874] \]|
+|873 |[Length of Longest Fibonacci Subsequence][873_t]|\[ [DP][873] \]|
+|872 |[Leaf-Similar Trees][872_t]|\[ [DFS][872] \]|
 |871 |[Minimum Number of Refueling Stops][871_t]|\[ [Greedy][871] \]|
 |870 |[Advantage Shuffle][870_t]|\[ [Greedy + Merge-sort][870] \]|
 |869 |[Reordered Power of 2][869_t]|\[ [Solution][869] \]|
@@ -1503,3 +1507,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [870]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_870.java
 [871_t]:    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 [871]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_871.java
+[872_t]:    https://leetcode.com/problems/leaf-similar-trees/
+[872]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_872.java
+[874_t]:    https://leetcode.com/problems/walking-robot-simulation/
+[874]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_874.java
+[875_t]:    https://leetcode.com/problems/koko-eating-bananas/
+[875]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_875.java
+[873_t]:    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+[873]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_873.java
