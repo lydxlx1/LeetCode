@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|879 |[Profitable Schemes][879_t]|\[ [DP][879] \]|
+|878 |[Nth Magical Number][878_t]|\[ [Binary Search][878] \]|
+|877 |[Stone Game][877_t]|\[ [DP][877] \]|
+|876 |[Middle of the Linked List][876_t]|\[ [Fast-and-slow Pointers][876] \]|
 |875 |[Koko Eating Bananas][875_t]|\[ [Binary Search][875] \]|
 |874 |[Walking Robot Simulation][874_t]|\[ [Solution][874] \]|
 |873 |[Length of Longest Fibonacci Subsequence][873_t]|\[ [DP][873] \]|
@@ -1515,3 +1519,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [875]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_875.java
 [873_t]:    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 [873]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_873.java
+[877_t]:    https://leetcode.com/problems/stone-game/
+[877]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_877.java
+[876_t]:    https://leetcode.com/problems/middle-of-the-linked-list
+[876]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_876.java
+[878_t]:    https://leetcode.com/problems/nth-magical-number/
+[878]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_878.java
+[879_t]:    https://leetcode.com/problems/profitable-schemes/
+[879]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_879.java
