@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|887 |[Projection Area of 3D Shapes][887_t]|\[ [Solution][887] \]|
+|885 |[Boats to Save People][885_t]|\[ [Greedy][885] \]|
+|886 |[Reachable Nodes in Subdivided Graph][886_t]|\[ [Shortest Path + Greedy][886] \]|
+|884 |[Decoded String at Index][884_t]|\[ [DP][884] \]|
 |879 |[Profitable Schemes][879_t]|\[ [DP][879] \]|
 |878 |[Nth Magical Number][878_t]|\[ [Binary Search][878] \]|
 |877 |[Stone Game][877_t]|\[ [DP][877] \]|
@@ -1527,3 +1531,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [878]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_878.java
 [879_t]:    https://leetcode.com/problems/profitable-schemes/
 [879]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_879.java
+[887_t]:    https://leetcode.com/problems/projection-area-of-3d-shapes/
+[887]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_887.java
+[885_t]:    https://leetcode.com/problems/boats-to-save-people/
+[885]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_885.java
+[884_t]:    https://leetcode.com/problems/decoded-string-at-index/
+[884]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_884.java
+[886_t]:    https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
+[886]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_886.java
