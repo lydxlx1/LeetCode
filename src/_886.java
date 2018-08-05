@@ -24,7 +24,7 @@ public class _886 {
         long[] dist = new long[N];
         Arrays.fill(dist, Integer.MAX_VALUE);
         dist[0] = 0;
-        Queue<Integer> queue = new PriorityQueue<>();
+        Queue<Integer> queue = new PriorityQueue<>(Comparator.comparingLong(u -> dist[u]));
         queue.add(0);
         while (!queue.isEmpty()) {
             int u = queue.poll();
