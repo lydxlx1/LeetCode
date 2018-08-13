@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|891 |[Super Egg Drop][891_t]|\[ [DP with Binary Search Optimization][891] \]|
+|890 |[Possible Bipartition][890_t]|\[ [DFS][890] \]|
+|889 |[Spiral Matrix III][889_t]|\[ [Solution][889] \]|
+|888 |[Uncommon Words from Two Sentences][888_t]|\[ [Solution][888] \]|
 |887 |[Projection Area of 3D Shapes][887_t]|\[ [Solution][887] \]|
 |885 |[Boats to Save People][885_t]|\[ [Greedy][885] \]|
 |886 |[Reachable Nodes in Subdivided Graph][886_t]|\[ [Shortest Path + Greedy][886] \]|
@@ -1539,3 +1543,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [884]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_884.java
 [886_t]:    https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
 [886]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_886.java
+[888_t]:    https://leetcode.com/problems/uncommon-words-from-two-sentences/
+[888]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_888.java
+[889_t]:    https://leetcode.com/problems/spiral-matrix-iii/
+[889]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_889.java
+[890_t]:    https://leetcode.com/problems/possible-bipartition/
+[890]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_890.java
+[891_t]:    https://leetcode.com/problems/super-egg-drop/
+[891]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_891.java
