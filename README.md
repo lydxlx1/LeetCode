@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|891 |[Sum of Subsequences Widths][891_t]|\[ [Math][891] \]|
+|890 |[Find and Replace Pattern][890_t]|\[ [Greedy][890] \]|
+|889 |[Construct Binary Tree from Preorder and Postorder Traversal][889_t]|\[ [DP][889] \| [Easy Solution](889_1) \]|
+|888 |[Fair Candy Swap][888_t]|\[ [Solution][888] \]|
 |887 |[Super Egg Drop][887_t]|\[ [DP with Binary Search Optimization][887] \]|
 |886 |[Possible Bipartition][886_t]|\[ [DFS][886] \]|
 |885 |[Spiral Matrix III][885_t]|\[ [Solution][885] \]|
@@ -1551,3 +1555,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [886]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_886.java
 [887_t]:    https://leetcode.com/problems/super-egg-drop/
 [887]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_887.java
+[888_t]:    https://leetcode.com/problems/fair-candy-swap/
+[888]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_888.java
+[889_t]:    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+[889]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_889.java
+[889_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_889_1.java
+[890_t]:    https://leetcode.com/problems/find-and-replace-pattern
+[890]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_890.java
+[891_t]:    https://leetcode.com/problems/sum-of-subsequences-width/
+[891]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_891.java
