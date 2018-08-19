@@ -1,51 +1,51 @@
-import java.util.*;
-import java.util.stream.LongStream;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
- * Reachable Nodes in Subdivided Graph
+ * LeetCode 890 - Possible Bipartition
  * <p>
- * Shortest Path + Greedy
- * Note that, when n = 0 for (i, j, n), we are NOT removing the edge (i, j).
+ * DFS
  */
 public class _886 {
 
-    public int reachableNodes(int[][] edges, int M, int N) {
-        List<int[]>[] adjList = new ArrayList[N];
-        for (int i = 0; i < N; i++) {
-            adjList[i] = new ArrayList<>();
-        }
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1];
-            adjList[u].add(edge);
-            adjList[v].add(edge);
-        }
+    int[] color;
+    List<Integer>[] g;
 
-        // Dijkstra
-        long[] dist = new long[N];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[0] = 0;
-        Queue<Integer> queue = new PriorityQueue<>(Comparator.comparingLong(u -> dist[u]));
-        queue.add(0);
-        while (!queue.isEmpty()) {
-            int u = queue.poll();
-            for (int[] edge : adjList[u]) {
-                int v = edge[0] + edge[1] - u;
-                int w = edge[2] + 1;
-                if (dist[u] + w < dist[v]) {
-                    dist[v] = dist[u] + w;
-                    queue.add(v);
+    private boolean dfs(int u) {
+        for (int v : g[u]) {
+            if (color[v] != 0) {
+                if (color[u] == color[v]) {
+                    return false;
+                }
+            } else {
+                color[v] = -color[u];
+                if (!dfs(v)) {
+                    return false;
                 }
             }
         }
+        return true;
+    }
 
-        long ans = LongStream.of(dist).map(d -> d <= M ? 1 : 0).sum();
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1];
-            long a = Math.max(M - dist[u], 0);
-            long b = Math.max(M - dist[v], 0);
-            ans += Math.min(a + b, edge[2]);
+    public boolean possibleBipartition(int N, int[][] dislikes) {
+        color = new int[N + 1];
+        g = new List[N + 1];
+        for (int i = 1; i <= N; i++) {
+            g[i] = new ArrayList<>();
         }
-        return (int) ans;
+        for (int[] dislike : dislikes) {
+            int u = dislike[0], v = dislike[1];
+            g[u].add(v);
+            g[v].add(u);
+        }
+        for (int i = 1; i <= N; i++) {
+            if (color[i] == 0) {
+                color[i] = 1;
+                if (!dfs(i)) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
-

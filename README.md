@@ -6,14 +6,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|891 |[Super Egg Drop][891_t]|\[ [DP with Binary Search Optimization][891] \]|
-|890 |[Possible Bipartition][890_t]|\[ [DFS][890] \]|
-|889 |[Spiral Matrix III][889_t]|\[ [Solution][889] \]|
-|888 |[Uncommon Words from Two Sentences][888_t]|\[ [Solution][888] \]|
-|887 |[Projection Area of 3D Shapes][887_t]|\[ [Solution][887] \]|
-|885 |[Boats to Save People][885_t]|\[ [Greedy][885] \]|
-|886 |[Reachable Nodes in Subdivided Graph][886_t]|\[ [Shortest Path + Greedy][886] \]|
-|884 |[Decoded String at Index][884_t]|\[ [DP][884] \]|
+|887 |[Super Egg Drop][887_t]|\[ [DP with Binary Search Optimization][887] \]|
+|886 |[Possible Bipartition][886_t]|\[ [DFS][886] \]|
+|885 |[Spiral Matrix III][885_t]|\[ [Solution][885] \]|
+|884 |[Uncommon Words from Two Sentences][884_t]|\[ [Solution][884] \]|
+|883 |[Projection Area of 3D Shapes][883_t]|\[ [Solution][883] \]|
+|882 |[Reachable Nodes in Subdivided Graph][882_t]|\[ [Shortest Path + Greedy][882] \]|
+|881 |[Boats to Save People][881_t]|\[ [Greedy][881] \]|
+|880 |[Decoded String at Index][880_t]|\[ [DP][880] \]|
 |879 |[Profitable Schemes][879_t]|\[ [DP][879] \]|
 |878 |[Nth Magical Number][878_t]|\[ [Binary Search][878] \]|
 |877 |[Stone Game][877_t]|\[ [DP][877] \]|
@@ -1535,19 +1535,19 @@ I will keep updating the list and feel free to share any of your thoughts!
 [878]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_878.java
 [879_t]:    https://leetcode.com/problems/profitable-schemes/
 [879]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_879.java
-[887_t]:    https://leetcode.com/problems/projection-area-of-3d-shapes/
-[887]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_887.java
-[885_t]:    https://leetcode.com/problems/boats-to-save-people/
-[885]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_885.java
-[884_t]:    https://leetcode.com/problems/decoded-string-at-index/
+[883_t]:    https://leetcode.com/problems/projection-area-of-3d-shapes/
+[883]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_883.java
+[881_t]:    https://leetcode.com/problems/boats-to-save-people/
+[881]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_881.java
+[880_t]:    https://leetcode.com/problems/decoded-string-at-index/
+[880]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_880.java
+[882_t]:    https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
+[882]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_882.java
+[884_t]:    https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [884]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_884.java
-[886_t]:    https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
+[885_t]:    https://leetcode.com/problems/spiral-matrix-iii/
+[885]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_885.java
+[886_t]:    https://leetcode.com/problems/possible-bipartition/
 [886]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_886.java
-[888_t]:    https://leetcode.com/problems/uncommon-words-from-two-sentences/
-[888]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_888.java
-[889_t]:    https://leetcode.com/problems/spiral-matrix-iii/
-[889]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_889.java
-[890_t]:    https://leetcode.com/problems/possible-bipartition/
-[890]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_890.java
-[891_t]:    https://leetcode.com/problems/super-egg-drop/
-[891]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_891.java
+[887_t]:    https://leetcode.com/problems/super-egg-drop/
+[887]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_887.java
