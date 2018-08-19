@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |891 |[Sum of Subsequences Widths][891_t]|\[ [Math][891] \]|
 |890 |[Find and Replace Pattern][890_t]|\[ [Greedy][890] \]|
-|889 |[Construct Binary Tree from Preorder and Postorder Traversal][889_t]|\[ [DP][889] \| [Easy Solution](889_1) \]|
+|889 |[Construct Binary Tree from Preorder and Postorder Traversal][889_t]|\[ [DP][889] \| [Easy Solution][889_1] \]|
 |888 |[Fair Candy Swap][888_t]|\[ [Solution][888] \]|
 |887 |[Super Egg Drop][887_t]|\[ [DP with Binary Search Optimization][887] \]|
 |886 |[Possible Bipartition][886_t]|\[ [DFS][886] \]|
