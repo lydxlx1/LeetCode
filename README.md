@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|899 |[Orderly Queue][899_t]|\[ [Math][899] \]|
+|898 |[Bitwise ORs of Subarrays][898_t]|\[ [Divide-and-Conquer][898] \| [Another Solution][898_1] \]|
+|897 |[Increasing Order Search Tree][897_t]|\[ [In-order Traversal][897] \]|
+|896 |[Monotonic Array][896_t]|\[ [1-Liner][896] \]|
 |891 |[Sum of Subsequences Widths][891_t]|\[ [Math][891] \]|
 |890 |[Find and Replace Pattern][890_t]|\[ [Greedy][890] \]|
 |889 |[Construct Binary Tree from Preorder and Postorder Traversal][889_t]|\[ [DP][889] \| [Easy Solution][889_1] \]|
@@ -1564,3 +1568,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [890]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_890.java
 [891_t]:    https://leetcode.com/problems/sum-of-subsequences-width/
 [891]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_891.java
+[896_t]:    https://leetcode.com/problems/monotonic-array/
+[896]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_896.java
+[897_t]:    https://leetcode.com/problems/increasing-order-search-tree/
+[897]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_897.java
+[899_t]:    https://leetcode.com/problems/orderly-queue/
+[899]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_899.java
+[898_t]:    https://leetcode.com/problems/bitwise-ors-of-subarrays/
+[898]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_898.java
+[898_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_898_1.java
