@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|903 |[Valid Permutations for DI Sequence][903_t]|\[ [DP][903] \]|
+|902 |[Numbers At Most N Given Digit Set][902_t]|\[ [Math][902] \]|
+|901 |[Online Stock Span][901_t]|\[ [Monotone-Stack][901] \]|
+|900 |[RLE Itereator][900_t]|\[ [Solution][900] \]|
 |899 |[Orderly Queue][899_t]|\[ [Math][899] \]|
 |898 |[Bitwise ORs of Subarrays][898_t]|\[ [Divide-and-Conquer][898] \| [Another Solution][898_1] \]|
 |897 |[Increasing Order Search Tree][897_t]|\[ [In-order Traversal][897] \]|
@@ -1577,3 +1581,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [898_t]:    https://leetcode.com/problems/bitwise-ors-of-subarrays/
 [898]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_898.java
 [898_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_898_1.java
+[900_t]:    https://leetcode.com/problems/rle-iterator/
+[900]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_900.java
+[901_t]:    https://leetcode.com/problems/online-stock-span/
+[901]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_901.java
+[902_t]:    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+[902]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_902.java
+[903_t]:    https://leetcode.com/problems/valid-permutations-for-di-sequence/
+[903]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_903.java
