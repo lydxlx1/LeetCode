@@ -32,7 +32,7 @@ public class _903 {
             return f.get(S);
         }
 
-        // We enumerate the place to place smallest number.
+        // We enumerate the position to place smallest number.
         int ans = 0;
         if (S.startsWith("I")) {
             ans += numPermsDISequence(S.substring(1));
