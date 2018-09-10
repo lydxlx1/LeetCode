@@ -48,7 +48,7 @@ public class _903 {
                 //  ...DI...
                 //     ^
                 //     i
-                // In total, we need fill S.length() + 1 numbers. After the smallest number is placed,
+                // In total, we need to fill S.length() + 1 numbers. After the smallest number is placed,
                 // there are S.length() numbers left, where i+1 of them are to the left.
                 long prod = choose[S.length()][i + 1];
 
