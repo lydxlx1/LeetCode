@@ -51,7 +51,7 @@ public class _903 {
                 // In total, we need fill S.length() + 1 numbers. After the smallest number is placed,
                 // there are S.length() numbers left, where i+1 of them are to the left.
                 long prod = choose[S.length()][i + 1];
-                ;
+
                 prod *= numPermsDISequence(S.substring(0, i));
                 prod %= MOD;
                 prod *= numPermsDISequence(S.substring(i + 2, S.length()));
