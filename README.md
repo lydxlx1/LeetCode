@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|907 |[Sum of Subarray Minimums][907_t]|\[ [Divide-and-Conquer][907] \| [Stack][907_1] \]|
+|906 |[Super Palindromes][906_t]|\[ [Solution][906] \]|
+|905 |[Sort Array By Parity][905_t]|\[ [1-Liner][905] \]|
+|904 |[Fruit Into Baskets][904_t]|\[ [Sliding-window][904] \]|
 |903 |[Valid Permutations for DI Sequence][903_t]|\[ [DP][903] \]|
 |902 |[Numbers At Most N Given Digit Set][902_t]|\[ [Math][902] \]|
 |901 |[Online Stock Span][901_t]|\[ [Monotone-Stack][901] \]|
@@ -1589,3 +1593,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [902]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_902.java
 [903_t]:    https://leetcode.com/problems/valid-permutations-for-di-sequence/
 [903]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_903.java
+[905_t]:    https://leetcode.com/problems/sort-array-by-parity/
+[905]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_905.java
+[904_t]:    https://leetcode.com/problems/fruit-into-baskets/
+[904]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_904.java
+[906_t]:    https://leetcode.com/problems/super-palindromes/
+[906]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_906.java
+[907_t]:    https://leetcode.com/problems/sum-of-subarray-minimums/
+[907]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_907.java
+[907_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_907_1.java
