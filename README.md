@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|911 |[Online Election][911_t]|\[ [Binary Search][911] \]|
+|910 |[Smallest Range II][910_t]|\[ [Math][910] \]|
+|909 |[Snakes and Ladders][909_t]|\[ [BFS][909] \]|
+|908 |[Smallest Range I][908_t]|\[ [Greedy][908] \]|
 |907 |[Sum of Subarray Minimums][907_t]|\[ [Divide-and-Conquer][907] \| [Stack][907_1] \]|
 |906 |[Super Palindromes][906_t]|\[ [Solution][906] \]|
 |905 |[Sort Array By Parity][905_t]|\[ [1-Liner][905] \]|
@@ -1602,3 +1606,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [907_t]:    https://leetcode.com/problems/sum-of-subarray-minimums/
 [907]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_907.java
 [907_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_907_1.java
+[908_t]:    https://leetcode.com/problems/smallest-range-i/
+[908]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_908.java
+[910_t]:    https://leetcode.com/problems/smallest-range-ii/
+[910]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_910.java
+[909_t]:    https://leetcode.com/problems/snakes-and-ladders/
+[909]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_909.java
+[911_t]:    https://leetcode.com/problems/online-election/
+[911]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_911.java
