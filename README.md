@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|916 |[Word Subsets][916_t]|\[ [Counting][916] \]|
+|915 |[Partition Array into Disjoint Intervals][915_t]|\[ [Solution][915] \]|
+|914 |[X of a Kind in a Deck of Cards][914_t]|\[ [Math][914] \]|
+|913 |[Cat and Mouse][913_t]|\[ [Game Theory][913] \]|
 |911 |[Online Election][911_t]|\[ [Binary Search][911] \]|
 |910 |[Smallest Range II][910_t]|\[ [Math][910] \]|
 |909 |[Snakes and Ladders][909_t]|\[ [BFS][909] \]|
@@ -1614,3 +1618,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [909]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_909.java
 [911_t]:    https://leetcode.com/problems/online-election/
 [911]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_911.java
+[913_t]:    https://leetcode.com/problems/cat-and-mouse/
+[913]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_913.java
+[914_t]:    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+[914]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_914.java
+[915_t]:    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+[915]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_915.java
+[916_t]:    https://leetcode.com/problems/word-subsets/
+[916]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_916.java
