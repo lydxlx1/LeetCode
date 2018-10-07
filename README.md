@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|920 |[Number of Music Playlists][920_t]|\[ [DP][920]\]|
+|919 |[Complete Binary Tree Inserter][919_t]|\[ [Solution][919]\]|
+|918 |[Maximum Sum Circular Subarray][918_t]|\[ [Divide-and-Conquer][918] \| [Sliding-Window + TreeMap][918_1] \| [Sliding-Window + Monotonic-Queue][918_2] \]|
+|917 |[Reverse Only Letters][917_t]|\[ [Two-Pointer][917] \]|
 |916 |[Word Subsets][916_t]|\[ [Counting][916] \]|
 |915 |[Partition Array into Disjoint Intervals][915_t]|\[ [Solution][915] \]|
 |914 |[X of a Kind in a Deck of Cards][914_t]|\[ [Math][914] \]|
@@ -1626,3 +1630,13 @@ I will keep updating the list and feel free to share any of your thoughts!
 [915]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_915.java
 [916_t]:    https://leetcode.com/problems/word-subsets/
 [916]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_916.java
+[917_t]:    https://leetcode.com/problems/reverse-only-letters/
+[917]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_917.java
+[918_t]:    https://leetcode.com/problems/maximum-sum-circular-subarray/
+[918]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_918.java
+[918_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_918_1.java
+[918_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_918_2.java
+[919_t]:    https://leetcode.com/problems/complete-binary-tree-inserter/
+[919]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_919.java
+[920_t]:    https://leetcode.com/problems/number-of-music-playlists/
+[920]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_920.java
