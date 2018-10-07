@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 /**
  * LeetCode 918 - Maximum Sum Circular Subarray
  *
- * Let's a harder version --- Find the maximum subarray subject to a length limit.
+ * Let's solve a harder version --- find the maximum subarray subject to a length limit.
  * And here is solution using Divide-and-Conquer.
  */
 public class _918 {
