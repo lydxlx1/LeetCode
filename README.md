@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|924 |[Minimize Malware Spread][924_t]|\[ [DFS][924] \]|
+|923 |[3Sum with Multiplicity][923_t]|\[ [Counting][923] \| [Two-pointer][923_1] \]|
+|922 |[Sort Array by Parity II][922_t]|\[ [Solution][922]\]|
+|921 |[Minimum Add to Make Parentheses Valid][921_t]|\[ [Solution][921]\]|
 |920 |[Number of Music Playlists][920_t]|\[ [DP][920]\]|
 |919 |[Complete Binary Tree Inserter][919_t]|\[ [Solution][919]\]|
 |918 |[Maximum Sum Circular Subarray][918_t]|\[ [Divide-and-Conquer][918] \| [Sliding-Window + TreeMap][918_1] \| [Sliding-Window + Monotonic-Queue][918_2] \]|
@@ -1640,3 +1644,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [919]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_919.java
 [920_t]:    https://leetcode.com/problems/number-of-music-playlists/
 [920]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_920.java
+[922_t]:    https://leetcode.com/problems/sort-array-by-parity/
+[922]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_922.java
+[921_t]:    https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+[921]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_921.java
+[923_t]:    https://leetcode.com/problems/3sum-with-multiplicity/
+[923]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_923.java
+[923_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_923_1.java
+[924_t]:    https://leetcode.com/problems/minimize-malware-spread/
+[924]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_924.java
