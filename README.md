@@ -1644,7 +1644,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [919]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_919.java
 [920_t]:    https://leetcode.com/problems/number-of-music-playlists/
 [920]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_920.java
-[922_t]:    https://leetcode.com/problems/sort-array-by-parity/
+[922_t]:    https://leetcode.com/problems/sort-array-by-parity-ii/
 [922]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_922.java
 [921_t]:    https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [921]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_921.java
