@@ -33,7 +33,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |903 |[Valid Permutations for DI Sequence][903_t]|\[ [DP][903] \]|
 |902 |[Numbers At Most N Given Digit Set][902_t]|\[ [Math][902] \]|
 |901 |[Online Stock Span][901_t]|\[ [Monotone-Stack][901] \]|
-|900 |[RLE Itereator][900_t]|\[ [Solution][900] \]|
+|900 |[RLE Iterator][900_t]|\[ [Solution][900] \]|
 |899 |[Orderly Queue][899_t]|\[ [Math][899] \]|
 |898 |[Bitwise ORs of Subarrays][898_t]|\[ [Divide-and-Conquer][898] \| [Another Solution][898_1] \]|
 |897 |[Increasing Order Search Tree][897_t]|\[ [In-order Traversal][897] \]|
