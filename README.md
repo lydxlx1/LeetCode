@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|936 |[Stamping the Sequence][936_t]|\[ [Thinking Reversely][936] \]|
+|935 |[Knight Dialer][935_t]|\[ [DP][935] \]|
+|934 |[Shortest Bridge][934_t]|\[ [DFS + BFS][934] \]|
+|933 |[Number of Recent Calls][933_t]|\[ [Monotone Queue][933] \]|
 |924 |[Minimize Malware Spread][924_t]|\[ [DFS][924] \]|
 |923 |[3Sum with Multiplicity][923_t]|\[ [Counting][923] \| [Two-pointer][923_1] \]|
 |922 |[Sort Array by Parity II][922_t]|\[ [Solution][922]\]|
@@ -1653,3 +1657,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [923_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_923_1.java
 [924_t]:    https://leetcode.com/problems/minimize-malware-spread/
 [924]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_924.java
+[933_t]:    https://leetcode.com/problems/number-of-recent-calls/
+[933]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_933.java
+[934_t]:    https://leetcode.com/problems/shortest-bridge/
+[934]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_934.java
+[935_t]:    https://leetcode.com/problems/knight-dialer/
+[935]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_935.java
+[936_t]:    https://leetcode.com/problems/stamping-the-sequence/
+[936]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_936.java
