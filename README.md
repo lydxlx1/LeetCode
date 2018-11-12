@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|940 |[Distinct Subsequences II][940_t]|\[ [DP][940] \]|
+|939 |[Minimum Area Rectangle][939_t]|\[ [Solution][939] \]|
+|938 |[Range Sum of BST][938_t]|\[ [DFS][938] \]|
+|937 |[Reorder Log Files][937_t]|\[ [Sorting][937] \]|
 |936 |[Stamping the Sequence][936_t]|\[ [Thinking Reversely][936] \]|
 |935 |[Knight Dialer][935_t]|\[ [DP][935] \]|
 |934 |[Shortest Bridge][934_t]|\[ [DFS + BFS][934] \]|
@@ -1665,3 +1669,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [935]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_935.java
 [936_t]:    https://leetcode.com/problems/stamping-the-sequence/
 [936]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_936.java
+[937_t]:    https://leetcode.com/problems/reorder-log-files/
+[937]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_937.java
+[938_t]:    https://leetcode.com/problems/range-sum-of-bst/
+[938]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_938.java
+[939_t]:    https://leetcode.com/problems/minimum-area-rectangle/
+[939]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_939.java
+[940_t]:    https://leetcode.com/problems/distinct-subsequences-ii/
+[940]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_940.java
