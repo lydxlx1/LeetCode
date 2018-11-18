@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|944 |[Delete Columns to Make Sorted][944_t]|\[ [Solution][944] \]|
+|943 |[Find the Shortest Superstring][943_t]|\[ [DP][943] \]|
+|942 |[DI String Match][942_t]|\[ [Construction][942] \]|
+|941 |[Valid Mountain Array][941_t]|\[ [Two-pointer][941] \]|
 |940 |[Distinct Subsequences II][940_t]|\[ [DP][940] \]|
 |939 |[Minimum Area Rectangle][939_t]|\[ [Solution][939] \]|
 |938 |[Range Sum of BST][938_t]|\[ [DFS][938] \]|
@@ -1677,3 +1681,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [939]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_939.java
 [940_t]:    https://leetcode.com/problems/distinct-subsequences-ii/
 [940]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_940.java
+[941_t]:    https://leetcode.com/problems/valid-mountain-array/
+[941]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_941.java
+[944_t]:    https://leetcode.com/problems/delete-columns-to-make-sorted/
+[944]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_944.java
+[942_t]:    https://leetcode.com/problems/di-string-match/
+[942]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_942.java
+[943_t]:    https://leetcode.com/problems/find-the-shortest-superstring/
+[943]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_943.java
