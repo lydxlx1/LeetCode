@@ -9,7 +9,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |948 |[Bag of Tokens][948_t]|\[ [Greedy][948] \]|
 |947 |[Most Stones Removed with Same Row or Column][947_t]|\[ [Union-Find Set][947] \]|
 |946 |[Validate Stack Sequences][946_t]|\[ [Stack][946] \]|
-|945 |[Minimum Increment to Make Array Unique][945_t]|\[ [Countint][945] \]|
+|945 |[Minimum Increment to Make Array Unique][945_t]|\[ [Counting][945] \]|
 |944 |[Delete Columns to Make Sorted][944_t]|\[ [Solution][944] \]|
 |943 |[Find the Shortest Superstring][943_t]|\[ [DP][943] \]|
 |942 |[DI String Match][942_t]|\[ [Construction][942] \]|
