@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|947 |[Most Stones Removed with Same Row or Column][947_t]|\[ [Union-Find Set][947] \]|
+|946 |[Validate Stack Sequences][946_t]|\[ [Stack][946] \]|
+|945 |[Minimum Increment to Make Array Unique][945_t]|\[ [Countint][945] \]|
 |944 |[Delete Columns to Make Sorted][944_t]|\[ [Solution][944] \]|
 |943 |[Find the Shortest Superstring][943_t]|\[ [DP][943] \]|
 |942 |[DI String Match][942_t]|\[ [Construction][942] \]|
@@ -1689,3 +1692,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [942]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_942.java
 [943_t]:    https://leetcode.com/problems/find-the-shortest-superstring/
 [943]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_943.java
+[945_t]:    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+[945]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_945.java
+[946_t]:    https://leetcode.com/problems/validate-stack-sequences/
+[946]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_946.java
+[947_t]:    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+[947]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_947.py
