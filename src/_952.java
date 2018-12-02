@@ -1,7 +1,3 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * LeetCode 952 - Largest Component Size by Common Factor
  *
@@ -10,74 +6,42 @@ import java.util.Map;
  */
 public class _952 {
 
-    Map<Integer, Integer> parent;
-    Map<Integer, Integer> factorCluster;
+    int max = 1000000 + 1;
+    int[] parent;
 
     int find(int i) {
-        if (parent.get(i) != i) {
-            parent.put(i, find(parent.get(i)));
+        if (parent[i] != i) {
+            parent[i] = find(parent[i]);
         }
-        return parent.get(i);
+        return parent[i];
     }
 
     void union(int i, int j) {
-        parent.put(find(i), find(j));
+        parent[find(i)] = find(j);
     }
-
 
     public int largestComponentSize(int[] A) {
-        Arrays.sort(A);
-        parent = new HashMap<>();
-        factorCluster = new HashMap<>();
-        for (int i : A) {
-            parent.put(i, i);
+        parent = new int[max];
+        for (int i = 0; i < parent.length; i++) {
+            parent[i] = i;
         }
 
         for (int i : A) {
-            boolean isPrime = true;
-            for (int j = 2; j * j <= i; j++) {
-                if (i % j == 0) {
-                    isPrime = false;
-                    int factor = j;
-                    if (factorCluster.containsKey(factor)) {
-                        union(i, factorCluster.get(factor));
-                    } else {
-                        factorCluster.put(factor, i);
-                    }
-
-                    factor = i / j;
-                    if (factorCluster.containsKey(factor)) {
-                        union(i, factorCluster.get(factor));
-                    } else {
-                        factorCluster.put(factor, i);
-                    }
+            for (int factor = 2; factor * factor <= i; factor++) {
+                if (i % factor == 0) {
+                    union(i, factor);
+                    union(i, i / factor);
                 }
             }
-            if (isPrime) {
-                factorCluster.put(i, i);
-            }
         }
 
-        Map<Integer, Integer> cluster = new HashMap<>();
         int ans = 0;
+        int[] cnt = new int[max];
         for (int i : A) {
-            int p = find(i);
-            cluster.put(p, cluster.getOrDefault(p, 0) + 1);
-            ans = Math.max(ans, cluster.get(p));
+            cnt[find(i)]++;
+            ans = Math.max(ans, cnt[find(i)]);
         }
-
-//        for (int i : A) {
-//            System.out.println(i + " " + find(i));
-//        }
-//        System.out.println();
         return ans;
-    }
-
-    public static void main(String[] args) {
-        _952 sol = new _952();
-        System.out.println(sol.largestComponentSize(new int[]{4, 6, 15, 35}));
-        System.out.println(sol.largestComponentSize(new int[]{20, 50, 9, 63}));
-        System.out.println(sol.largestComponentSize(new int[]{2, 3, 6, 7, 4, 12, 21, 39}));
     }
 }
 
