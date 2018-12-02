@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|952 |[Largest Component Size by Common Factor][952_t]|\[ [Math + Union-find Set][952] \]|
+|951 |[Flip Equivalent Binary Trees][951_t]|\[ [DFS][951] \]|
+|950 |[Reveal Cards in Increasing Order][950_t]|\[ [Simulation][950] \]|
+|949 |[Largest Time for Given Digits][949_t]|\[ [Brute-force][949] \]|
 |948 |[Bag of Tokens][948_t]|\[ [Greedy][948] \]|
 |947 |[Most Stones Removed with Same Row or Column][947_t]|\[ [Union-Find Set][947] \]|
 |946 |[Validate Stack Sequences][946_t]|\[ [Stack][946] \]|
@@ -1701,3 +1705,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [947]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_947.py
 [948_t]:    https://leetcode.com/problems/bag-of-tokens/
 [948]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_948.java
+[949_t]:    https://leetcode.com/problems/largest-time-for-given-digits/
+[949]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_949.py
+[950_t]:    https://leetcode.com/problems/reveal-cards-in-increasing-order/
+[950]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_950.java
+[951_t]:    https://leetcode.com/problems/flip-equivalent-binary-trees/
+[951]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_951.java
+[952_t]:    https://leetcode.com/problems/largest-component-size-by-common-factor/
+[952]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_952.java
