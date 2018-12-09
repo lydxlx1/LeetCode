@@ -6,7 +6,7 @@ import java.util.Queue;
  * LeetCode 956 - Tallest Billboard
  *
  * A naive DP solution:
- * f[i][a][b]: Whether it is possible to achieve that left billboard = a && right billboard = b, using the first i boards.
+ * f[i][a][b]: Whether it is possible to achieve that left billboard = a && right billboard = b, given the first i boards.
  * But this will use too much space (and hence the run time).
  *
  * Alternatively, if we can dp on the difference, i.e., a - b, and maximize either a or b.
