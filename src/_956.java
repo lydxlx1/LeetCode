@@ -9,7 +9,7 @@ import java.util.Queue;
  * f[i][a][b]: Whether it is possible to achieve that left billboard = a && right billboard = b, given the first i boards.
  * But this will use too much space (and hence the run time).
  *
- * Alternatively, if we can dp on the difference, i.e., a - b, and maximize either a or b.
+ * Alternatively, we can dp on the difference, i.e., a - b, and maximize either a or b.
  * (Note that, then a - b is fixed, maximizing a is equivalent as maximizing b.)
  */
 public class _956 {
