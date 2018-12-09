@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|956 |[Tallest Billboard][956_t]|\[ [DP][956] \]|
+|955 |[Delete Columns to Make Sorted II][955_t]|\[ [Solution with Strong Prunings][955] \| [Short Solution][955_1] \]|
+|954 |[Array of Doubled Pairs][954_t]|\[ [Greedy][954] \]|
+|953 |[Verifying an Alien Dictionary][953_t]|\[ [Solution][953] \]|
 |952 |[Largest Component Size by Common Factor][952_t]|\[ [Math + Union-find Set][952] \]|
 |951 |[Flip Equivalent Binary Trees][951_t]|\[ [DFS][951] \]|
 |950 |[Reveal Cards in Increasing Order][950_t]|\[ [Simulation][950] \]|
@@ -1713,3 +1717,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [951]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_951.java
 [952_t]:    https://leetcode.com/problems/largest-component-size-by-common-factor/
 [952]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_952.java
+[953_t]:    https://leetcode.com/problems/verifying-an-alien-dictionary/
+[953]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_953.java
+[954_t]:    https://leetcode.com/problems/array-of-doubled-pairs/
+[954]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_954.java
+[955_t]:    https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
+[955]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_955.java
+[955_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_955_1.java
+[956_t]:    https://leetcode.com/problems/tallest-billboard/
+[956]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_956.java
