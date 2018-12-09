@@ -27,13 +27,5 @@ public class _955_1 {
         }
         return ans;
     }
-
-
-    public static void main(String[] args) {
-        _955_1 sol = new _955_1();
-        System.out.println(sol.minDeletionSize(new String[]{"ca", "bb", "ac"}));
-        System.out.println(sol.minDeletionSize(new String[]{"xc", "yb", "za"}));
-        System.out.println(sol.minDeletionSize(new String[]{"zyx", "wvu", "tsr"}));
-    }
 }
 
