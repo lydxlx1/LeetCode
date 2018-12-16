@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|960 |[Delete Columns to Make Sorted III][960_t]|\[ [DP][960] \]|
+|959 |[Regions Cut By Slashes][959_t]|\[ [Union-find-set][959] \]|
+|958 |[Check the Completeness of a Binary Tree][958_t]|\[ [BFS][958] \]|
+|957 |[Prison Cells After N Days][957_t]|\[ [Math][957] \]|
 |956 |[Tallest Billboard][956_t]|\[ [DP][956] \]|
 |955 |[Delete Columns to Make Sorted II][955_t]|\[ [Solution with Strong Prunings][955] \| [Short Solution][955_1] \]|
 |954 |[Array of Doubled Pairs][954_t]|\[ [Greedy][954] \]|
@@ -1726,3 +1730,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [955_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_955_1.java
 [956_t]:    https://leetcode.com/problems/tallest-billboard/
 [956]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_956.java
+[957_t]:    https://leetcode.com/problems/prison-cells-after-n-days/
+[957]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_957.java
+[958_t]:    https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+[958]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_958.java
+[959_t]:    https://leetcode.com/problems/regions-cut-by-slashes/
+[959]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_959.py
+[960_t]:    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+[960]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_960.java
