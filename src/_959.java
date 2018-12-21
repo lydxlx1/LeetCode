@@ -17,7 +17,7 @@
  *
  * After that, we can just run a standard dfs to compute the # of connected components in the scaled matrix.
  *
- * Quite similar to idea of "anti-aliasing" or Apple's "retina display", huh?
+ * Quite similar to the idea of "anti-aliasing" or Apple's "retina display", huh?
  */
 public class _959 {
 
