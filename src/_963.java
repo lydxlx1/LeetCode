@@ -8,7 +8,7 @@ import java.util.Map;
  *
  * i.  All Arithmetic (except the last one to compute the area) are done in integers so it is 100% precise.
  * ii. Initially I was lazy and tried to form the hash key simply by (a[0] + "," + a[1]), and my submission got TLE.
- *     50 * 50 * 50 = 125K strings seem totally okay to me, so maybe there might be just too many test cases.
+ *     50 * 50 * 50 = 125K strings seem totally okay to me, so maybe there are just too many test cases.
  */
 public class _963 {
 
