@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|964 |[Least Operators to Express Number][964_t]|\[ [Math][964] \]|
+|963 |[Minimum Area Rectangle II][963_t]|\[ [Geometry][963] \]|
+|962 |[Maximum Width Ramp][962_t]|\[ [Sweepline + BIT][962] \| [Divide-and-Conquer][962_1] \| [Just Sort][962_2] \]|
+|961 |[N-Repeated-Element in Size 2N Array][961_t]|\[ [Partition][961] \]|
 |960 |[Delete Columns to Make Sorted III][960_t]|\[ [DP][960] \]|
 |959 |[Regions Cut By Slashes][959_t]|\[ [Union-find-set][959] \| [Anti-aliasing][959_1] \]|
 |958 |[Check the Completeness of a Binary Tree][958_t]|\[ [BFS][958] \]|
@@ -1739,3 +1743,13 @@ I will keep updating the list and feel free to share any of your thoughts!
 [959_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_959.java
 [960_t]:    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 [960]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_960.java
+[961_t]:    https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[961]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_961.java
+[962_t]:    https://leetcode.com/problems/maximum-width-ramp/
+[962]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_962.java
+[962_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_962_1.java
+[962_2]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_962_2.java
+[963_t]:    https://leetcode.com/problems/minimum-area-rectangle-ii/
+[963]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_963.java
+[964_t]:    https://leetcode.com/problems/least-operators-to-express-number/
+[964]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_964.java
