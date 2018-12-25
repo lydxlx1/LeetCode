@@ -9,6 +9,13 @@ import java.util.Map;
  * - # of operators = # of numbers - 1, where # of numbers is a bit more clear to compute.
  * - Start from the least significant bit to the most significant bit, and we have two choices for each non-zero
  *   powers, i.e., straightforward addition or subtraction with a borrow from the higher bit.
+ * - What is the time complexity?
+ *   - Assume the target number is n, and we want to compute its time complexity f(n).
+ *   - We have two subproblems in the recursion, and the size of each subproblem is n / x.
+ *     Remaining cost in the recursion is O(1).
+ *   - By Master Theorem, when x > 2, it is clear that f(n) = O(log n).
+ *   - When x = 2, looks like f(n) could be linear, but it is not.
+ *     One can draw some examples first to feel the complexity.
  */
 public class _964 {
 
@@ -56,4 +63,3 @@ public class _964 {
         return ans;
     }
 }
-
