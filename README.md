@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|968 |[Binary Tree Cameras][968_t]|\[ [Tree-DP][968] \]|
+|967 |[Numbers with Same Consecutive Differences][967_t]|\[ [Backtracking][967] \]|
+|966 |[Vowel Spellchecker][967_t]|\[ [Mapper][966] \]|
+|965 |[Univalued Binary Tree][965_t]|\[ [DFS][965] \]|
 |964 |[Least Operators to Express Number][964_t]|\[ [Math][964] \]|
 |963 |[Minimum Area Rectangle II][963_t]|\[ [Geometry][963] \]|
 |962 |[Maximum Width Ramp][962_t]|\[ [Sweepline + BIT][962] \| [Divide-and-Conquer][962_1] \| [Just Sort][962_2] \]|
@@ -1753,3 +1757,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [963]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_963.java
 [964_t]:    https://leetcode.com/problems/least-operators-to-express-number/
 [964]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_964.java
+[965_t]:    https://leetcode.com/problems/univalued-binary-tree/
+[965]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_965.java
+[967_t]:    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+[967]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_967.java
+[966_t]:    https://leetcode.com/problems/vowel-speckchecker/
+[966]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_966.java
+[968_t]:    https://leetcode.com/problems/binary-tree-cameras/
+[968]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_968.java
