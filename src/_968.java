@@ -46,7 +46,7 @@ public class _968 {
             TreeNode[] children = Stream.of(root.left, root.right).filter(i -> i != null).toArray(TreeNode[]::new);
             int total = 0;
             for (TreeNode child : children) {
-                total += dfs(child, false, true); // Assume the current node is already covered by some child.
+                total += dfs(child, false, true); // Assume the current node is already covered by some child or the parent.
             }
             if (itselfOk) {
                 ans = Math.min(ans, total);
