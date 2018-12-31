@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-|968 |[Binary Tree Cameras][968_t]|\[ [Tree-DP][968] \]|
+|968 |[Binary Tree Cameras][968_t]|\[ [Tree-DP][968] \| [Greedy][968_1] \]|
 |967 |[Numbers with Same Consecutive Differences][967_t]|\[ [Backtracking][967] \]|
 |966 |[Vowel Spellchecker][967_t]|\[ [Mapper][966] \]|
 |965 |[Univalued Binary Tree][965_t]|\[ [DFS][965] \]|
@@ -1765,3 +1765,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [966]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_966.java
 [968_t]:    https://leetcode.com/problems/binary-tree-cameras/
 [968]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_968.java
+[968_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_968_1.java
