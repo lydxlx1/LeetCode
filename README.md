@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |976 |[Largest Perimeter Triangle][976_t]|\[ [Greedy][976] \]|
 |975 |[Odd Even Jump][975_t]|\[ [DP][975] \]|
-|974 |[Subarray Sum Divisible by K][974_t]|\[ [Prefix-sum][974] \]|
+|974 |[Subarray Sums Divisible by K][974_t]|\[ [Prefix-sum][974] \]|
 |973 |[K Closest Points to Origin][973_t]|\[ [1-Liner][973] \]|
 |968 |[Binary Tree Cameras][968_t]|\[ [Tree-DP][968] \| [Greedy][968_1] \]|
 |967 |[Numbers with Same Consecutive Differences][967_t]|\[ [Backtracking][967] \]|
@@ -1774,7 +1774,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [975]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_975.java
 [974_t]:    https://leetcode.com/problems/subarray-sum-divisible-by-k/
 [974]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_974.java
-[976_t]:    https://leetcode.com/problems/subarray-sum-divisible-by-k/
+[976_t]:    https://leetcode.com/problems/largest-perimeter-triangle/
 [976]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_974.java
 [973_t]:    https://leetcode.com/problems/k-closest-points-to-origin/
 [973]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_973.java
