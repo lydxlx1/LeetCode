@@ -1772,7 +1772,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [968_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_968_1.java
 [975_t]:    https://leetcode.com/problems/odd-even-jump/
 [975]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_975.java
-[974_t]:    https://leetcode.com/problems/subarray-sum-divisible-by-k/
+[974_t]:    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 [974]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_974.java
 [976_t]:    https://leetcode.com/problems/largest-perimeter-triangle/
 [976]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_974.java
