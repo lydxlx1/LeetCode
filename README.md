@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|979 |[Distribute Coins in Binary Tree ][979_t]|\[ [Bottom-up Solution][979] \| [Top-down Solution][979_1] \]|
+|978 |[Longest Turbulent Subarray][978_t]|\[ [Solution][978] \]|
+|977 |[Squares of a Sorted Array][977_t]|\[ [1-Liner][977] \| [O(n)-time Solution] \]|
 |976 |[Largest Perimeter Triangle][976_t]|\[ [Greedy][976] \]|
 |975 |[Odd Even Jump][975_t]|\[ [DP][975] \]|
 |974 |[Subarray Sums Divisible by K][974_t]|\[ [Prefix-sum][974] \]|
@@ -1778,3 +1781,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [976]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_974.java
 [973_t]:    https://leetcode.com/problems/k-closest-points-to-origin/
 [973]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_973.java
+[977_t]:    https://leetcode.com/problems/squares-of-a-sorted-array/
+[977]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_977.java
+[977_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_977_1.java
+[978_t]:    https://leetcode.com/problems/longest-turbulent-subarray/
+[978]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_978.java
+[979_t]:    https://leetcode.com/problems/distribute-coins-in-binary-tree/
+[979]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_979.java
+[979_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_979_1.java
