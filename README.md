@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |979 |[Distribute Coins in Binary Tree ][979_t]|\[ [Bottom-up Solution][979] \| [Top-down Solution][979_1] \]|
 |978 |[Longest Turbulent Subarray][978_t]|\[ [Solution][978] \]|
-|977 |[Squares of a Sorted Array][977_t]|\[ [1-Liner][977] \| [O(n)-time Solution] \]|
+|977 |[Squares of a Sorted Array][977_t]|\[ [1-Liner][977] \| [O(n)-time Solution][977_1] \]|
 |976 |[Largest Perimeter Triangle][976_t]|\[ [Greedy][976] \]|
 |975 |[Odd Even Jump][975_t]|\[ [DP][975] \]|
 |974 |[Subarray Sums Divisible by K][974_t]|\[ [Prefix-sum][974] \]|
