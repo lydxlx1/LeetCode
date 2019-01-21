@@ -45,7 +45,7 @@ public class _980 {
         if (f.containsKey(key)) {
             return f.get(key);
         }
-        if (hash == ((1 << index(i, j)) - 1)) {
+        if (hash == (1 << (r * c)) - 1) {
             return 1;
         }
         // It is invalid to visit the ending square before we have visited all non-obstacles.
