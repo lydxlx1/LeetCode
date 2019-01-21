@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|980 |[Unique Paths III][980_t]|\[ [DP + Bit-compression][980] \]|
 |979 |[Distribute Coins in Binary Tree ][979_t]|\[ [Bottom-up Solution][979] \| [Top-down Solution][979_1] \]|
 |978 |[Longest Turbulent Subarray][978_t]|\[ [Solution][978] \]|
 |977 |[Squares of a Sorted Array][977_t]|\[ [1-Liner][977] \| [O(n)-time Solution][977_1] \]|
@@ -1789,3 +1790,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [979_t]:    https://leetcode.com/problems/distribute-coins-in-binary-tree/
 [979]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_979.java
 [979_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_979_1.java
+[980_t]:    https://leetcode.com/problems/unique-paths-iii/
+[980]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_980.java
