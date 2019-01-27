@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|984 |[String without AAA or BBB][984_t]|\[ [Greedy][984] \]|
+|983 |[Minimum Cost for Tickets][983_t]|\[ [DP][983] \]|
+|982 |[Triples with Bitwise AND Equal to Zero][982_t]|\[ [DP + Lazy Evaluation][982] \]|
+|981 |[Time Based Key-Value Store][981_t]|\[ [HashMap + TreeMap][981] \]|
 |980 |[Unique Paths III][980_t]|\[ [DP + Bit-compression][980] \]|
 |979 |[Distribute Coins in Binary Tree ][979_t]|\[ [Bottom-up Solution][979] \| [Top-down Solution][979_1] \]|
 |978 |[Longest Turbulent Subarray][978_t]|\[ [Solution][978] \]|
@@ -1792,3 +1796,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [979_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_979_1.java
 [980_t]:    https://leetcode.com/problems/unique-paths-iii/
 [980]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_980.java
+[984_t]:    https://leetcode.com/problems/string-without-aaa-or-bbb/
+[984]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_984.java
+[983_t]:    https://leetcode.com/problems/minimum-cost-for-tickets/
+[983]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_983.java
+[981_t]:    https://leetcode.com/problems/time-based-key-value-store/
+[981]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_981.java
+[982_t]:    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+[982]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_982.java
