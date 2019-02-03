@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|988 |[Smallest String Starting from Leaf][988_t]|\[ [Solution][988] \]|
+|987 |[Vertical Order Traversal of a Binary Tree][987_t]|\[ [DFS + Stream][987] \]|
+|986 |[Interval List Intersections][986_t]|\[ [Linear-time Solution][986] \]|
+|985 |[Sum of Even Numbers After Queries][985_t]|\[ [Solution][985] \]|
 |984 |[String without AAA or BBB][984_t]|\[ [Greedy][984] \]|
 |983 |[Minimum Cost for Tickets][983_t]|\[ [DP][983] \]|
 |982 |[Triples with Bitwise AND Equal to Zero][982_t]|\[ [DP + Lazy Evaluation][982] \]|
@@ -1804,3 +1808,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [981]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_981.java
 [982_t]:    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 [982]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_982.java
+[987_t]:    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+[987]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_987.java
+[988_t]:    https://leetcode.com/problems/smallest-string-starting-from-leaf/
+[988]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_988.java
+[986_t]:    https://leetcode.com/problems/interval-list-intersections/
+[986]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_986.java
+[985_t]:    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+[985]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_985.java
