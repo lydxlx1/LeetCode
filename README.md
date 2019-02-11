@@ -1822,7 +1822,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [985]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_985.java
 [989_t]:    https://leetcode.com/problems/add-to-array-form-of-integer/
 [989]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_989.java
-[990_t]:    https://leetcode.com/problems/satisifiability-of-equality-equations/
+[990_t]:    https://leetcode.com/problems/satisfiability-of-equality-equations/
 [990]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_990.java
 [991_t]:    https://leetcode.com/problems/broken-calculator/
 [991]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_991.java
