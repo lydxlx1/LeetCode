@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|992 |[Subarrays with K Different Integers][992_t]|\[ [Two Sliding-windows][992] \]|
+|991 |[Broken Calculator][991_t]|\[ [Math][991] \]|
+|990 |[Satisfiability of equality equations][990_t]|\[ [Union-Find Set][990] \]|
+|989 |[Add to Array-Form of Integer][989_t]|\[ [Arithmetic Addition][989] \]|
 |988 |[Smallest String Starting from Leaf][988_t]|\[ [Solution][988] \]|
 |987 |[Vertical Order Traversal of a Binary Tree][987_t]|\[ [DFS + Stream][987] \]|
 |986 |[Interval List Intersections][986_t]|\[ [Linear-time Solution][986] \]|
@@ -1816,3 +1820,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [986]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_986.java
 [985_t]:    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [985]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_985.java
+[989_t]:    https://leetcode.com/problems/add-to-array-form-of-integer/
+[989]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_989.java
+[990_t]:    https://leetcode.com/problems/satisifiability-of-equality-equations/
+[990]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_990.java
+[991_t]:    https://leetcode.com/problems/broken-calculator/
+[991]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_991.java
+[992_t]:    https://leetcode.com/problems/subarrays-with-k-different-integers/
+[992]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_992.java
