@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|996 |[Number Squareful Arrays][996_t]|\[ [Hamiltonian Path][996] \]|
+|995 |[Minimum Number of K Consecutive Bit Flips][995_t]|\[ [Greedy][995] \]|
+|994 |[Rotting Oranges][994_t]|\[ [BFS][994] \]|
+|993 |[Cousins in Binary Tree][993_t]|\[ [DFS][993] \]|
 |992 |[Subarrays with K Different Integers][992_t]|\[ [Two Sliding-windows][992] \]|
 |991 |[Broken Calculator][991_t]|\[ [Math][991] \]|
 |990 |[Satisfiability of equality equations][990_t]|\[ [Union-Find Set][990] \]|
@@ -1828,3 +1832,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [991]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_991.java
 [992_t]:    https://leetcode.com/problems/subarrays-with-k-different-integers/
 [992]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_992.java
+[993_t]:    https://leetcode.com/problems/cousins-in-binary-tree/
+[993]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_993.py
+[994_t]:    https://leetcode.com/problems/rotting-oranges/
+[994]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_994.py
+[995_t]:    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+[995]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_995.java
+[996_t]:    https://leetcode.com/problems/number-of-squareful-arrays/
+[996]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_996.java
