@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1001|[Grid Illumination][1001_t]|\[ [8-queen][1001] \]|
+|999 |[Available Captures for Rook][999_t]|\[ [Solution][999] \]|
+|998 |[Maximum Binary Tree II][998_t]|\[ [DFS][998] \]|
+|997 |[Find the Town Judge][997_t]|\[ [Universal Sink][997] \]|
 |996 |[Number Squareful Arrays][996_t]|\[ [Hamiltonian Path][996] \]|
 |995 |[Minimum Number of K Consecutive Bit Flips][995_t]|\[ [Greedy][995] \]|
 |994 |[Rotting Oranges][994_t]|\[ [BFS][994] \]|
@@ -1840,3 +1844,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [995]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_995.java
 [996_t]:    https://leetcode.com/problems/number-of-squareful-arrays/
 [996]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_996.java
+[1001_t]:    https://leetcode.com/problems/grid-illumination
+[1001]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1001.py
+[997_t]:    https://leetcode.com/problems/find-the-town-judge/
+[997]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_997.py
+[999_t]:    https://leetcode.com/problems/available-captures-for-rook/
+[999]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_999.py
+[998_t]:    https://leetcode.com/problems/maximum-binary-tree-ii/
+[998]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_998.py
