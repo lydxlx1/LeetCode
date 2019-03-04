@@ -6,7 +6,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1004|[Max Consecutive Ones III][1004_t]|\[ [Sliding Window][1004] \]|
+|1003|[Check If Word Is Valid After Substitution][1003_t]|\[ [Greedy][1003] \| [Java Solution][1003_1] \]|
+|1002|[Find Common Characters][1002_t]|\[ [Counter][1002] \| [Java Solution][1002_1] \]|
 |1001|[Grid Illumination][1001_t]|\[ [8-queen][1001] \]|
+|1000|[Minimum Cost to Merge Stones][1000_t]|\[ [DP][1000] \]|
 |999 |[Available Captures for Rook][999_t]|\[ [Solution][999] \]|
 |998 |[Maximum Binary Tree II][998_t]|\[ [DFS][998] \]|
 |997 |[Find the Town Judge][997_t]|\[ [Universal Sink][997] \]|
@@ -1852,3 +1856,13 @@ I will keep updating the list and feel free to share any of your thoughts!
 [999]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_999.py
 [998_t]:    https://leetcode.com/problems/maximum-binary-tree-ii/
 [998]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_998.py
+[1002_t]:    https://leetcode.com/problems/find-common-characters/
+[1002]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1002.py
+[1002_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1002.java
+[1003_t]:    https://leetcode.com/problems/check-if-word-is-valid-after-substitution/
+[1003]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1003.py
+[1003_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1003.java
+[1004_t]:    https://leetcode.com/problems/max-consecutive-ones-iii/
+[1004]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1004.java
+[1000_t]:    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+[1000]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1000.py
