@@ -7,7 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |1004|[Max Consecutive Ones III][1004_t]|\[ [Sliding Window][1004] \]|
-|1003|[Check If Word Is Valid After Substitution][1003_t]|\[ [Greedy][1003] \| [Java Solution][1003_1] \]|
+|1003|[Check If Word Is Valid After Substitutions][1003_t]|\[ [Greedy][1003] \| [Java Solution][1003_1] \]|
 |1002|[Find Common Characters][1002_t]|\[ [Counter][1002] \| [Java Solution][1002_1] \]|
 |1001|[Grid Illumination][1001_t]|\[ [8-queen][1001] \]|
 |1000|[Minimum Cost to Merge Stones][1000_t]|\[ [DP][1000] \]|
@@ -1859,7 +1859,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1002_t]:    https://leetcode.com/problems/find-common-characters/
 [1002]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1002.py
 [1002_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1002.java
-[1003_t]:    https://leetcode.com/problems/check-if-word-is-valid-after-substitution/
+[1003_t]:    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
 [1003]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1003.py
 [1003_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1003.java
 [1004_t]:    https://leetcode.com/problems/max-consecutive-ones-iii/
