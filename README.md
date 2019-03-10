@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1008|[Construct Binary Search Tree from Preorder Traversal][1008_t]|\[ [DFS][1008] \]|
+|1007|[Minimum Domino Rotations For Equal Row][1007_t]|\[ [Brute-force][1007] \]|
+|1006|[Clumsy Factorial][1006_t]|\[ [Stack][1006] \]|
+|1005|[Maximize Sum of Array After K Negations][1005_t]|\[ [Greedy][1005] \]|
 |1004|[Max Consecutive Ones III][1004_t]|\[ [Sliding Window][1004] \]|
 |1003|[Check If Word Is Valid After Substitutions][1003_t]|\[ [Greedy][1003] \| [Java Solution][1003_1] \]|
 |1002|[Find Common Characters][1002_t]|\[ [Counter][1002] \| [Java Solution][1002_1] \]|
@@ -1866,3 +1870,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1004]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1004.java
 [1000_t]:    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 [1000]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1000.py
+[1005_t]:    https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+[1005]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1005.java
+[1006_t]:    https://leetcode.com/problems/clumsy-factorial/
+[1006]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1006.java
+[1007_t]:    https://leetcode.com/problems/Minimum-Domino-Rotations-For-Equal-Row/
+[1007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1007.java
+[1008_t]:    https://leetcode.com/problems/Construct-Binary-Search-Tree-from-Preorder-Traversal/
+[1008]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1008.py
