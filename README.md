@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1015|[Numbers With Repeated Digits][1015_t]|\[ [Backtracking][1015] \| [Digit+Mask DP][1015_1]\]|
+|1014|[Capacity To Ship Packages Within D Days][1014_t]|\[ [Bisect][1014] \]|
+|1013|[Pairs of Songs With Total Durations Divisible by 60][1013_t]|\[ [Counting][1013] \]|
+|1012|[Complement of Base 10 Integer][1012_t]|\[ [Bit Manipulation][1012] \]|
 |1008|[Construct Binary Search Tree from Preorder Traversal][1008_t]|\[ [DFS][1008] \]|
 |1007|[Minimum Domino Rotations For Equal Row][1007_t]|\[ [Brute-force][1007] \]|
 |1006|[Clumsy Factorial][1006_t]|\[ [Stack][1006] \]|
@@ -1878,3 +1882,12 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1007.java
 [1008_t]:    https://leetcode.com/problems/Construct-Binary-Search-Tree-from-Preorder-Traversal/
 [1008]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1008.py
+[1012_t]:    https://leetcode.com/problems/Complement-of-Base-10-Integer/
+[1012]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1012.java
+[1013_t]:    https://leetcode.com/problems/Pairs-of-Songs-With-Total-Durations-Divisible-by-60/
+[1013]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1013.java
+[1014_t]:    https://leetcode.com/problems/Capacity-To-Ship-Packages-Within-D-Days/
+[1014]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1014.java
+[1015_t]:    https://leetcode.com/problems/Numbers-With-Repeated-Digits/
+[1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.java
+[1015_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
