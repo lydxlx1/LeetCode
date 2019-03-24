@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1023|[Binary String With Substrings Representing 1 To N][1023_t]|\[ [Brute-force][1023] \]|
+|1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
+|1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
+|1020|[Partition Array Into Three Parts With Equal Sum][1020_t]|\[ [Brute-force][1020] \]|
 |1015|[Numbers With Repeated Digits][1015_t]|\[ [Backtracking][1015] \| [Digit+Mask DP][1015_1]\]|
 |1014|[Capacity To Ship Packages Within D Days][1014_t]|\[ [Bisect][1014] \]|
 |1013|[Pairs of Songs With Total Durations Divisible by 60][1013_t]|\[ [Counting][1013] \]|
@@ -1891,3 +1895,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1015_t]:    https://leetcode.com/problems/Numbers-With-Repeated-Digits/
 [1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.java
 [1015_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
+[1020_t]:    https://leetcode.com/problems/Partition-Array-Into-Three-Parts-With-Equal-Sum/
+[1020]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1020.java
+[1022_t]:    https://leetcode.com/problems/Smallest-Integer-Divisible-by-K/
+[1022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1022.java
+[1021_t]:    https://leetcode.com/problems/Best-Sightseeing-Pair/
+[1021]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1021.java
+[1023_t]:    https://leetcode.com/problems/Binary-String-With-Substrings-Representing-1-To-N/
+[1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
