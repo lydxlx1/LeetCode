@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1031|[Number of Enclaves][1031_t]|\[ [DFS][1031] \]|
+|1030|[Next Greater Node In Linked List][1030_t]|\[ [Greedy + TreeMap][1030] \]|
+|1029|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
+|1028|[Convert to Base -2][1028_t]|\[ [Math][1028] \]|
 |1023|[Binary String With Substrings Representing 1 To N][1023_t]|\[ [Brute-force][1023] \]|
 |1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
@@ -1903,3 +1907,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1021]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1021.java
 [1023_t]:    https://leetcode.com/problems/Binary-String-With-Substrings-Representing-1-To-N/
 [1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
+[1029_t]:    https://leetcode.com/problems/Binary-Prefix-Divisible-By-5/
+[1029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1029.java
+[1028_t]:    https://leetcode.com/problems/Convert-to-Base-2/
+[1028]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.java
+[1030_t]:    https://leetcode.com/problems/Next-Greater-Node-In-Linked-List/
+[1030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1030.java
+[1031_t]:    https://leetcode.com/problems/Number-of-Enclaves/
+[1031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1031.java
