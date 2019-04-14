@@ -13,11 +13,13 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1027|[Longest Arithmetic Sequence][1027_t]|\[ [DP][1027] \]|
 |1026|[Maximum Difference Between Node and Ancestor][1026_t]|\[ [DFS][1026] \]|
 |1025|[Divisor Game][1025_t]|\[ [Game Theory][1025] \]|
-|1023|[Binary String With Substrings Representing 1 To N][1023_t]|\[ [Brute-force][1023] \]|
+|1024|[Video Stitching][1024_t]|\[ [DP][1024] \]|
+|1023|[Camelcase Matching][1023_t]|\[ [Brute-force][1024] \]|
 |1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
 |1020|[Partition Array Into Three Parts With Equal Sum][1020_t]|\[ [Brute-force][1020] \]|
 |1017|[Convert to Base -2][1017_t]|\[ [Math][1017] \]|
+|1016|[Binary String With Substrings Representing 1 To N][1016_t]|\[ [Brute-force][1016] \]|
 |1015|[Numbers With Repeated Digits][1015_t]|\[ [Backtracking][1015] \| [Digit+Mask DP][1015_1]\]|
 |1014|[Capacity To Ship Packages Within D Days][1014_t]|\[ [Bisect][1014] \]|
 |1013|[Pairs of Songs With Total Durations Divisible by 60][1013_t]|\[ [Counting][1013] \]|
@@ -1909,8 +1911,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1022.java
 [1021_t]:    https://leetcode.com/problems/Best-Sightseeing-Pair/
 [1021]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1021.java
-[1023_t]:    https://leetcode.com/problems/Binary-String-With-Substrings-Representing-1-To-N/
-[1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
+[1016_t]:    https://leetcode.com/problems/Binary-String-With-Substrings-Representing-1-To-N/
+[1016]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
 [1029_t]:    https://leetcode.com/problems/Binary-Prefix-Divisible-By-5/
 [1029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1029.java
 [1017_t]:    https://leetcode.com/problems/Convert-to-Base-2/
@@ -1927,3 +1929,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1027]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1027.py
 [1028_t]:    https://leetcode.com/problems/Recover-a-Tree-From-Preorder-Traversal/
 [1028]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.py
+[1024_t]:    https://leetcode.com/problems/Video-Stitching/
+[1024]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1024.py
+[1023_t]:    https://leetcode.com/problems/Camelcase-Matching/
+[1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.py
