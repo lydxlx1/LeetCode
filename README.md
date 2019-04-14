@@ -9,12 +9,15 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1031|[Number of Enclaves][1031_t]|\[ [DFS][1031] \]|
 |1030|[Next Greater Node In Linked List][1030_t]|\[ [Greedy + TreeMap][1030] \]|
 |1029|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
-|1028|[Convert to Base -2][1028_t]|\[ [Math][1028] \]|
+|1028|[Recover a Tree From Preorder Traversal][1028_t]|\[ [Stack][1028] \]|
+|1027|[Longest Arithmetic Sequence][1027_t]|\[ [DP][1027] \]|
+|1026|[Maximum Difference Between Node and Ancestor][1026_t]|\[ [DFS][1026] \]|
 |1025|[Divisor Game][1025_t]|\[ [Game Theory][1025] \]|
 |1023|[Binary String With Substrings Representing 1 To N][1023_t]|\[ [Brute-force][1023] \]|
 |1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
 |1020|[Partition Array Into Three Parts With Equal Sum][1020_t]|\[ [Brute-force][1020] \]|
+|1017|[Convert to Base -2][1017_t]|\[ [Math][1017] \]|
 |1015|[Numbers With Repeated Digits][1015_t]|\[ [Backtracking][1015] \| [Digit+Mask DP][1015_1]\]|
 |1014|[Capacity To Ship Packages Within D Days][1014_t]|\[ [Bisect][1014] \]|
 |1013|[Pairs of Songs With Total Durations Divisible by 60][1013_t]|\[ [Counting][1013] \]|
@@ -1910,11 +1913,17 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
 [1029_t]:    https://leetcode.com/problems/Binary-Prefix-Divisible-By-5/
 [1029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1029.java
-[1028_t]:    https://leetcode.com/problems/Convert-to-Base-2/
-[1028]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.java
+[1017_t]:    https://leetcode.com/problems/Convert-to-Base-2/
+[1017]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.java
 [1030_t]:    https://leetcode.com/problems/Next-Greater-Node-In-Linked-List/
 [1030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1030.java
 [1031_t]:    https://leetcode.com/problems/Number-of-Enclaves/
 [1031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1031.java
 [1025_t]:    https://leetcode.com/problems/divisor-game/
 [1025]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1025.java
+[1026_t]:    https://leetcode.com/problems/Maximum-Difference-Between-Node-and-Ancestor/
+[1026]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1026.java
+[1027_t]:    https://leetcode.com/problems/Longest-Arithmetic-Sequence/
+[1027]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1027.py
+[1028_t]:    https://leetcode.com/problems/Recover-a-Tree-From-Preorder-Traversal/
+[1028]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.py
