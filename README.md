@@ -8,7 +8,6 @@ I will keep updating the list and feel free to share any of your thoughts!
 |----|---|---|
 |1031|[Number of Enclaves][1031_t]|\[ [DFS][1031] \]|
 |1030|[Next Greater Node In Linked List][1030_t]|\[ [Greedy + TreeMap][1030] \]|
-|1029|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
 |1028|[Recover a Tree From Preorder Traversal][1028_t]|\[ [Stack][1028] \]|
 |1027|[Longest Arithmetic Sequence][1027_t]|\[ [DP][1027] \]|
 |1026|[Maximum Difference Between Node and Ancestor][1026_t]|\[ [DFS][1026] \]|
@@ -18,12 +17,14 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
 |1020|[Partition Array Into Three Parts With Equal Sum][1020_t]|\[ [Brute-force][1020] \]|
+|1018|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
 |1017|[Convert to Base -2][1017_t]|\[ [Math][1017] \]|
 |1016|[Binary String With Substrings Representing 1 To N][1016_t]|\[ [Brute-force][1016] \]|
-|1015|[Numbers With Repeated Digits][1015_t]|\[ [Backtracking][1015] \| [Digit+Mask DP][1015_1]\]|
+|1015|[Smallest Integer Divisible by K][1015_t]|\[ [Math][1015] \]|
 |1014|[Capacity To Ship Packages Within D Days][1014_t]|\[ [Bisect][1014] \]|
+|1012|[Numbers With Repeated Digits][1012_t]|\[ [Backtracking][1012] \| [Digit+Mask DP][1012_1]\]|
 |1013|[Pairs of Songs With Total Durations Divisible by 60][1013_t]|\[ [Counting][1013] \]|
-|1012|[Complement of Base 10 Integer][1012_t]|\[ [Bit Manipulation][1012] \]|
+|1009|[Complement of Base 10 Integer][1009_t]|\[ [Bit Manipulation][1009] \]|
 |1008|[Construct Binary Search Tree from Preorder Traversal][1008_t]|\[ [DFS][1008] \]|
 |1007|[Minimum Domino Rotations For Equal Row][1007_t]|\[ [Brute-force][1007] \]|
 |1006|[Clumsy Factorial][1006_t]|\[ [Stack][1006] \]|
@@ -1896,15 +1897,15 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1007.java
 [1008_t]:    https://leetcode.com/problems/Construct-Binary-Search-Tree-from-Preorder-Traversal/
 [1008]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1008.py
-[1012_t]:    https://leetcode.com/problems/Complement-of-Base-10-Integer/
-[1012]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1012.java
+[1009_t]:    https://leetcode.com/problems/Complement-of-Base-10-Integer/
+[1009]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1012.java
 [1013_t]:    https://leetcode.com/problems/Pairs-of-Songs-With-Total-Durations-Divisible-by-60/
 [1013]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1013.java
 [1014_t]:    https://leetcode.com/problems/Capacity-To-Ship-Packages-Within-D-Days/
 [1014]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1014.java
-[1015_t]:    https://leetcode.com/problems/Numbers-With-Repeated-Digits/
-[1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.java
-[1015_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
+[1012_t]:    https://leetcode.com/problems/Numbers-With-Repeated-Digits/
+[1012]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1012.java
+[1012_1]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1012.py
 [1020_t]:    https://leetcode.com/problems/Partition-Array-Into-Three-Parts-With-Equal-Sum/
 [1020]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1020.java
 [1022_t]:    https://leetcode.com/problems/Smallest-Integer-Divisible-by-K/
@@ -1912,11 +1913,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1021_t]:    https://leetcode.com/problems/Best-Sightseeing-Pair/
 [1021]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1021.java
 [1016_t]:    https://leetcode.com/problems/Binary-String-With-Substrings-Representing-1-To-N/
-[1016]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.java
-[1029_t]:    https://leetcode.com/problems/Binary-Prefix-Divisible-By-5/
-[1029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1029.java
+[1016]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1016.java
+[1018_t]:    https://leetcode.com/problems/Binary-Prefix-Divisible-By-5/
+[1018]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1018.java
 [1017_t]:    https://leetcode.com/problems/Convert-to-Base-2/
-[1017]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1028.java
+[1017]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1017.java
 [1030_t]:    https://leetcode.com/problems/Next-Greater-Node-In-Linked-List/
 [1030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1030.java
 [1031_t]:    https://leetcode.com/problems/Number-of-Enclaves/
@@ -1933,3 +1934,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1024]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1024.py
 [1023_t]:    https://leetcode.com/problems/Camelcase-Matching/
 [1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.py
+[1015_t]:    https://leetcode.com/problems/Smallest-Integer-Divisible-by-K/
+[1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
