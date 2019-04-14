@@ -2,11 +2,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * LeetCode 1029 - Binary Prefix Divisible By 5
+ * LeetCode 1018 - Binary Prefix Divisible By 5
  *
  * Math
  */
-public class _1029 {
+public class _1018 {
 
     public List<Boolean> prefixesDivBy5(int[] A) {
         List<Boolean> res = new ArrayList<>(A.length);

@@ -10,6 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1030|[Next Greater Node In Linked List][1030_t]|\[ [Greedy + TreeMap][1030] \]|
 |1029|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
 |1028|[Convert to Base -2][1028_t]|\[ [Math][1028] \]|
+|1025|[Divisor Game][1025_t]|\[ [Game Theory][1025] \]|
 |1023|[Binary String With Substrings Representing 1 To N][1023_t]|\[ [Brute-force][1023] \]|
 |1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
@@ -1915,3 +1916,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1030.java
 [1031_t]:    https://leetcode.com/problems/Number-of-Enclaves/
 [1031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1031.java
+[1025_t]:    https://leetcode.com/problems/divisor-game/
+[1025]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1025.java

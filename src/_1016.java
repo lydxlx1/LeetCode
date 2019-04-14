@@ -2,12 +2,12 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * LeetCode 1023 -  Binary String With Substrings Representing 1 To N
+ * LeetCode 1016 -  Binary String With Substrings Representing 1 To N
  *
  * Brute-force
  * Just need to enumerate every substring of S and compute the binary number using a rolling-sum fashion.
  */
-public class _1023 {
+public class _1016 {
 
     public boolean queryString(String S, int N) {
         Set<Integer> visited = new HashSet<>();

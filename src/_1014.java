@@ -1,37 +1,22 @@
 /**
- * LeetCode 1014 - Capacity To Ship Packages Within D Days
+ * LeetCode 1014 - Smallest Integer Divisible by K
  *
- * Bisect on the final answer
+ * Math
  */
 public class _1014 {
 
-    public int shipWithinDays(int[] weights, int D) {
-        int left = 0, right = 1 << 29;
-        while (left + 1 < right) {
-            int mid = (left + right) / 2;
-            if (isok(weights, D, mid)) {
-                right = mid;
-            } else {
-                left = mid;
+    public int smallestRepunitDivByK(int K) {
+        int cnt = 1, g = 1 % K;
+        boolean[] visited = new boolean[K];
+        while (g != 0) {
+            cnt++;
+            visited[g] = true;
+            g = (g * 10 + 1) % K;
+            if (visited[g]) {
+                return -1;
             }
         }
-        return right;
-    }
-
-    boolean isok(int[] weights, int D, int limit) {
-        int free = 0;
-        for (int i = 0; i < weights.length && D >= 0; i++) {
-            if (weights[i] > limit) {
-                return false;
-            }
-            if (free >= weights[i]) {
-                free -= weights[i];
-            } else {
-                D--;
-                free = limit - weights[i];
-            }
-        }
-        return D >= 0;
+        return cnt;
     }
 }
 

@@ -1,10 +1,10 @@
 /**
- * LeetCode 1028 - Convert to Base -2
+ * LeetCode 1017 - Convert to Base -2
  *
  * Math
  * Be careful when N == 0
  */
-public class _1028 {
+public class _1017 {
 
     public String baseNeg2(int N) {
         if (N == 0) {
