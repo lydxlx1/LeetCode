@@ -14,7 +14,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1025|[Divisor Game][1025_t]|\[ [Game Theory][1025] \]|
 |1024|[Video Stitching][1024_t]|\[ [DP][1024] \]|
 |1023|[Camelcase Matching][1023_t]|\[ [Brute-force][1024] \]|
-|1022|[Smallest Integer Divisible by K][1022_t]|\[ [Math][1022] \]|
+|1022|[Sum of Root To Leaf Binary Numbers][1022_t]|\[ [DFS][1022] \]|
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
 |1020|[Partition Array Into Three Parts With Equal Sum][1020_t]|\[ [Brute-force][1020] \]|
 |1018|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
@@ -1936,3 +1936,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1023.py
 [1015_t]:    https://leetcode.com/problems/Smallest-Integer-Divisible-by-K/
 [1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
+[1022_t]:    https://leetcode.com/problems/Sum-of-Root-To-Leaf-Binary-Numbers/
+[1022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1022.py
