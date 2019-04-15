@@ -8,7 +8,7 @@ import java.util.TreeMap;
  * Greedy + TreeMap
  * Note that the "smallest possible j" part can be solved by a linear scan from left to right
  */
-public class _1030 {
+public class _1019 {
 
     public int[] nextLargerNodes(ListNode head) {
         List<Integer> a = new ArrayList<>();
