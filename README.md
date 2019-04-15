@@ -16,7 +16,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1021|[Best Sightseeing Pair][1021_t]|\[ [Greedy][1021] \]|
 |1020|[Number of Enclaves][1020_t]|\[ [DFS][1020] \]|
 |1019|[Next Greater Node In Linked List][1019_t]|\[ [Greedy + TreeMap][1019] \]|
-|1018|[Binary Prefix Divisible By 5][1029_t]|\[ [Math][1029] \]|
+|1018|[Binary Prefix Divisible By 5][1018_t]|\[ [Math][1018] \]|
 |1017|[Convert to Base -2][1017_t]|\[ [Math][1017] \]|
 |1016|[Binary String With Substrings Representing 1 To N][1016_t]|\[ [Brute-force][1016] \]|
 |1015|[Smallest Integer Divisible by K][1015_t]|\[ [Math][1015] \]|
