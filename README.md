@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1032|[Stream of Characters][1032_t]|\[ [Trie][1032] \]|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays][1031_t]|\[ [Brute-force][1031] \]|
+|1030|[Matrix Cells in Distance Order][1030_t]|\[ [BFS][1030] \]|
+|1029|[Two City Scheduling][1029_t]|\[ [DP][1029] \]|
 |1028|[Recover a Tree From Preorder Traversal][1028_t]|\[ [Stack][1028] \]|
 |1027|[Longest Arithmetic Sequence][1027_t]|\[ [DP][1027] \]|
 |1026|[Maximum Difference Between Node and Ancestor][1026_t]|\[ [DFS][1026] \]|
@@ -1938,3 +1942,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1015.py
 [1022_t]:    https://leetcode.com/problems/Sum-of-Root-To-Leaf-Binary-Numbers/
 [1022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1022.py
+[1030_t]:    https://leetcode.com/problems/Matrix-Cells-in-Distance-Order/
+[1030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1030.py
+[1029_t]:    https://leetcode.com/problems/Two-City-Scheduling/
+[1029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1029.py
+[1031_t]:    https://leetcode.com/problems/Maximum-Sum-of-Two-Non-Overlapping-Subarrays/
+[1031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1031.java
+[1032_t]:    https://leetcode.com/problems/Stream-of-Characters/
+[1032]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1032.java
