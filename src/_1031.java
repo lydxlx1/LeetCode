@@ -25,11 +25,4 @@ public class _1031 {
         }
         return ans;
     }
-
-    public static void main(String[] args) {
-        _1031 sol = new _1031();
-
-        System.out.println(sol.maxSumTwoNoOverlap(new int[]{0, 6, 5, 2, 2, 5, 1, 9, 4}, 1, 2));
-
-    }
 }
