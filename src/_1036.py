@@ -27,7 +27,7 @@ class Solution:
         dy = [1, -1, 0, 0]
         blocked = {tuple(each) for each in blocked}
 
-        def is_block(i, j, source, target, visited):
+        def is_blocked(i, j, source, target, visited):
             if i < 0 or i >= 10 ** 6 or j < 0 or j >= 10 ** 6:
                 return True
             if (i, j) in blocked:
@@ -43,12 +43,12 @@ class Solution:
             for k in range(4):
                 x = i + dx[k]
                 y = j + dy[k]
-                if not is_block(x, y, source, target, visited):
+                if not is_blocked(x, y, source, target, visited):
                     return False
             return True
 
-        if is_block(*source, source, target, set()):
+        if is_blocked(*source, source, target, set()):
             return False
-        if is_block(*target, source, target, set()):
+        if is_blocked(*target, source, target, set()):
             return False
         return True
