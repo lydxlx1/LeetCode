@@ -6,7 +6,7 @@ DFS
 We only need to check whether source is completely contained inside a closed blocker region so it is isolated
 from the target, or vice versa.
 
-Although the maze is quite big, there are only at most 200 blockers. Therefore, we could just perform a DFS
+Although the maze is quite big, there are at most 200 blockers. Therefore, we could just perform a DFS
 on a grid that is slightly bigger than 400 * 400 and centered at source.
 
 If we could reach target from source inside the grid, then there is clearly a solution.
