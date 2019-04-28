@@ -26,6 +26,8 @@ class Solution:
         dx = [0, 0, 1, -1]
         dy = [1, -1, 0, 0]
         blocked = {tuple(each) for each in blocked}
+        source = tuple(source)
+        target = tuple(target)
 
         def is_blocked(i, j, source, target, visited):
             if i < 0 or i >= 10 ** 6 or j < 0 or j >= 10 ** 6:
