@@ -14,7 +14,7 @@ If we could reach the boundary of this grid, that means source is not blocked th
 Otherwise, source is blocked and isolated from target, so there is no solution.
 
 We then do the same thing from target.
-If both source and target are not blocked and isolated from each other, then it is not hard to construct
+If neither source nor target is blocked and isolated from each other, then it is not hard to construct
 a path as the maze is sufficient large.
 """
 
