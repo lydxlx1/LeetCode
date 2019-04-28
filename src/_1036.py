@@ -49,6 +49,6 @@ class Solution:
 
         if is_blocked(*source, source, target, set()):
             return False
-        if is_blocked(*target, source, target, set()):
+        if is_blocked(*target, target, source, set()):
             return False
         return True
