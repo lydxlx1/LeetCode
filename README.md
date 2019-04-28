@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1036|[Escape a Large Maze][1036_t]|\[ [DFS][1036] \]|
+|1035|[Uncrossed Lines][1035_t]|\[ [DP][1035] \]|
+|1034|[Coloring a Border][1034_t]|\[ [DFS][1034] \]|
+|1033|[Moving Stones Until Consecutive][1033_t]|\[ [Math][1033] \]|
 |1032|[Stream of Characters][1032_t]|\[ [Trie][1032] \]|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays][1031_t]|\[ [Brute-force][1031] \]|
 |1030|[Matrix Cells in Distance Order][1030_t]|\[ [BFS][1030] \]|
@@ -1950,3 +1954,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1031.java
 [1032_t]:    https://leetcode.com/problems/Stream-of-Characters/
 [1032]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1032.java
+[1033_t]:    https://leetcode.com/problems/Moving-Stones-Until-Consecutive/
+[1033]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1033.java
+[1034_t]:    https://leetcode.com/problems/coloring-a-border/
+[1034]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1034.java
+[1035_t]:    https://leetcode.com/problems/Uncrossed-Lines/
+[1035]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1035.py
+[1036_t]:    https://leetcode.com/problems/Escape-a-Large-Maze/
+[1036]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1036.py
