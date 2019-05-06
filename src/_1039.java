@@ -30,11 +30,4 @@ public class _1039 {
         memo[i][j] = ans;
         return ans;
     }
-
-    public static void main(String[] args) {
-        _1039 sol = new _1039();
-
-        System.out.println(sol.minScoreTriangulation(new int[]{3, 7, 4, 5}));
-        System.out.println(sol.minScoreTriangulation(new int[]{1, 3, 1, 4, 1, 5}));
-    }
 }
