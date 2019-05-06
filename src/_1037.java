@@ -1,7 +1,7 @@
 /**
  * LeetCode 1037 - Valid Boomerang
  *
- * Cross-produce
+ * Cross-product
  */
 public class _1037 {
 
