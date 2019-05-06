@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1040|[Moving Stones Until Consecutive II][1040_t]|\[ [Math][1040] \]|
+|1039|[Minimum Score Triangulation of Polygon][1039_t]|\[ [DP][1039] \]|
+|1038|[Binary Search Tree to Greater Sum Tree][1038_t]|\[ [In-order Traversal][1038] \]|
+|1037|[Valid Boomerang][1037_t]|\[ [Cross Produce][1037] \]|
 |1036|[Escape a Large Maze][1036_t]|\[ [DFS][1036] \]|
 |1035|[Uncrossed Lines][1035_t]|\[ [DP][1035] \]|
 |1034|[Coloring a Border][1034_t]|\[ [DFS][1034] \]|
@@ -1962,3 +1966,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1035]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1035.py
 [1036_t]:    https://leetcode.com/problems/Escape-a-Large-Maze/
 [1036]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1036.py
+[1037_t]:    https://leetcode.com/problems/valid-boomerang/
+[1037]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1037.java
+[1038_t]:    https://leetcode.com/problems/Binary-Search-Tree-to-Greater-Sum-Tree/
+[1038]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1038.java
+[1039_t]:    https://leetcode.com/problems/Minimum-Score-Triangulation-of-Polygon/
+[1039]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1039.java
+[1040_t]:    https://leetcode.com/problems/Moving-Stones-Until-Consecutive-II/
+[1040]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1040.java
