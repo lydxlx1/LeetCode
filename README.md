@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1044|[Longest Duplicate Substring][1044_t]|\[ [Bisection + Sliding Window + Rolling Hash][1044] \]|
+|1043|[Partition Array for Maximum Sum][1043_t]|\[ [DP][1043] \]|
+|1042|[Flower Planting With No Adjacent][1042_t]|\[ [Pigeonhole Principle][1042] \]|
+|1041|[Robot Bounded In Circle][1041_t]|\[ [Solution][1041] \]|
 |1040|[Moving Stones Until Consecutive II][1040_t]|\[ [Math][1040] \]|
 |1039|[Minimum Score Triangulation of Polygon][1039_t]|\[ [DP][1039] \]|
 |1038|[Binary Search Tree to Greater Sum Tree][1038_t]|\[ [In-order Traversal][1038] \]|
@@ -1974,3 +1978,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1039]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1039.java
 [1040_t]:    https://leetcode.com/problems/Moving-Stones-Until-Consecutive-II/
 [1040]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1040.java
+[1041_t]:    https://leetcode.com/problems/Robot-Bounded-In-Circle/
+[1041]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1041.py
+[1042_t]:    https://leetcode.com/problems/Flower-Planting-With-No-Adjacent/
+[1042]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1042.java
+[1043_t]:    https://leetcode.com/problems/Partition-Array-for-Maximum-Sum/
+[1043]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1043.java
+[1044_t]:    https://leetcode.com/problems/Longest-Duplicate-Substring/
+[1044]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1044.java
