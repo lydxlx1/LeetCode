@@ -132,9 +132,6 @@ import java.util.stream.IntStream;
  *           / \
  *          G   E
  *
- *    As two groups both have only one element left, we can now make a terminating step.
- *
- *
  *    We are DONE!
  *    One can try to expand the tree and verify this indeed matches the given partition.
  */
