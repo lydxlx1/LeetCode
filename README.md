@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1049|[Last Stone Weight II][1049_t]|\[ [DP][1049] \]|
+|1048|[Longest String Chain][1048_t]|\[ [DP][1048] \]|
+|1047|[Remove All Adjacent Duplicates In String][1047_t]|\[ [Brute-force][1047] \]|
+|1046|[Last Stone Weight][1046_t]|\[ [Heap][1046] \]|
 |1044|[Longest Duplicate Substring][1044_t]|\[ [Bisection + Sliding Window + Rolling Hash][1044] \]|
 |1043|[Partition Array for Maximum Sum][1043_t]|\[ [DP][1043] \]|
 |1042|[Flower Planting With No Adjacent][1042_t]|\[ [Pigeonhole Principle][1042] \]|
@@ -1986,3 +1990,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1043]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1043.java
 [1044_t]:    https://leetcode.com/problems/Longest-Duplicate-Substring/
 [1044]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1044.java
+[1046_t]:    https://leetcode.com/problems/Last-Stone-Weight/
+[1046]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1046.java
+[1047_t]:    https://leetcode.com/problems/Remove-All-Adjacent-Duplicates-In-String/
+[1047]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1047.java
+[1048_t]:    https://leetcode.com/problems/Longest-String-Chain/
+[1048]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1048.java
+[1049_t]:    https://leetcode.com/problems/Last-Stone-Weight-II/
+[1049]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1049.java
