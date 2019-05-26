@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |1054|[Distant Barcodes][1054_t]|\[ [Distant Barcodes][1054] \]|
+|1053|[Previous Permutation With One Swap][1053_t]|\[ [Math][1053] \]|
 |1052|[Grumpy Bookstore Owner][1052_t]|\[ [Sliding Window][1052] \]|
 |1051|[Height Checker][1051_t]|\[ [Sorting][1051] \]|
 |1049|[Last Stone Weight II][1049_t]|\[ [DP][1049] \]|
@@ -2007,3 +2008,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1052]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1052.java
 [1054_t]:    https://leetcode.com/problems/Distant-Barcodes/
 [1054]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1054.java
+[1053_t]:    https://leetcode.com/problems/Previous-Permutation-With-One-Swap/
+[1053]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1053.java
