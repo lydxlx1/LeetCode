@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1054|[Distant Barcodes][1054_t]|\[ [Distant Barcodes][1054] \]|
+|1052|[Grumpy Bookstore Owner][1052_t]|\[ [Sliding Window][1052] \]|
+|1051|[Height Checker][1051_t]|\[ [Sorting][1051] \]|
 |1049|[Last Stone Weight II][1049_t]|\[ [DP][1049] \]|
 |1048|[Longest String Chain][1048_t]|\[ [DP][1048] \]|
 |1047|[Remove All Adjacent Duplicates In String][1047_t]|\[ [Brute-force][1047] \]|
@@ -1998,3 +2001,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1048]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1048.java
 [1049_t]:    https://leetcode.com/problems/Last-Stone-Weight-II/
 [1049]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1049.java
+[1051_t]:    https://leetcode.com/problems/Height-Checker/
+[1051]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1051.java
+[1052_t]:    https://leetcode.com/problems/Grumpy-Bookstore-Owner/
+[1052]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1052.java
+[1054_t]:    https://leetcode.com/problems/Distant-Barcodes/
+[1054]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1054.java
