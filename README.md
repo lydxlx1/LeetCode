@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|1074|[Number of Submatrices That Sum to Target][1074_t]|\[ [Solution][1074] \]|
+|1073|[Adding Two Negabinary Numbers][1073_t]|\[ [Solution][1073] \]|
+|1072|[Flip Columns For Maximum Number of Equal Rows][1072_t]|\[ [Bitmask][1072] \]|
+|1071|[Greatest Common Divisor of Strings][1071_t]|\[ [Solution][1071] \]|
 |1054|[Distant Barcodes][1054_t]|\[ [Distant Barcodes][1054] \]|
 |1053|[Previous Permutation With One Swap][1053_t]|\[ [Math][1053] \]|
 |1052|[Grumpy Bookstore Owner][1052_t]|\[ [Sliding Window][1052] \]|
@@ -2010,3 +2014,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1054]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1054.java
 [1053_t]:    https://leetcode.com/problems/Previous-Permutation-With-One-Swap/
 [1053]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1053.java
+[1071_t]:    https://leetcode.com/problems/Greatest-Common-Divisor-of-Strings/
+[1071]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1071.java
+[1072_t]:    https://leetcode.com/problems/Flip-Columns-For-Maximum-Number-of-Equal-Rows/
+[1072]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1072.py
+[1073_t]:    https://leetcode.com/problems/Adding-Two-Negabinary-Numbers/
+[1073]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1073.java
+[1074_t]:    https://leetcode.com/problems/Number-of-Submatrices-That-Sum-to-Target/
+[1074]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1074.java
