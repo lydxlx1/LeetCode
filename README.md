@@ -10,6 +10,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 |1073|[Adding Two Negabinary Numbers][1073_t]|\[ [Solution][1073] \]|
 |1072|[Flip Columns For Maximum Number of Equal Rows][1072_t]|\[ [Bitmask][1072] \]|
 |1071|[Greatest Common Divisor of Strings][1071_t]|\[ [Solution][1071] \]|
+|1066|[Campus Bikes II][1066_t]|\[ [Optimal Bipartite Graph Matching][1066] \]|
+|1065|[Index Pairs of a String][1065_t]|\[ [Trie][1065] \]|
+|1064|[Fixed Point][1064_t]|\[ [Solution][1064] \]|
 |1054|[Distant Barcodes][1054_t]|\[ [Distant Barcodes][1054] \]|
 |1053|[Previous Permutation With One Swap][1053_t]|\[ [Math][1053] \]|
 |1052|[Grumpy Bookstore Owner][1052_t]|\[ [Sliding Window][1052] \]|
@@ -2022,3 +2025,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1073]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1073.java
 [1074_t]:    https://leetcode.com/problems/Number-of-Submatrices-That-Sum-to-Target/
 [1074]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1074.java
+[1064_t]:    https://leetcode.com/problems/fixed-point/
+[1064]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1064.java
+[1065_t]:    https://leetcode.com/problems/Index-Pairs-of-a-String/
+[1065]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1065.java
+[1066_t]:    https://leetcode.com/problems/Campus-Bikes-II/
+[1066]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1066.java
