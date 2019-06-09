@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Smallest Subsequence of Distinct Characters][lc0003_t]|\[ [Greedy + Stack][lc0003] \]|
+||[Letter Tile Possibilities][lc0002_t]|\[ [Solution][lc0002] \]|
+||[Occurrences After Bigram][lc0001_t]|\[ [Solution][lc0001] \]|
 |1074|[Number of Submatrices That Sum to Target][1074_t]|\[ [Solution][1074] \]|
 |1073|[Adding Two Negabinary Numbers][1073_t]|\[ [Solution][1073] \]|
 |1072|[Flip Columns For Maximum Number of Equal Rows][1072_t]|\[ [Bitmask][1072] \]|
@@ -2031,3 +2034,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1065]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1065.java
 [1066_t]:    https://leetcode.com/problems/Campus-Bikes-II/
 [1066]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1066.java
+[lc0001_t]:    https://leetcode.com/problems/Occurrences-After-Bigram/
+[lc0001]:    https://github.com/lydxlx1/LeetCode/blob/master/src/OccurrencesAfterBigram.py
+[lc0002_t]:    https://leetcode.com/problems/Letter-Tile-Possibilities/
+[lc0002]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LetterTilePossibilities.py
+[lc0003_t]:    https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/
+[lc0003]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SmallestSubsequenceofDistinctCharacters.py
