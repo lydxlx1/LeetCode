@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Shortest Common Supersequence][lc0007_t]|\[ [DP + Backtracking][lc0007] \]|
+||[Shortest Path in Binary Matrix][lc0006_t]|\[ [BFS][lc0006] \]|
+||[Largest Values From Labels][lc0005_t]|\[ [Greedy][lc0005] \]|
+||[Duplicate Zeros][lc0004_t]|\[ [In-place Solution][lc0004] \]|
 ||[Smallest Subsequence of Distinct Characters][lc0003_t]|\[ [Greedy + Stack][lc0003] \]|
 ||[Letter Tile Possibilities][lc0002_t]|\[ [Solution][lc0002] \]|
 ||[Occurrences After Bigram][lc0001_t]|\[ [Solution][lc0001] \]|
@@ -2040,3 +2044,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0002]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LetterTilePossibilities.py
 [lc0003_t]:    https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/
 [lc0003]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SmallestSubsequenceofDistinctCharacters.py
+[lc0004_t]:    https://leetcode.com/problems/Duplicate-Zeros/
+[lc0004]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DuplicateZeros.java
+[lc0005_t]:    https://leetcode.com/problems/Largest-Values-From-Labels/
+[lc0005]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LargestValuesFromLabels.java
+[lc0006_t]:    https://leetcode.com/problems/Shortest-Path-In-Binary-Matrix/
+[lc0006]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestPathInBinaryMatrix.java
+[lc0007_t]:    https://leetcode.com/problems/Shortest-Common-Supersequence/
+[lc0007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestCommonSupersequence.java
