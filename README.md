@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Find in Mountain Array][lc0010_t]|\[ [Binary Search][lc0010] \]|
+||[Car Pooling][lc0009_t]|\[ [Sweep-line Algorithm][lc0009] \]|
+||[Statistics from a Large Sample][lc0008_t]|\[ [Solution][lc0008] \]|
 ||[Shortest Common Supersequence][lc0007_t]|\[ [DP + Backtracking][lc0007] \]|
 ||[Shortest Path in Binary Matrix][lc0006_t]|\[ [BFS][lc0006] \]|
 ||[Largest Values From Labels][lc0005_t]|\[ [Greedy][lc0005] \]|
@@ -2052,3 +2055,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0006]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestPathInBinaryMatrix.java
 [lc0007_t]:    https://leetcode.com/problems/Shortest-Common-Supersequence/
 [lc0007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestCommonSupersequence.java
+[lc0008_t]:    https://leetcode.com/problems/Statistics-from-a-Large-Sample/
+[lc0008]:    https://github.com/lydxlx1/LeetCode/blob/master/src/StatisticsFromALargeSample.java
+[lc0009_t]:    https://leetcode.com/problems/Car-Pooling/
+[lc0009]:    https://github.com/lydxlx1/LeetCode/blob/master/src/CarPooling.java
+[lc0010_t]:    https://leetcode.com/problems/Find-in-Mountain-Array/
+[lc0010]:    https://github.com/lydxlx1/LeetCode/blob/master/src/FindInMountainArray.java
+[lc0011_t]:    https://leetcode.com/problems/Brace-Expansion-II/
+[lc0011]:    https://github.com/lydxlx1/LeetCode/blob/master/src/BraceExpansionII.java
