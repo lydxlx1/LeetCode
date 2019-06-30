@@ -6,6 +6,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Parsing A Boolean Expression][lc0015_t]|\[ [DFS][lc0015] \]|
+||[Filling Bookcase Shelves][lc0014_t]|\[ [DP][lc0014] \]|
+||[Path In Zigzag Labelled Binary Tree][lc0013_t]|\[ [Math][lc0013] \]|
+||[Distribute Candies to People][lc0012_t]|\[ [Solution][lc0012] \]|
+||[Brace Expansion II][lc0011_t]|\[ [Stack][lc0011] \]|
 ||[Find in Mountain Array][lc0010_t]|\[ [Binary Search][lc0010] \]|
 ||[Car Pooling][lc0009_t]|\[ [Sweep-line Algorithm][lc0009] \]|
 ||[Statistics from a Large Sample][lc0008_t]|\[ [Solution][lc0008] \]|
@@ -2063,3 +2068,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0010]:    https://github.com/lydxlx1/LeetCode/blob/master/src/FindInMountainArray.java
 [lc0011_t]:    https://leetcode.com/problems/Brace-Expansion-II/
 [lc0011]:    https://github.com/lydxlx1/LeetCode/blob/master/src/BraceExpansionII.java
+[lc0012_t]:    https://leetcode.com/problems/Distribute-Candies-to-People/
+[lc0012]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DistributeCandiesToPeople.java
+[lc0013_t]:    https://leetcode.com/problems/Path-In-Zigzag-Labelled-Binary-Tree/
+[lc0013]:    https://github.com/lydxlx1/LeetCode/blob/master/src/PathInZigzagLabelledBinaryTree.java
+[lc0014_t]:    https://leetcode.com/problems/Filling-Bookcase-Shelves/
+[lc0014]:    https://github.com/lydxlx1/LeetCode/blob/master/src/FillingBookcaseShelves.java
+[lc0015_t]:    https://leetcode.com/problems/Parsing-A-Boolean-Expression/
+[lc0015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ParsingABooleanExpression.java

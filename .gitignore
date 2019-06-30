@@ -24,3 +24,5 @@ tests/SolutionTest.java
 tests/Solution*
 .DS_Store
 a.cpp
+in.txt
+out.txt
