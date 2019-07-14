@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Smallest Sufficient Team][lc0019_t]|\[ [DP][lc0019] \]|
+||[Longest Well-Performing Interval][lc0018_t]|\[ [BIT][lc0018] \]|
+||[Lowest Common Ancestor of Deepest Leaves][lc0017_t]|\[ [Tree-DP][lc0017] \]|
+||[Relative Sort Array][lc0016_t]|\[ [Sorting][lc0016] \]|
 ||[Parsing A Boolean Expression][lc0015_t]|\[ [DFS][lc0015] \]|
 ||[Filling Bookcase Shelves][lc0014_t]|\[ [DP][lc0014] \]|
 ||[Path In Zigzag Labelled Binary Tree][lc0013_t]|\[ [Math][lc0013] \]|
@@ -2076,3 +2080,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0014]:    https://github.com/lydxlx1/LeetCode/blob/master/src/FillingBookcaseShelves.java
 [lc0015_t]:    https://leetcode.com/problems/Parsing-A-Boolean-Expression/
 [lc0015]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ParsingABooleanExpression.java
+[lc0016_t]:    https://leetcode.com/problems/Relative-Sort-Array/
+[lc0016]:    https://github.com/lydxlx1/LeetCode/blob/master/src/RelativeSortArray.py
+[lc0017_t]:    https://leetcode.com/problems/Lowest-Common-Ancestor-of-Deepest-Leaves/
+[lc0017]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LowestCommonAncestorOfDeepestLeaves.py
+[lc0018_t]:    https://leetcode.com/problems/Longest-Well-Performing-Interval/
+[lc0018]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LongestWellPerformingInterval.java
+[lc0019_t]:    https://leetcode.com/problems/Smallest-Sufficient-Team/
+[lc0019]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SmallestSufficientTeam.java
