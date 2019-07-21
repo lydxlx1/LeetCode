@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Minimum Cost Tree From Leaf Values][lc0023_t]|\[ [DP][lc0023] \]|
+||[Shortest Path with Alternating Colors][lc0022_t]|\[ [SSSP][lc0022] \]|
+||[Number of Equivalent Domino Pairs][lc0021_t]|\[ [Counting][lc0021] \]|
+||[Maximum of Absolute Value Expression][lc0020_t]|\[ [Math][lc0020] \]|
 ||[Smallest Sufficient Team][lc0019_t]|\[ [DP][lc0019] \]|
 ||[Longest Well-Performing Interval][lc0018_t]|\[ [BIT][lc0018] \]|
 ||[Lowest Common Ancestor of Deepest Leaves][lc0017_t]|\[ [Tree-DP][lc0017] \]|
@@ -2088,3 +2092,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0018]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LongestWellPerformingInterval.java
 [lc0019_t]:    https://leetcode.com/problems/Smallest-Sufficient-Team/
 [lc0019]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SmallestSufficientTeam.java
+[lc0020_t]:    https://leetcode.com/problems/Maximum-of-Absolute-Value-Expression/
+[lc0020]:    https://github.com/lydxlx1/LeetCode/blob/master/src/MaximumOfAbsoluteValueExpression.java
+[lc0021_t]:    https://leetcode.com/problems/Number-of-Equivalent-Domino-Pairs/
+[lc0021]:    https://github.com/lydxlx1/LeetCode/blob/master/src/NumberOfEquivalentDominoPairs.java
+[lc0022_t]:    https://leetcode.com/problems/Shortest-Path-with-Alternating-Colors/
+[lc0022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestPathWithAlternatingColors.java
+[lc0023_t]:    https://leetcode.com/problems/Minimum-Cost-Tree-From-Leaf-Values/
+[lc0023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/MinimumCostTreeFromLeafValues.py
