@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Stone Game II][lc0027_t]|\[ [Game Theory + DP][lc0027] \]|
+||[Largest 1-Bordered Square][lc0026_t]|\[ [Counting][lc0026] \]|
+||[Alphabet Board Path][lc0025_t]|\[ [Solution][lc0025] \]|
+||[N-th Tribonacci Number][lc0024_t]|\[ [Math][lc0024] \]|
 ||[Minimum Cost Tree From Leaf Values][lc0023_t]|\[ [DP][lc0023] \]|
 ||[Shortest Path with Alternating Colors][lc0022_t]|\[ [SSSP][lc0022] \]|
 ||[Number of Equivalent Domino Pairs][lc0021_t]|\[ [Counting][lc0021] \]|
@@ -2100,3 +2104,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0022]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestPathWithAlternatingColors.java
 [lc0023_t]:    https://leetcode.com/problems/Minimum-Cost-Tree-From-Leaf-Values/
 [lc0023]:    https://github.com/lydxlx1/LeetCode/blob/master/src/MinimumCostTreeFromLeafValues.py
+[lc0024_t]:    https://leetcode.com/problems/N-th-Tribonacci-Number/
+[lc0024]:    https://github.com/lydxlx1/LeetCode/blob/master/src/NthTribonacciNumber.py
+[lc0025_t]:    https://leetcode.com/problems/Alphabet-Board-Path/
+[lc0025]:    https://github.com/lydxlx1/LeetCode/blob/master/src/AlphabetBoardPath.py
+[lc0026_t]:    https://leetcode.com/problems/Largest-1-Bordered-Square/
+[lc0026]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Largest1BorderedSquare.py
+[lc0027_t]:    https://leetcode.com/problems/Stone-Game-II/
+[lc0027]:    https://github.com/lydxlx1/LeetCode/blob/master/src/StoneGameII.py
