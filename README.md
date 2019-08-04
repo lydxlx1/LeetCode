@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Longest Chunked Palindrome Decomposition][lc0031_t]|\[ [DP][lc0031] \]|
+||[Snapshot Array][lc0030_t]|\[ [Binary Search][lc0030] \]|
+||[Binary Tree Coloring Game][lc0029_t]|\[ [Solution][lc0029] \]|
+||[Decrease Elements To Make Array Zigzag][lc0028_t]|\[ [Greedy][lc0028] \]|
 ||[Stone Game II][lc0027_t]|\[ [Game Theory + DP][lc0027] \]|
 ||[Largest 1-Bordered Square][lc0026_t]|\[ [Counting][lc0026] \]|
 ||[Alphabet Board Path][lc0025_t]|\[ [Solution][lc0025] \]|
@@ -2112,3 +2116,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0026]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Largest1BorderedSquare.py
 [lc0027_t]:    https://leetcode.com/problems/Stone-Game-II/
 [lc0027]:    https://github.com/lydxlx1/LeetCode/blob/master/src/StoneGameII.py
+[lc0028_t]:    https://leetcode.com/problems/Decrease-Elements-To-Make-Array-Zigzag/
+[lc0028]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DecreaseElementsToMakeArrayZigzag.py
+[lc0029_t]:    https://leetcode.com/problems/Binary-Tree-Coloring-Game/
+[lc0029]:    https://github.com/lydxlx1/LeetCode/blob/master/src/BinaryTreeColoringGame.py
+[lc0030_t]:    https://leetcode.com/problems/Snapshot-Array/
+[lc0030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SnapshotArray.py
+[lc0031_t]:    https://leetcode.com/problems/Longest-Chunked-Palindrome-Decomposition/
+[lc0031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LongestChunkedPalindromeDecomposition.py
