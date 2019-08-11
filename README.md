@@ -6,7 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
-||[Online Majority Element In Subarray][lc0035_t]|\[ [Greedy + Bisect][lc0035] \]|
+||[Online Majority Element In Subarray][lc0035_t]|\[ [Randomization + Bisect][lc0035] \]|
 ||[Swap For Longest Repeated Character Substring][lc0034_t]|\[ [Greedy][lc0034] \]|
 ||[Number of Dice Rolls With Target Sum][lc0033_t]|\[ [Counting][lc0033] \]|
 ||[Day of the Year][lc0032_t]|\[ [Math][lc0032] \]|
