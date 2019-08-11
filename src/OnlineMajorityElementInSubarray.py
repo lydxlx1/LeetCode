@@ -53,7 +53,3 @@ class MajorityChecker:
 # obj = MajorityChecker(arr)
 # param_1 = obj.query(left,right,threshold)
 
-checker = MajorityChecker([1, 1, 2, 2, 1, 1])
-print(checker.query(0, 5, 4));
-print(checker.query(0, 3, 3));
-print(checker.query(2, 3, 2));
