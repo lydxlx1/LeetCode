@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Online Majority Element In Subarray][lc0035_t]|\[ [Greedy + Bisect][lc0035] \]|
+||[Swap For Longest Repeated Character Substring][lc0034_t]|\[ [Greedy][lc0034] \]|
+||[Number of Dice Rolls With Target Sum][lc0033_t]|\[ [Counting][lc0033] \]|
+||[Day of the Year][lc0032_t]|\[ [Math][lc0032] \]|
 ||[Longest Chunked Palindrome Decomposition][lc0031_t]|\[ [DP][lc0031] \]|
 ||[Snapshot Array][lc0030_t]|\[ [Binary Search][lc0030] \]|
 ||[Binary Tree Coloring Game][lc0029_t]|\[ [Solution][lc0029] \]|
@@ -2124,3 +2128,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0030]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SnapshotArray.py
 [lc0031_t]:    https://leetcode.com/problems/Longest-Chunked-Palindrome-Decomposition/
 [lc0031]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LongestChunkedPalindromeDecomposition.py
+[lc0032_t]:    https://leetcode.com/problems/Day-of-the-Year/
+[lc0032]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DayOfTheYear.py
+[lc0033_t]:    https://leetcode.com/problems/Number-of-Dice-Rolls-With-Target-Sum/
+[lc0033]:    https://github.com/lydxlx1/LeetCode/blob/master/src/NumberOfDiceRollsWithTargetSum.py
+[lc0034_t]:    https://leetcode.com/problems/Swap-For-Longest-Repeated-Character-Substring/
+[lc0034]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SwapForLongestRepeatedCharacterSubstring.py
+[lc0035_t]:    https://leetcode.com/problems/Online-Majority-Element-In-Subarray/
+[lc0035]:    https://github.com/lydxlx1/LeetCode/blob/master/src/OnlineMajorityElementInSubarray.py
