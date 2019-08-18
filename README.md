@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Find Words That Can Be Formed by Characters][lc0039_t]|\[ [Solution][lc0039] \]|
+||[Maximum Level Sum of a Binary Tree][lc0038_t]|\[ [DFS][lc0038] \]|
+||[As Far from Land as Possible][lc0037_t]|\[ [BFS][lc0037] \]|
+||[Last Substring in Lexicographical Order][lc0036_t]|\[ [Suffix Array][lc0036] \]|
 ||[Online Majority Element In Subarray][lc0035_t]|\[ [Randomization + Bisect][lc0035] \]|
 ||[Swap For Longest Repeated Character Substring][lc0034_t]|\[ [Greedy][lc0034] \]|
 ||[Number of Dice Rolls With Target Sum][lc0033_t]|\[ [Counting][lc0033] \]|
@@ -2136,3 +2140,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0034]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SwapForLongestRepeatedCharacterSubstring.py
 [lc0035_t]:    https://leetcode.com/problems/Online-Majority-Element-In-Subarray/
 [lc0035]:    https://github.com/lydxlx1/LeetCode/blob/master/src/OnlineMajorityElementInSubarray.py
+[lc0036_t]:    https://leetcode.com/problems/Last-Substring-in-Lexicographical-Order/
+[lc0036]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LastSubstringInLexicographicalOrder.java
+[lc0037_t]:    https://leetcode.com/problems/As-Far-from-Land-as-Possible/
+[lc0037]:    https://github.com/lydxlx1/LeetCode/blob/master/src/AsFarFromLandAsPossible.py
+[lc0038_t]:    https://leetcode.com/problems/Maximum-Level-Sum-of-a-Binary-Tree/
+[lc0038]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Maximum_Level_Sum_of_a_Binary_Tree.py
+[lc0039_t]:    https://leetcode.com/problems/Find-Words-That-Can-Be-Formed-by-Characters/
+[lc0039]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Find_Words_That_Can_Be_Formed_by_Characters.py
