@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Invalid Transactions][lc0043_t]|\[ [Brute-force][lc0043] \]|
+||[Compare Strings by Frequency of the Smallest Character][lc0042_t]|\[ [Binary Search][lc0042] \]|
+||[Remove Zero Sum Consecutive Nodes from Linked List][lc0041_t]|\[ [Prefix Sum][lc0041] \]|
+||[Dinner Plate Stacks][lc0040_t]|\[ [Stack + TreeSet][lc0040] \]|
 ||[Find Words That Can Be Formed by Characters][lc0039_t]|\[ [Solution][lc0039] \]|
 ||[Maximum Level Sum of a Binary Tree][lc0038_t]|\[ [DFS][lc0038] \]|
 ||[As Far from Land as Possible][lc0037_t]|\[ [BFS][lc0037] \]|
@@ -2148,3 +2152,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0038]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Maximum_Level_Sum_of_a_Binary_Tree.py
 [lc0039_t]:    https://leetcode.com/problems/Find-Words-That-Can-Be-Formed-by-Characters/
 [lc0039]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Find_Words_That_Can_Be_Formed_by_Characters.py
+[lc0040_t]:    https://leetcode.com/problems/Dinner-Plate-Stacks/
+[lc0040]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DinnerPlateStacks.java
+[lc0041_t]:    https://leetcode.com/problems/Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/
+[lc0041]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py
+[lc0042_t]:    https://leetcode.com/problems/Compare-Strings-by-Frequency-of-the-Smallest-Character/
+[lc0042]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Compare_Strings_by_Frequency_of_the_Smallest_Character.py
+[lc0043_t]:    https://leetcode.com/problems/Invalid-Transactions/
+[lc0043]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Invalid_Transactions.py
