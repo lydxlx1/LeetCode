@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Make Array Strictly Increasing][lc0051_t]|\[ [DP][lc0051] \]|
+||[Maximum Subarray Sum with One Deletion][lc0050_t]|\[ [DP][lc0050] \]|
 ||[Day of the Week][lc0049_t]|\[ [Solution][lc0049] \]|
 ||[Distance Between Bus Stops][lc0048_t]|\[ [Solution][lc0048] \]|
 ||[Prime Arrangements][lc0047_t]|\[ [Math][lc0047] \]|
