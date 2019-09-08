@@ -6,6 +6,8 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Day of the Week][lc0049_t]|\[ [Solution][lc0049] \]|
+||[Distance Between Bus Stops][lc0048_t]|\[ [Solution][lc0048] \]|
 ||[Prime Arrangements][lc0047_t]|\[ [Math][lc0047] \]|
 ||[Diet Plan Performance][lc0046_t]|\[ [Sliding Window][lc0046] \]|
 ||[Can Make Palindrome from Substring][lc0045_t]|\[ [Greedy][lc0045] \]|
@@ -2164,11 +2166,19 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0042]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Compare_Strings_by_Frequency_of_the_Smallest_Character.py
 [lc0043_t]:    https://leetcode.com/problems/Invalid-Transactions/
 [lc0043]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Invalid_Transactions.py
-[lc0044_t]:    https://leetcode.com/problems/Invalid-Transactions/Number-of-Valid-Words-for-Each-Puzzle/
+[lc0044_t]:    https://leetcode.com/problems/Number-of-Valid-Words-for-Each-Puzzle/
 [lc0044]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Number_of_Valid_Words_for_Each_Puzzle.py
-[lc0045_t]:    https://leetcode.com/problems/Invalid-Transactions/Can-Make-Palindrome-from-Substring/
+[lc0045_t]:    https://leetcode.com/problems/Can-Make-Palindrome-from-Substring/
 [lc0045]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Can_Make_Palindrome_from_Substring.py
-[lc0046_t]:    https://leetcode.com/problems/Invalid-Transactions/Diet-Plan-Performance/
+[lc0046_t]:    https://leetcode.com/problems/Diet-Plan-Performance/
 [lc0046]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Diet_Plan_Performance.py
-[lc0047_t]:    https://leetcode.com/problems/Invalid-Transactions/Prime-Arrangements/
+[lc0047_t]:    https://leetcode.com/problems/Prime-Arrangements/
 [lc0047]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Prime_Arrangements.py
+[lc0048_t]:    https://leetcode.com/problems/Distance-Between-Bus-Stops/
+[lc0048]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Distance_Between_Bus_Stops.py
+[lc0049_t]:    https://leetcode.com/problems/Day-of-the-Week/
+[lc0049]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Day_of_the_Week.py
+[lc0050_t]:    https://leetcode.com/problems/Maximum-Subarray-Sum-with-One-Deletion/
+[lc0050]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Maximum_Subarray_Sum_with_One_Deletion.py
+[lc0051_t]:    https://leetcode.com/problems/Make-Array-Strictly-Increasing/
+[lc0051]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Make_Array_Strictly_Increasing.py
