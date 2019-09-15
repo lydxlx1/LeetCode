@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Critical Connections in a Network][lc0055_t]|\[ [Find All Bridges via DFS][lc0055] \]|
+||[K-Concatenation Maximum Sum][lc0054_t]|\[ [DP + Prefix Sum][lc0054] \]|
+||[Reverse Substrings Between Each Pair of Parentheses][lc0053_t]|\[ [Stack][lc0053] \]|
+||[Maximum Number of Balloons][lc0052_t]|\[ [Solution][lc0052] \]|
 ||[Make Array Strictly Increasing][lc0051_t]|\[ [DP][lc0051] \]|
 ||[Maximum Subarray Sum with One Deletion][lc0050_t]|\[ [DP][lc0050] \]|
 ||[Day of the Week][lc0049_t]|\[ [Solution][lc0049] \]|
@@ -2184,3 +2188,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0050]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Maximum_Subarray_Sum_with_One_Deletion.py
 [lc0051_t]:    https://leetcode.com/problems/Make-Array-Strictly-Increasing/
 [lc0051]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Make_Array_Strictly_Increasing.py
+[lc0052_t]:    https://leetcode.com/problems/Maximum-Number-of-Balloons/
+[lc0052]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Maximum_Number_of_Balloons.py
+[lc0053_t]:    https://leetcode.com/problems/Reverse-Substrings-Between-Each-Pair-of-Parentheses/
+[lc0053]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Reverse_Substrings_Between_Each_Pair_of_Parentheses.py
+[lc0054_t]:    https://leetcode.com/problems/K-Concatenation-Maximum-Sum/
+[lc0054]:    https://github.com/lydxlx1/LeetCode/blob/master/src/K_Concatenation_Maximum_Sum.py
+[lc0055_t]:    https://leetcode.com/problems/Critical-Connections-in-a-Network/
+[lc0055]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Critical_Connections_in_a_Network.py
