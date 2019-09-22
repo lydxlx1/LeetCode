@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Smallest String With Swaps][lc0059_t]|\[ [Union-Find Set + Sorting][lc0059] \]|
+||[Ugly Number III][lc0058_t]|\[ [Bisection + Inclusion-Exclusion][lc0058] \]|
+||[Minimum Absolute Difference][lc0057_t]|\[ [Solution][lc0057] \]|
+||[Sort Items by Groups Respecting Dependencies][lc0056_t]|\[ [Topological Sort][lc0056] \]|
 ||[Critical Connections in a Network][lc0055_t]|\[ [Find All Bridges via DFS][lc0055] \]|
 ||[K-Concatenation Maximum Sum][lc0054_t]|\[ [DP + Prefix Sum][lc0054] \]|
 ||[Reverse Substrings Between Each Pair of Parentheses][lc0053_t]|\[ [Stack][lc0053] \]|
@@ -2196,3 +2200,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0054]:    https://github.com/lydxlx1/LeetCode/blob/master/src/K_Concatenation_Maximum_Sum.py
 [lc0055_t]:    https://leetcode.com/problems/Critical-Connections-in-a-Network/
 [lc0055]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Critical_Connections_in_a_Network.py
+[lc0056_t]:    https://leetcode.com/problems/Sort-Items-by-Groups-Respecting-Dependencies/
+[lc0056]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Sort_Items_by_Groups_Respecting_Dependencies.py
+[lc0057_t]:    https://leetcode.com/problems/Minimum-Absolute-Difference/
+[lc0057]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Minimum_Absolute_Difference.py
+[lc0058_t]:    https://leetcode.com/problems/Ugly-Number-III/
+[lc0058]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Ugly_Number_III.py
+[lc0059_t]:    https://leetcode.com/problems/Smallest-String-With-Swaps/
+[lc0059]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Smallest_String_With_Swaps.py
