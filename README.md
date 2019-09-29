@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Minimum Moves to Reach Target with Rotations][lc0063_t]|\[ [BFS][lc0063] \]|
+||[Remove All Adjacent Duplicates in String II][lc0062_t]|\[ [Stack][lc0062] \]|
+||[Get Equal Substrings Within Budget][lc0061_t]|\[ [Sliding Window][lc0061] \]|
+||[Unique Number of Occurrences][lc0060_t]|\[ [Solution][lc0060] \]|
 ||[Smallest String With Swaps][lc0059_t]|\[ [Union-Find Set + Sorting][lc0059] \]|
 ||[Ugly Number III][lc0058_t]|\[ [Bisection + Inclusion-Exclusion][lc0058] \]|
 ||[Minimum Absolute Difference][lc0057_t]|\[ [Solution][lc0057] \]|
@@ -2208,3 +2212,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0058]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Ugly_Number_III.py
 [lc0059_t]:    https://leetcode.com/problems/Smallest-String-With-Swaps/
 [lc0059]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Smallest_String_With_Swaps.py
+[lc0060_t]:    https://leetcode.com/problems/Unique-Number-of-Occurrences/
+[lc0060]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Unique_Number_of_Occurrences.py
+[lc0061_t]:    https://leetcode.com/problems/Get-Equal-Substrings-Within-Budget/
+[lc0061]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Get_Equal_Substrings_Within_Budget.py
+[lc0062_t]:    https://leetcode.com/problems/Remove-All-Adjacent-Duplicates-in-String-II/
+[lc0062]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Remove_All_Adjacent_Duplicates_in_String_II.py
+[lc0063_t]:    https://leetcode.com/problems/Minimum-Moves-to-Reach-Target-with-Rotations/
+[lc0063]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Minimum_Moves_to_Reach_Target_with_Rotations.py
