@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Path with Maximum Gold][lc0067_t]|\[ [Backtracking][lc0067] \]|
+||[Count Vowels Permutation][lc0066_t]|\[ [Counting][lc0066] \]|
+||[Longest Arithmetic Subsequence of Given Difference][lc0065_t]|\[ [DP][lc0065] \]|
+||[Play with Chips][lc0064_t]|\[ [Math][lc0064] \]|
 ||[Minimum Moves to Reach Target with Rotations][lc0063_t]|\[ [BFS][lc0063] \]|
 ||[Remove All Adjacent Duplicates in String II][lc0062_t]|\[ [Stack][lc0062] \]|
 ||[Get Equal Substrings Within Budget][lc0061_t]|\[ [Sliding Window][lc0061] \]|
@@ -2220,3 +2224,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0062]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Remove_All_Adjacent_Duplicates_in_String_II.py
 [lc0063_t]:    https://leetcode.com/problems/Minimum-Moves-to-Reach-Target-with-Rotations/
 [lc0063]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Minimum_Moves_to_Reach_Target_with_Rotations.py
+[lc0064_t]:    https://leetcode.com/problems/Play-with-Chips/
+[lc0064]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Play_with_Chips.py
+[lc0065_t]:    https://leetcode.com/problems/Longest-Arithmetic-Subsequence-of-Given-Difference/
+[lc0065]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Longest_Arithmetic_Subsequence_of_Given_Difference.py
+[lc0066_t]:    https://leetcode.com/problems/Count-Vowels-Permutation/
+[lc0066]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Count_Vowels_Permutation.py
+[lc0067_t]:    https://leetcode.com/problems/Path-with-Maximum-Gold/
+[lc0067]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Path_with_Maximum_Gold.py
