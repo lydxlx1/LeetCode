@@ -6,6 +6,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Count Negative Numbers in a Sorted Matrix][lc0068_t]|\[ [Young Tableau][lc0068] \]|
 ||[Path with Maximum Gold][lc0067_t]|\[ [Backtracking][lc0067] \]|
 ||[Count Vowels Permutation][lc0066_t]|\[ [Counting][lc0066] \]|
 ||[Longest Arithmetic Subsequence of Given Difference][lc0065_t]|\[ [DP][lc0065] \]|
