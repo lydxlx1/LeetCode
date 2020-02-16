@@ -2232,3 +2232,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0066]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Count_Vowels_Permutation.py
 [lc0067_t]:    https://leetcode.com/problems/Path-with-Maximum-Gold/
 [lc0067]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Path_with_Maximum_Gold.py
+[lc0068_t]:    https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+[lc0068]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Count Negative Numbers in a Sorted Matrix.py
