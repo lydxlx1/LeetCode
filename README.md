@@ -6,6 +6,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Construct Target Array With Multiple Sums][lc0071_t]|\[ [Backtracking][lc0071] \]|
+||[Maximum Number of Events That Can Be Attended][lc0070_t]|\[ [Greedy + Heap/BST][lc0070] \]|
+||[Product of the Last K Numbers][lc0069_t]|\[ [Compact Array][lc0069] \]|
 ||[Count Negative Numbers in a Sorted Matrix][lc0068_t]|\[ [Young Tableau][lc0068] \]|
 ||[Path with Maximum Gold][lc0067_t]|\[ [Backtracking][lc0067] \]|
 ||[Count Vowels Permutation][lc0066_t]|\[ [Counting][lc0066] \]|
@@ -2235,3 +2238,9 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0067]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Path_with_Maximum_Gold.py
 [lc0068_t]:    https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [lc0068]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Count-Negative-Numbers-in-a-Sorted-Matrix.py
+[lc0069_t]:    https://leetcode.com/problems/product-of-the-last-k-numbers/
+[lc0069]:    https://github.com/lydxlx1/LeetCode/blob/master/src/Product-of-the-Last-K-Numbers.py
+[lc0070_t]:    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+[lc0070]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-number-of-events-that-can-be-attended.py
+[lc0071_t]:    https://leetcode.com/problems/construct-target-array-with-multiple-sums/
+[lc0071]:    https://github.com/lydxlx1/LeetCode/blob/master/src/construct-target-array-with-multiple-sums.py
