@@ -10,14 +10,14 @@ class Solution:
         1. If the array contains only one element, then that's the answer.
         2. If the array contains zeros, then answer is at least zero. In addition, any subarray that contains a zero
            will result in a zero product. Therefore, we can split the array by zero and obtain a list of subarrays
-           that do not contain any zero. Then, we can recursively solve these subproblems and take their max products
-           and max with the zero product we initially get.
+           that do not contain any zeros. Then, we can recursively solve these subproblems and take their max products
+           and max with the zero product mentioned previously.
         3. Now, it suffices to assume that all elements in nums are integers with absolute value greater than 0. We
            then have two cases.
         3a. If there are even number of negative integers, then it is clear that the total array product will be
             positive and will be the largest one.
         3b. If there are odd number of negative integers and let's assume that the first and last negative integers
-            appear at index a and b, then the largest product must be either (nums[a + 1] * nums[a + 1] * ... * nums[n - 1])
+            appear at index a and b, where 0 <= a <= b < n, then the largest product must be either (nums[a + 1] * nums[a + 2] * ... * nums[n - 1])
             or (nums[0] * nums[1] * ... * nums[b - 1]).
 
             For convenience, instead of doing exactly what the above algorithm suggests, it suffices to comptue all the
@@ -85,7 +85,7 @@ class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         """Third attempt
 
-        Further simplify the code... But will use O(n) extra space.
+        Further simplify the code... But it will use O(n) extra space.
 
         Time: O(n)
         Space: O(n)
