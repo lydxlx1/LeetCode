@@ -81,6 +81,7 @@ class Solution:
                 suffix = 1
         return ans
 
+
     def maxProduct(self, nums: List[int]) -> int:
         """Third attempt
 
