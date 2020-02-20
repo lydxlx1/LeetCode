@@ -769,6 +769,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |157 |[Read N Characters Given Read4][157_t] |\[ [Reader][157] \]|
 |156 |[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|\[ [Post-order Traversal](https://github.com/lydxlx1/LeetCode/blob/master/src/_156.java) \]|
 |155 |[Min Stack](https://leetcode.com/problems/min-stack/)|\[ [More Memory, Shorter Code](https://github.com/lydxlx1/LeetCode/blob/master/src/_155.java) \| [As Little Memory as Possible](https://github.com/lydxlx1/LeetCode/blob/master/src/_155_1.java) \]|
+|152 |[Maximum Product Subarray][152_t]|\[ [Three Solutions][152] \]|
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|\[ [Java Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151.java) \| [C In-place Solution](https://github.com/lydxlx1/LeetCode/blob/master/src/_151_1.c) \]|
 |146 |[LRU Cache](https://leetcode.com/problems/lru-cache/)|\[ [Doubly Connected Linked List + Hash Table](https://github.com/lydxlx1/LeetCode/blob/master/src/_146.java) \]|
 |140 |[Word Break II](https://leetcode.com/problems/word-break-ii/)|\[ [DP + DFS](https://github.com/lydxlx1/LeetCode/blob/master/src/_140.java) \]|
@@ -2244,3 +2245,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0070]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-number-of-events-that-can-be-attended.py
 [lc0071_t]:    https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc0071]:    https://github.com/lydxlx1/LeetCode/blob/master/src/construct-target-array-with-multiple-sums.py
+[152_t]:    https://leetcode.com/problems/maximum-product-subarray/
+[152]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_152.py
