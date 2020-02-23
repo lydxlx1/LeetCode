@@ -14,8 +14,13 @@ considering the digits we have to discard to make the final number as large as p
 
 Sum up all the digits and we have three cases based on its modulo (by 3).
 1. mod = 0. This is a happy case, and we should just use up all the digits.
-2. mod = 1. We should either discard a digit (that is 1 mod 3) or discard two digits (that is 2 mod 3).
-3. mod = 2.
+2. mod = 1. We should either discard a digit (that is 1 mod 3) or discard two digits (that are both 2 mod 3).
+Prefer to discard fewer digits.
+3. mod = 2. We should either discard a digit (that is 2 mod 2) or discard two digits (that are both 1 mod 3).
+Again, prefer to discard fewer digits.
+
+In the second and third case, if we cannot find such digits, there's no answer and we output an empty string.
+
 
 Time: O(n log n), which can be optimized to O(n) using counting sort.
 Space: O(n)
