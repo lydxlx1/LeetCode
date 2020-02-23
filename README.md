@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Largest Multiple of Three][lc0075_t]|\[ [Math][lc0075] \]|
+||[Closest Divisors][lc0074_t]|\[ [Enumeration][lc0074] \]|
+||[Validate Binary Tree Nodes][lc0073_t]|\[ [DFS][lc0073] \]|
+||[Number of Days Between Two Dates][lc0072_t]|\[ [Datetime][lc0072] \]|
 ||[Construct Target Array With Multiple Sums][lc0071_t]|\[ [Backtracking][lc0071] \]|
 ||[Maximum Number of Events That Can Be Attended][lc0070_t]|\[ [Greedy + Heap/BST][lc0070] \]|
 ||[Product of the Last K Numbers][lc0069_t]|\[ [Compact Array][lc0069] \]|
@@ -2247,3 +2251,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0071]:    https://github.com/lydxlx1/LeetCode/blob/master/src/construct-target-array-with-multiple-sums.py
 [152_t]:    https://leetcode.com/problems/maximum-product-subarray/
 [152]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_152.py
+[lc0072_t]:    https://leetcode.com/problems/number-of-days-between-two-dates/
+[lc0072]:    https://github.com/lydxlx1/LeetCode/blob/master/src/number-of-days-between-two-dates.py
+[lc0073_t]:    https://leetcode.com/problems/validate-binary-tree-nodes/
+[lc0073]:    https://github.com/lydxlx1/LeetCode/blob/master/src/validate-binary-tree-nodes.py
+[lc0074_t]:    https://leetcode.com/problems/closest-divisors/
+[lc0074]:    https://github.com/lydxlx1/LeetCode/blob/master/src/closest-divisors.py
+[lc0075_t]:    https://leetcode.com/problems/largest-multiple-of-three/
+[lc0075]:    https://github.com/lydxlx1/LeetCode/blob/master/src/largest-multiple-of-three.py

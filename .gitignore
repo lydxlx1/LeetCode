@@ -1,8 +1,8 @@
 *.class
 
-# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 .mypy_cache/
+.vscode
 
 # Package Files #
 *.jar
