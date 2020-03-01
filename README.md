@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Minimum Cost to Make at Least One Valid Path in a Grid][lc0079_t]|\[ [SSSP][lc0079] \]|
+||[Linked List in Binary Tree][lc0078_t]|\[ [DFS][lc0078] \]|
+||[Rank Teams by Votes][lc0077_t]|\[ [Radix Sort][lc0077] \]|
+||[How Many Numbers Are Smaller Than the Current Number][lc0076_t]|\[ [Counting Sort][lc0076] \]|
 ||[Largest Multiple of Three][lc0075_t]|\[ [Math][lc0075] \]|
 ||[Closest Divisors][lc0074_t]|\[ [Enumeration][lc0074] \]|
 ||[Validate Binary Tree Nodes][lc0073_t]|\[ [DFS][lc0073] \]|
@@ -2259,3 +2263,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0074]:    https://github.com/lydxlx1/LeetCode/blob/master/src/closest-divisors.py
 [lc0075_t]:    https://leetcode.com/problems/largest-multiple-of-three/
 [lc0075]:    https://github.com/lydxlx1/LeetCode/blob/master/src/largest-multiple-of-three.py
+[lc0076_t]:    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[lc0076]:    https://github.com/lydxlx1/LeetCode/blob/master/src/how-many-numbers-are-smaller-than-the-current-number.py
+[lc0077_t]:    https://leetcode.com/contest/weekly-contest-178/problems/rank-teams-by-votes/
+[lc0077]:    https://github.com/lydxlx1/LeetCode/blob/master/src/rank-teams-by-votes.py
+[lc0078_t]:    https://leetcode.com/problems/linked-list-in-binary-tree/
+[lc0078]:    https://github.com/lydxlx1/LeetCode/blob/master/src/linked-list-in-binary-tree.py
+[lc0079_t]:    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+[lc0079]:    https://github.com/lydxlx1/LeetCode/blob/master/src/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py
