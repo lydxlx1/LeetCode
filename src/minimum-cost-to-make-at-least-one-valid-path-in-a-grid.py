@@ -5,18 +5,14 @@ Shortest Path
 Build the graph
 - For each grid cell, create four directed edges to its neighbors (if exist).
 - The weight of the edge is 0 if the edge direction matches with the number in cell, otherwise the weight is 1.
-  This means each cell will have exactly one outgoing edge with 0 weight, and two or three outgoing edges with weight equal to 1.o
+  This means each cell will have exactly one outgoing edge with 0 weight, and two or three outgoing edges with weight equal to 1.
 - Then, the length of the shortest path from top-left to bottom-right will be the answer.
-
-Correctness
 
 
 Time: O(mn log (mn)), which can be further optimized to O(mn).
       This is because weights of edges in this graph are either 0 or 1, so we can compute the shortest path using BFS with a Deque.
       Formally, we insert to the head of the queue if the edge weight is 0 and insert to the tail of the queue if weight is 1.
 Space: O(mn)
-
-
 """
 
 from sortedcontainers import SortedList
