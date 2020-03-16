@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Maximum Performance of a Team][lc0083_t]|\[ [Sorting + Heap][lc0083] \]|
+||[Balance a Binary Search Tree][lc0082_t]|\[ [In-order Traversal + Divide-and-Conquer][lc0082] \]|
+||[Design a Stack With Increment Operation][lc0081_t]|\[ [Lazy Increment][lc0081] \]|
+||[Lucky Numbers in a Matrix][lc0080_t]|\[ [Solution][lc0080] \]|
 ||[Minimum Cost to Make at Least One Valid Path in a Grid][lc0079_t]|\[ [SSSP][lc0079] \]|
 ||[Linked List in Binary Tree][lc0078_t]|\[ [DFS][lc0078] \]|
 ||[Rank Teams by Votes][lc0077_t]|\[ [Radix Sort][lc0077] \]|
@@ -2271,3 +2275,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0078]:    https://github.com/lydxlx1/LeetCode/blob/master/src/linked-list-in-binary-tree.py
 [lc0079_t]:    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 [lc0079]:    https://github.com/lydxlx1/LeetCode/blob/master/src/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py
+[lc0080_t]:    https://leetcode.com/contest/weekly-contest-180/problems/lucky-numbers-in-a-matrix/
+[lc0080]:    https://github.com/lydxlx1/LeetCode/blob/master/src/lucky-numbers-in-a-matrix.py
+[lc0081_t]:    https://leetcode.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/
+[lc0081]:    https://github.com/lydxlx1/LeetCode/blob/master/src/design-a-stack-with-increment-operation.py
+[lc0082_t]:    https://leetcode.com/contest/weekly-contest-180/problems/balance-a-binary-search-tree/
+[lc0082]:    https://github.com/lydxlx1/LeetCode/blob/master/src/balance-a-binary-search-tree.py
+[lc0083_t]:    https://leetcode.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/
+[lc0083]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-performance-of-a-team.py
