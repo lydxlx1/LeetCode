@@ -1,5 +1,6 @@
 # LeetCode
 Hello World
+Goodbye World
 
 Below is a summary of my solutions to the problems on [LeetCode](https://www.leetcode.com).
 The main idea of each problem can usually be found at the beginning of the corresponding source file.
