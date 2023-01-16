@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
+|2536|[Count the Number of Good Subarrays][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 ||[Maximum Performance of a Team][lc0083_t]|\[ [Sorting + Heap][lc0083] \]|
 ||[Balance a Binary Search Tree][lc0082_t]|\[ [In-order Traversal + Divide-and-Conquer][lc0082] \]|
 ||[Design a Stack With Increment Operation][lc0081_t]|\[ [Lazy Increment][lc0081] \]|
@@ -2287,3 +2288,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0083]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-performance-of-a-team.py
 [lc0084_t]:    https://leetcode.com/problems/count-the-number-of-good-subarrays/description/
 [lc0084]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2537%20Count%20the%20Number%20of%20Good%20Subarrays.cpp
+[lc0085_t]:    https://leetcode.com/problems/increment-submatrices-by-one/description/
+[lc0085]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2536%20Increment%20Submatrices%20by%20One.cpp
