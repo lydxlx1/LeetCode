@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 ||[Maximum Performance of a Team][lc0083_t]|\[ [Sorting + Heap][lc0083] \]|
 ||[Balance a Binary Search Tree][lc0082_t]|\[ [In-order Traversal + Divide-and-Conquer][lc0082] \]|
 ||[Design a Stack With Increment Operation][lc0081_t]|\[ [Lazy Increment][lc0081] \]|
@@ -2284,3 +2285,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0082]:    https://github.com/lydxlx1/LeetCode/blob/master/src/balance-a-binary-search-tree.py
 [lc0083_t]:    https://leetcode.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/
 [lc0083]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-performance-of-a-team.py
+[lc0084_t]:    https://leetcode.com/problems/count-the-number-of-good-subarrays/description/
+[lc0084]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2537 Count the Number of Good Subarrays.cpp/
