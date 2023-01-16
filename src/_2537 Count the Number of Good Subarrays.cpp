@@ -1,35 +1,34 @@
 /**
- * LeetCode 1071 - Greatest Common Divisor of Strings
+ * LeetCode 2537 - Count the Number of Good Subarrays
  *
- * O(n^1.5)- time solution as there can be at most O(n^0.5) factors.
+ * Sliding window approach
+ * O(n) time / space complexity
  */
-public class _1071 {
 
-    public String gcdOfStrings(String str1, String str2) {
-        for (int i = Math.min(str1.length(), str2.length()); i >= 1; i--) {
-            if (ok(str1, str2, i)) {
-                return str1.substring(0, i);
-            }
-        }
-        return "";
-    }
+class Solution {
+public:
+  long long countGood(vector<int> &nums, int k) {
+    long long ans = 0;
+    long long cur_good_pair = 0;
+    unordered_map<int, long long> counter;
 
-    boolean ok(String a, String b, int len) {
-        if (a.length() % len != 0
-                || b.length() % len != 0
-                || !a.substring(0, len).equals(b.substring(0, len))) {
-            return false;
-        }
-        for (int i = 0; i < a.length(); i++) {
-            if (a.charAt(i) != a.charAt(i % len)) {
-                return false;
-            }
-        }
-        for (int i = 0; i < b.length(); i++) {
-            if (b.charAt(i) != b.charAt(i % len)) {
-                return false;
-            }
-        }
-        return true;
+    // Enumerate each right boundary of the sliding window.
+    // Find the smallest window [left, right] to satisfy the "good" condition.
+    // Then, every subarray with left boundary no bigger than `left` will all satisfy the condition.
+    for (int right = 0, left = 0; right < nums.size(); right++) {
+      cur_good_pair += counter[nums[right]];
+      counter[nums[right]]++;
+
+      while (left <= right && cur_good_pair - (counter[nums[left]] - 1) >= k) {
+        counter[nums[left]]--;  // Do this step first to exclude the number itself
+        cur_good_pair -= counter[nums[left]];
+        left++;
+      }
+      if (cur_good_pair >= k) {
+        // [0, 1, ... left] are good left boundary candidates w.r.t. right
+        ans += left + 1;
+      }
     }
-}
+    return ans;
+  }
+};
