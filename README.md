@@ -8,7 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
-|2536|[Count the Number of Good Subarrays][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
+|2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 ||[Maximum Performance of a Team][lc0083_t]|\[ [Sorting + Heap][lc0083] \]|
 ||[Balance a Binary Search Tree][lc0082_t]|\[ [In-order Traversal + Divide-and-Conquer][lc0082] \]|
 ||[Design a Stack With Increment Operation][lc0081_t]|\[ [Lazy Increment][lc0081] \]|
