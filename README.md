@@ -2286,4 +2286,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0083_t]:    https://leetcode.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/
 [lc0083]:    https://github.com/lydxlx1/LeetCode/blob/master/src/maximum-performance-of-a-team.py
 [lc0084_t]:    https://leetcode.com/problems/count-the-number-of-good-subarrays/description/
-[lc0084]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2537 Count the Number of Good Subarrays.cpp/
+[lc0084]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2537%20Count%20the%20Number%20of%20Good%20Subarrays.cpp
