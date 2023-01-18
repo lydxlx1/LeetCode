@@ -27,7 +27,7 @@ public:
     }
 
     // Now, the actual value of final mat[x][y] is equal to the quadrant sum with bottom-right corner being (x, y),
-    // which is again a 2D prefix sum and can be handled inclusion-exclusion too.
+    // which is again a 2D prefix sum and can be handled with inclusion-exclusion too.
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < n; j++) {
         int &res = mat[i][j];
