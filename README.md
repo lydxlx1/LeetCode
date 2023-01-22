@@ -8,6 +8,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 | #  | Title  | Solutions  |
 |----|---|---|
 |2547|[Minimum Cost to Split an Array][lc0087_t]|\[ [2D-DP][lc0087] \]|
+|2546|[Apply Bitwise Operations to Make Strings Equal][lc0088_t]|\[ [Solution][lc0088] \]|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 |2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 |2535|[Difference Between Element Sum and Digit Sum of an Array][lc0086_t]|\[ [Solution][lc0086] \]|
@@ -2296,3 +2297,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0086]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.cpp
 [lc0087_t]:    https://leetcode.com/problems/minimum-cost-to-split-an-array/description/
 [lc0087]:    src/_2547_Minimum_Cost_to_Split_an_Array.cpp
+[lc0088_t]:    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/description/
+[lc0088]:    src/_2546_Apply_Bitwise_Operations_to_Make_Strings_Equal.cpp
