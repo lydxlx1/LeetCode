@@ -11,6 +11,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |2546|[Apply Bitwise Operations to Make Strings Equal][lc0088_t]|\[ [Solution][lc0088] \]|
 |2545|[Sort the Students by Their Kth Score][lc0089_t]|\[ [1-Liner][lc0089] \]|
 |2544|[Alternating Digit Sum][lc0090_t]|\[ [Solution][lc0090] \]|
+|2543|[Check if Point Is Reachable][lc0092_t]|\[ [Number Theory][lc0092] \]|
 |2542|[Maximum Subsequence Score][lc0091_t]|\[ [Sorting + PriorityQueue][lc0091] \]|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 |2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
@@ -2308,3 +2309,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0090]:    src/_2544_Alternating_Digit_Sum.cpp
 [lc0091_t]:    https://leetcode.com/problems/maximum-subsequence-score/description/
 [lc0091]:    src/_2542_Maximum_Subsequence_Score.cpp
+[lc0092_t]:    https://leetcode.com/problems/check-if-point-is-reachable/description/
+[lc0092]:    src/_2543_Check_if_Point_Is_Reachable.cpp
