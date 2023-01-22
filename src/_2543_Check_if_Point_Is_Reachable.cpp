@@ -1,7 +1,7 @@
 /**
  * LeetCode 2543 - Check if Point Is Reachable
  *
- * Math
+ * Math (Number Theory)
  *
  * Conclusion: (1, 1) can be transformed to (x, y) if and only
  * gcd(x, y) is a power of 2.
