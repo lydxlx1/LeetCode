@@ -11,6 +11,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |2546|[Apply Bitwise Operations to Make Strings Equal][lc0088_t]|\[ [Solution][lc0088] \]|
 |2545|[Sort the Students by Their Kth Score][lc0089_t]|\[ [1-Liner][lc0089] \]|
 |2544|[Alternating Digit Sum][lc0090_t]|\[ [Solution][lc0090] \]|
+|2542|[Maximum Subsequence Score][lc0091_t]|\[ [Sorting + PriorityQueue][lc0091] \]|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 |2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 |2535|[Difference Between Element Sum and Digit Sum of an Array][lc0086_t]|\[ [Solution][lc0086] \]|
@@ -2305,3 +2306,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0089]:    src/_2545_Sort_the_Students_by_Their_Kth_Score.py
 [lc0090_t]:    https://leetcode.com/problems/alternating-digit-sum/solutions/
 [lc0090]:    src/_2544_Alternating_Digit_Sum.cpp
+[lc0091_t]:    https://leetcode.com/problems/maximum-subsequence-score/description/
+[lc0091]:    src/_2542_Maximum_Subsequence_Score.cpp
