@@ -7,6 +7,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|2547|[Minimum Cost to Split an Array][lc0087_t]|\[ [2D-DP][lc0087] \]|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 |2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 |2535|[Difference Between Element Sum and Digit Sum of an Array][lc0086_t]|\[ [Solution][lc0086] \]|
@@ -2293,3 +2294,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0085]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2536%20Increment%20Submatrices%20by%20One.cpp
 [lc0086_t]:    https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/
 [lc0086]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_2535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.cpp
+[lc0087_t]:    https://leetcode.com/problems/minimum-cost-to-split-an-array/description/
+[lc0087]:    src/_2547_Minimum_Cost_to_Split_an_Array.cpp
