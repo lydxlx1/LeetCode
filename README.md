@@ -13,6 +13,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |2544|[Alternating Digit Sum][lc0090_t]|\[ [Solution][lc0090] \]|
 |2543|[Check if Point Is Reachable][lc0092_t]|\[ [Number Theory][lc0092] \]|
 |2542|[Maximum Subsequence Score][lc0091_t]|\[ [Sorting + PriorityQueue][lc0091] \]|
+|2540|[Minimum Common Value][lc0093_t]|\[ [Solution][lc0093] \]|
 |2537|[Count the Number of Good Subarrays][lc0084_t]|\[ [Sliding-window][lc0084] \]|
 |2536|[Increment Submatrices by One][lc0085_t]|\[ [2D Prefix Sum][lc0085] \]|
 |2535|[Difference Between Element Sum and Digit Sum of an Array][lc0086_t]|\[ [Solution][lc0086] \]|
@@ -2311,3 +2312,5 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0091]:    src/_2542_Maximum_Subsequence_Score.cpp
 [lc0092_t]:    https://leetcode.com/problems/check-if-point-is-reachable/description/
 [lc0092]:    src/_2543_Check_if_Point_Is_Reachable.cpp
+[lc0093_t]:    https://leetcode.com/problems/minimum-common-value/description/
+[lc0093]:    src/_2540_Minimum_Common_Value.py
