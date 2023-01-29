@@ -22,7 +22,7 @@ And then find the smallest / largest k - 1 elements from it.
 Time complexity: O(n log n)
 Space complexity: O(n)
 
-Note that, it's always possible to further optimize the runtime to O(n) by using
+Note that, it's also possible to further optimize the runtime to O(n) by using
 linear-time selection algorithm, but it's not necessary in practice.
 """
 class Solution:
