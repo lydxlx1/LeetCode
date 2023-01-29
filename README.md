@@ -10,7 +10,7 @@ I will keep updating the list and feel free to share any of your thoughts!
 |2552|[Count Increasing Quadruplets][lc0094_t]|\[ [Counting + BIT][lc0094] \]|
 |2551|[Put Marbles in Bags][lc0095_t]|\[ [Sorting][lc0095] \]|
 |2550|[Count Collisions of Monkeys on a Polygon][lc0096_t]|\[ [Quick Power][lc0096] \]|
-|2549|[Count Distinct Numbers on Board][lc0097_t]|\[ [Simulation][lc0097] \]|
+|2549|[Count Distinct Numbers on Board][lc0097_t]|\[ [Simulation][lc0097] \| [1-Liner Math][lc0097_1]\]|
 |2547|[Minimum Cost to Split an Array][lc0087_t]|\[ [2D-DP][lc0087] \]|
 |2546|[Apply Bitwise Operations to Make Strings Equal][lc0088_t]|\[ [Solution][lc0088] \]|
 |2545|[Sort the Students by Their Kth Score][lc0089_t]|\[ [1-Liner][lc0089] \]|
@@ -2326,3 +2326,4 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0096]:    src/_2550.py
 [lc0097_t]:    https://leetcode.com/problems/count-distinct-numbers-on-board/description/
 [lc0097]:    src/_2549.py
+[lc0097_1]:    src/_2549_1.py
