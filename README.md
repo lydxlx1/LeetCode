@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|2561|[Rearranging Fruits][lc0105_t]|\[ [Greedy][lc0105] \]|
+|2560|[House Robber IV][lc0104_t]|\[ [Bisect][lc0104] \]|
+|2559|[Count Vowel Strings in Ranges][lc0103_t]|\[ [Prefix-Sum][lc0103] \]|
+|2558|[Take Gifts From the Richest Pile][lc0102_t]|\[ [Simulation][lc0102] \]|
 |2556|[Disconnect Path in a Binary Matrix by at Most One Flip][lc0101_t]|\[ [DP][lc0101] \]|
 |2555|[Maximize Win From Two Segments][lc0100_t]|\[ [Sliding-window][lc0100] \]|
 |2554|[Maximum Number of Integers to Choose From a Range I][lc0099_t]|\[ [Simulation][lc0099] \]|
@@ -2338,3 +2342,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0100]:    src/_2555.cpp
 [lc0101_t]:    https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/
 [lc0101]:    src/_2556.cpp
+[lc0102_t]:    https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+[lc0102]:    src/_2558.py
+[lc0103_t]:    https://leetcode.com/problems/count-vowel-strings-in-ranges/
+[lc0103]:    src/_2559.cpp
+[lc0104_t]:    https://leetcode.com/problems/house-robber-iv/
+[lc0104]:    src/_2560.cpp
+[lc0105_t]:    https://leetcode.com/problems/rearranging-fruits/
+[lc0105]:    src/_2561.py
