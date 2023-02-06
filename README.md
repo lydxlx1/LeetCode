@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|2556|[Disconnect Path in a Binary Matrix by at Most One Flip][lc0101_t]|\[ [DP][lc0101] \]|
+|2555|[Maximize Win From Two Segments][lc0100_t]|\[ [Sliding-window][lc0100] \]|
+|2554|[Maximum Number of Integers to Choose From a Range I][lc0099_t]|\[ [Simulation][lc0099] \]|
+|2553|[Separate the Digits in an Array][lc0098_t]|\[ [1-Liner][lc0098] \]|
 |2552|[Count Increasing Quadruplets][lc0094_t]|\[ [Counting + BIT][lc0094] \]|
 |2551|[Put Marbles in Bags][lc0095_t]|\[ [Sorting][lc0095] \]|
 |2550|[Count Collisions of Monkeys on a Polygon][lc0096_t]|\[ [Quick Power][lc0096] \]|
@@ -2326,3 +2330,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0097_t]:    https://leetcode.com/problems/count-distinct-numbers-on-board/description/
 [lc0097]:    src/_2549.py
 [lc0097_1]:    src/_2549_1.py
+[lc0098_t]:    https://leetcode.com/problems/separate-the-digits-in-an-array/
+[lc0098]:    src/_2553.py
+[lc0099_t]:    https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/
+[lc0099]:    src/_2554.cpp
+[lc0100_t]:    https://leetcode.com/problems/maximize-win-from-two-segments/description/
+[lc0100]:    src/_2555.cpp
+[lc0101_t]:    https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/
+[lc0101]:    src/_2556.cpp
