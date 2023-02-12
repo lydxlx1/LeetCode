@@ -6,6 +6,10 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+|2565|[Subsequence With the Minimum Score][lc0106_t]|\[ [Greedy + DP][lc0106] \]|
+|2564|[Substring XOR Queries][lc0107_t]|\[ [Hashmap][lc0107] \]|
+|2563|[Count the Number of Fair Pairs][lc0108_t]|\[ [TreeSet + 2-sum][lc0108] \]|
+|2562|[Find the Array Concatenation Value][lc0109_t]|\[ [Simulation][lc0109] \]|
 |2561|[Rearranging Fruits][lc0105_t]|\[ [Greedy][lc0105] \]|
 |2560|[House Robber IV][lc0104_t]|\[ [Bisect][lc0104] \]|
 |2559|[Count Vowel Strings in Ranges][lc0103_t]|\[ [Prefix-Sum][lc0103] \]|
@@ -2350,3 +2354,11 @@ I will keep updating the list and feel free to share any of your thoughts!
 [lc0104]:    src/_2560.cpp
 [lc0105_t]:    https://leetcode.com/problems/rearranging-fruits/
 [lc0105]:    src/_2561.py
+[lc0106_t]:    https://leetcode.com/problems/subsequence-with-the-minimum-score/description/
+[lc0106]:    src/_2565.py
+[lc0107_t]:    https://leetcode.com/problems/substring-xor-queries/description/
+[lc0107]:    src/_2564.py
+[lc0108_t]:    https://leetcode.com/problems/count-the-number-of-fair-pairs/description/
+[lc0108]:    src/_2563.py
+[lc0109_t]:    https://leetcode.com/problems/find-the-array-concatenation-value/description/
+[lc0109]:    src/_2562.py
