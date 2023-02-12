@@ -44,6 +44,6 @@ class Solution:
             # At this moment, we must match t[ptr_t]
             while ptr_s < len(s) and s[ptr_s] != t[ptr_t]:
                 ptr_s += 1
-            ptr_s += 1  # Matching this element
+            ptr_s += 1  # Matching this element, or ptr_s is already overflow and such element doesn't exist.
 
         return ans
